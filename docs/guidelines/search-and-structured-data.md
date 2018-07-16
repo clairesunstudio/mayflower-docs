@@ -145,18 +145,18 @@ If you don't want to include PageMap data in the HTML of your pages, you can add
       </PageMap>
    </url>
    <url>
-      <loc>https://mass.gov/page/example-two.pdf</loc> 
-      <lastmod>2018-06-16T01:38Z</lastmod> 
-      <changefreq>daily</changefreq> 
-      <PageMap xmlns="http://www.google.com/schemas/sitemap-pagemap/1.0"> 
-         <DataObject type="metatags"> 
+      <loc>https://mass.gov/page/example-two.pdf</loc>
+      <lastmod>2018-06-16T01:38Z</lastmod>
+      <changefreq>daily</changefreq>
+      <PageMap xmlns="http://www.google.com/schemas/sitemap-pagemap/1.0">
+         <DataObject type="metatags">
             <Attribute name="mg_organization">department-of-public-health,department-of-mental-health</Attribute>
             <Attribute name="mg_date">20180430</Attribute>
             <Attribute name="category">news</Attribute>
             <Attribute name="mg_type">press-release</Attribute>
-         </DataObject> 
+         </DataObject>
       </PageMap>
-   </url> 
+   </url>
 </urlset>
 ```
 
@@ -249,4 +249,3 @@ When a user filters content by organization in search.mass.gov, that organizatio
 | Division of Fisheries and Wildlife \(MassWildlife\) | ![](/docs/assets/dfw-organization-display.png) |
 | Massachusetts Registry of Motor Vehicles \(RMV\) | ![](/docs/assets/rmv-organization-display.png) |
 | Office of the Attorney General Maura Healey \(AGO\) | ![](/docs/assets/ago-organization-display.png) |
-
