@@ -17,17 +17,28 @@ Accessibility
 
 Label
 
-## 
-
 ## Button Variations
+
+| **Visual** | **Name** | **Description & Usage** |
+| --- | --- | --- | --- | --- | --- | --- |
+| ![](../../.gitbook/assets/primary-button%20%281%29.gif) | Primary Button | For the principle call to action on the page. |
+| ![Example of Secondary Button](../../.gitbook/assets/secondary-button-outline.gif) | Secondary Button | For the secondary action on a page. |
+| ![Example of Quaternary Button](../../.gitbook/assets/quarternary-button.gif) | Quaternary Button | For the fourth action on a page. |
+|  | Small Primary Button | Use when there is not enough space for a regular button size.  |
+|  | Link Button | Link buttons are used to navigate to another page  |
+|  | Icon Button | When words are not enough, icons can be used in buttons to better communicate what the button does. Icons are always paired with text. |
+
+
+
+## For Developers
 
 ### Primary Button
 
-For the principle call to action on the page.
-
-![Example of Primary Button](../../.gitbook/assets/primary-button.gif)
-
 {% tabs %}
+{% tab title="Visual" %}
+![Example of Primary Button](../../.gitbook/assets/primary-button.gif)
+{% endtab %}
+
 {% tab title="HTML" %}
 ```text
 <button type="button" class="ma__button" aria-label="">Button</button>
@@ -44,8 +55,6 @@ For the principle call to action on the page.
 {% endtabs %}
 
 #### Small Primary Button
-
-Use when there is not enough space for a regular button size. 
 
 {% tabs %}
 {% tab title="HTML" %}
@@ -65,11 +74,11 @@ Use when there is not enough space for a regular button size.
 
 ### Secondary Button
 
-For the secondary action on a page.
-
-![Example of Secondary Button](../../.gitbook/assets/secondary-button-outline.gif)
-
 {% tabs %}
+{% tab title="Visual" %}
+![Example of Secondary Button](../../.gitbook/assets/secondary-button-outline.gif)
+{% endtab %}
+
 {% tab title="HTML" %}
 ```text
 <button type="button" class="ma__button ma__button--small ma__button--secondary ma__button--minor" aria-label="">Button</button>
@@ -85,31 +94,13 @@ For the secondary action on a page.
 {% endtab %}
 {% endtabs %}
 
-#### Small Secondary Button
-
-{% tabs %}
-{% tab title="HTML" %}
-```text
-<button type="button" class="ma__button ma__button--small ma__button--secondary" aria-label="">Button</button>
-```
-{% endtab %}
-
-{% tab title="React" %}
-[Small Secondary Button in Storybook](https://mayflower-react.digital.mass.gov/?knob-button.size=small&knob-button.info=this%20will%20be%20the%20tooltip%20text%20on%20hover&knob-button.text=button&knob-button.href=&knob-button.theme=secondary&selectedKind=atoms%2Fbuttons&selectedStory=Button&full=0&addons=1&stories=1&panelRight=0&addonPanel=storybooks%2Fstorybook-addon-knobs)
-{% endtab %}
-
-{% tab title="Twig PL" %}
-
-{% endtab %}
-{% endtabs %}
-
 ### Quaternary Button
 
-For the fourth action on a page.
-
-![Example of Quaternary Button](../../.gitbook/assets/quarternary-button.gif)
-
 {% tabs %}
+{% tab title="Visual" %}
+![Example of Quaternary Button](../../.gitbook/assets/quarternary-button.gif)
+{% endtab %}
+
 {% tab title="HTML" %}
 ```text
 <button type="button" class="ma__button  ma__button--quaternary " aria-label="">Button</button>
@@ -125,7 +116,11 @@ For the fourth action on a page.
 {% endtab %}
 {% endtabs %}
 
-### Button with Icon
+### Link Button
 
-When words are not enough, icons can be used in buttons to better communicate what the button does. Icons are always paired with text.
+### Icon Button
+
+
+
+
 
