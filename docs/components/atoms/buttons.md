@@ -20,13 +20,14 @@ Label
 ## Button Variations
 
 | **Visual** | **Name** | **Description & Usage** |
-| --- | --- | --- | --- | --- | --- | --- |
-| ![](../../.gitbook/assets/primary-button%20%284%29.gif) | Primary Button | For the principle call to action on the page. |
-| ![Example of Secondary Button](../../.gitbook/assets/secondary-button-outline.gif) | Secondary Button | For the secondary action on a page. |
-| ![Example of Quaternary Button](../../.gitbook/assets/quarternary-button.gif) | Quaternary Button | For the fourth action on a page. |
-|  ![](../../.gitbook/assets/primary-button%20%282%29.gif)  | Small Primary Button | Use when there is not enough space for a regular button size.  |
-|  ![](../../.gitbook/assets/primary-button%20%281%29.gif)  | Link Button | Link buttons are used to navigate to another page  |
-| ![](../../.gitbook/assets/iconbutton%20%282%29.png) | Icon Button | When words are not enough, icons can be used in buttons to better communicate what the button does. Icons are always paired with text. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ![](../../.gitbook/assets/primary-button%20%284%29.gif) | [Primary Button](buttons.md#primary-button) | For the principle call to action on the page. |
+| ![Example of Secondary Button](../../.gitbook/assets/secondary-button-outline.gif) | [Secondary Button](buttons.md#secondary-button) | For the secondary action on a page. |
+| ![Example of Quaternary Button](../../.gitbook/assets/quarternary-button.gif) | [Quaternary Button](buttons.md#quaternary-button) | For the fourth action on a page. |
+|  ![](../../.gitbook/assets/primary-button%20%282%29.gif)  | [Small Button](buttons.md#small-primary-button) | Use when there is not enough space for a regular button size.  |
+| ![](../../.gitbook/assets/outlinebutton%20%282%29.png)  | [Outline Button](buttons.md#outline-primary-button) | A subtle alternative to the default button styling, appropriate for certain backdrops and for displaying active state \(e.g. previous and next\) |
+|  ![](../../.gitbook/assets/primary-button%20%281%29.gif)  | [Link Button](buttons.md#link-button) | Link buttons are used to navigate to another page  |
+| ![](../../.gitbook/assets/iconbutton%20%282%29.png) | [Icon Button](buttons.md#icon-button) | When words are not enough, icons can be used in buttons to better communicate what the button does. Icons are always paired with text. |
 
 
 
@@ -69,6 +70,28 @@ Label
 
 {% tab title="Twig PL" %}
 [Small Primary Button in Pattern Lab](https://mayflower.digital.mass.gov/?p=atoms-button-as-small)
+{% endtab %}
+{% endtabs %}
+
+#### Outline Primary Button
+
+{% tabs %}
+{% tab title="Visual" %}
+![Example of Outline Button](../../.gitbook/assets/outlinebutton%20%281%29.png)
+{% endtab %}
+
+{% tab title="HTML" %}
+```markup
+<button type="button" class="ma__button   ma__button--minor" aria-label="">Button</button>
+```
+{% endtab %}
+
+{% tab title="React" %}
+[Outline Button in Storybook](https://mayflower-react.digital.mass.gov/?knob-button.href=https%3A%2F%2Fmass.gov&knob-button.text=button&knob-button.info=this%20will%20be%20the%20tooltip%20text%20on%20hover&knob-ButtonWithIcon.text=BUTTON&knob-button.outline=true&knob-ButtonWithIcon.icon=chevron&selectedKind=atoms%2Fbuttons&selectedStory=Button&full=0&addons=1&stories=1&panelRight=0&addonPanel=storybooks%2Fstorybook-addon-knobs)
+{% endtab %}
+
+{% tab title="Twig PL" %}
+[Outline Button in Pattern Lab](https://mayflower.digital.mass.gov/?p=atoms-button-as-outline)
 {% endtab %}
 {% endtabs %}
 
