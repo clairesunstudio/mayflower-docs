@@ -11,11 +11,9 @@ description: >-
 
 Buttons are vital for creating a smooth conversational flow on the web, and should be used sparingly. Buttons should adhere to standard web practices, and afford for a target area of 45 pixels. They should also appear slightly raised, and not be completely flat. They have a slight shadow on them so they appear clickable. The small buttons are often used on forms and to set filters on listing pages. The large buttons should be used for primary calls to action. Font sizes reduce slightly on mobile.
 
-### Anatomy
+### Accessibility
 
-Accessibility
-
-Label
+### Labels
 
 ## Button Variations
 
