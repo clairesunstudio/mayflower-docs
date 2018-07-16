@@ -21,7 +21,7 @@ Label
 
 | **Visual** | **Name** | **Description & Usage** |
 | --- | --- | --- | --- | --- | --- | --- |
-| ![](../../.gitbook/assets/primary-button%20%283%29.gif) | Primary Button | For the principle call to action on the page. |
+| ![](../../.gitbook/assets/primary-button%20%284%29.gif) | Primary Button | For the principle call to action on the page. |
 | ![Example of Secondary Button](../../.gitbook/assets/secondary-button-outline.gif) | Secondary Button | For the secondary action on a page. |
 | ![Example of Quaternary Button](../../.gitbook/assets/quarternary-button.gif) | Quaternary Button | For the fourth action on a page. |
 |  ![](../../.gitbook/assets/primary-button%20%282%29.gif)  | Small Primary Button | Use when there is not enough space for a regular button size.  |
@@ -40,7 +40,7 @@ Label
 {% endtab %}
 
 {% tab title="HTML" %}
-```text
+```markup
 <button type="button" class="ma__button" aria-label="">Button</button>
 ```
 {% endtab %}
@@ -58,8 +58,8 @@ Label
 
 {% tabs %}
 {% tab title="HTML" %}
-```text
-<button type="button" class="ma__button ma__button--small  " aria-label="">Button</button>
+```markup
+<button type="button" class="ma__button ma__button--small" aria-label="">Button</button>
 ```
 {% endtab %}
 
@@ -80,7 +80,7 @@ Label
 {% endtab %}
 
 {% tab title="HTML" %}
-```text
+```markup
 <button type="button" class="ma__button ma__button--small ma__button--secondary ma__button--minor" aria-label="">Button</button>
 ```
 {% endtab %}
@@ -102,8 +102,8 @@ Label
 {% endtab %}
 
 {% tab title="HTML" %}
-```text
-<button type="button" class="ma__button  ma__button--quaternary " aria-label="">Button</button>
+```markup
+<button type="button" class="ma__button  ma__button--quaternary" aria-label="">Button</button>
 ```
 {% endtab %}
 
@@ -118,6 +118,26 @@ Label
 
 ### Link Button
 
+{% tabs %}
+{% tab title="Visual" %}
+![Example Link Button](../../.gitbook/assets/primary-button%20%283%29.gif)
+{% endtab %}
+
+{% tab title="HTML" %}
+```markup
+<a href="#" class="ma__button" title="">Button</a>
+```
+{% endtab %}
+
+{% tab title="React" %}
+[Link Button in Storybook](https://mayflower-react.digital.mass.gov/?knob-button.href=https%3A%2F%2Fmass.gov&knob-button.text=button&knob-button.info=this%20will%20be%20the%20tooltip%20text%20on%20hover&knob-ButtonWithIcon.text=BUTTON&knob-ButtonWithIcon.icon=chevron&selectedKind=atoms%2Fbuttons&selectedStory=Button&full=0&addons=1&stories=1&panelRight=0&addonPanel=storybooks%2Fstorybook-addon-knobs)
+{% endtab %}
+
+{% tab title="Twig PL" %}
+[Link Button in Pattern Lab](https://mayflower.digital.mass.gov/?p=atoms-button-as-link)
+{% endtab %}
+{% endtabs %}
+
 ### Icon Button
 
 {% tabs %}
@@ -126,7 +146,7 @@ Label
 {% endtab %}
 
 {% tab title="HTML" %}
-```text
+```markup
 <button class="ma__button-icon ma__icon"><span>BUTTON</span><svg aria-hidden="true" width="20" height="20" viewBox="0 0 59 38" xmlns="http://www.w3.org/2000/svg"><path d="M29.414,37.657 L0.344,8.586 L8.828,0.102 L29.414,20.686 L50,0.1 L58.484,8.585 L29.414,37.657"></path></svg></button>
 ```
 {% endtab %}
