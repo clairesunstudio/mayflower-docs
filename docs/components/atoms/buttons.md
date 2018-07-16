@@ -29,8 +29,6 @@ Label
 |  ![](../../.gitbook/assets/primary-button%20%281%29.gif)  | [Link Button](buttons.md#link-button) | Link buttons are used to navigate to another page  |
 | ![](../../.gitbook/assets/iconbutton%20%282%29.png) | [Icon Button](buttons.md#icon-button) | When words are not enough, icons can be used in buttons to better communicate what the button does. Icons are always paired with text. |
 
-
-
 ## For Developers
 
 ### Primary Button
