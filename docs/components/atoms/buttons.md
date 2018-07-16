@@ -21,12 +21,12 @@ Label
 
 | **Visual** | **Name** | **Description & Usage** |
 | --- | --- | --- | --- | --- | --- | --- |
-| ![](../../.gitbook/assets/primary-button%20%281%29.gif) | Primary Button | For the principle call to action on the page. |
+| ![](../../.gitbook/assets/primary-button%20%283%29.gif) | Primary Button | For the principle call to action on the page. |
 | ![Example of Secondary Button](../../.gitbook/assets/secondary-button-outline.gif) | Secondary Button | For the secondary action on a page. |
 | ![Example of Quaternary Button](../../.gitbook/assets/quarternary-button.gif) | Quaternary Button | For the fourth action on a page. |
-|  | Small Primary Button | Use when there is not enough space for a regular button size.  |
-|  | Link Button | Link buttons are used to navigate to another page  |
-|  | Icon Button | When words are not enough, icons can be used in buttons to better communicate what the button does. Icons are always paired with text. |
+|  ![](../../.gitbook/assets/primary-button%20%282%29.gif)  | Small Primary Button | Use when there is not enough space for a regular button size.  |
+|  ![](../../.gitbook/assets/primary-button%20%281%29.gif)  | Link Button | Link buttons are used to navigate to another page  |
+| ![](../../.gitbook/assets/iconbutton%20%282%29.png) | Icon Button | When words are not enough, icons can be used in buttons to better communicate what the button does. Icons are always paired with text. |
 
 
 
@@ -120,7 +120,25 @@ Label
 
 ### Icon Button
 
+{% tabs %}
+{% tab title="Visual" %}
+![Example of Icon Button](../../.gitbook/assets/iconbutton.png)
+{% endtab %}
 
+{% tab title="HTML" %}
+```text
+<button class="ma__button-icon ma__icon-small"><span>BUTTON</span><svg aria-hidden="true" width="20" height="20" viewBox="0 0 59 38" xmlns="http://www.w3.org/2000/svg"><path d="M29.414,37.657 L0.344,8.586 L8.828,0.102 L29.414,20.686 L50,0.1 L58.484,8.585 L29.414,37.657"></path></svg></button>
+```
+{% endtab %}
+
+{% tab title="React" %}
+[Icon Button in Storybook](https://mayflower-react.digital.mass.gov/?knob-ButtonWithIcon.canExpand=true&knob-button.href=&knob-button.text=button&knob-ButtonWithIcon.capitalized=true&knob-button.info=this%20will%20be%20the%20tooltip%20text%20on%20hover&knob-ButtonWithIcon.text=BUTTON&knob-ButtonWithIcon.icon=chevron&knob-ButtonWithIcon.expanded=true&selectedKind=atoms%2Fbuttons&selectedStory=ButtonWithIcon&full=0&addons=1&stories=1&panelRight=0&addonPanel=storybooks%2Fstorybook-addon-knobs)
+{% endtab %}
+
+{% tab title="Twig PL" %}
+Not Available
+{% endtab %}
+{% endtabs %}
 
 
 
