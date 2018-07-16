@@ -19,12 +19,12 @@ Buttons are vital for creating a smooth conversational flow on the web, and shou
 
 | **Visual** | **Name** | **Description & Usage** |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ![](../../.gitbook/assets/primary-button%20%284%29.gif) | [Primary Button](buttons.md#primary-button) | For the principle call to action on the page. |
-| ![Example of Secondary Button](../../.gitbook/assets/secondary-button-outline.gif) | [Secondary Button](buttons.md#secondary-button) | For the secondary action on a page. |
-| ![Example of Quaternary Button](../../.gitbook/assets/quarternary-button.gif) | [Quaternary Button](buttons.md#quaternary-button) | For the fourth action on a page. |
-|  ![](../../.gitbook/assets/primary-button%20%282%29.gif)  | [Small Button](buttons.md#small-primary-button) | Use when there is not enough space for a regular button size.  |
+| ![](../../.gitbook/assets/primarybutton%20%281%29.png) | [Primary Button](buttons.md#primary-button) | For the principle call to action on the page. |
+| ![Example of Secondary Button](../../.gitbook/assets/secondarybutton.png) | [Secondary Button](buttons.md#secondary-button) | For the secondary action on a page. |
+| ![Example of Quaternary Button](../../.gitbook/assets/capture_01-atoms-01-buttons-button-as-quaternary-color_0_document_0_phone%20%281%29.png) | [Quaternary Button](buttons.md#quaternary-button) | For the fourth action on a page. |
+| ![](../../.gitbook/assets/primarybutton.png)  | [Small Button](buttons.md#small-primary-button) | Use when there is not enough space for a regular button size.  |
 | ![](../../.gitbook/assets/outlinebutton%20%282%29.png)  | [Outline Button](buttons.md#outline-primary-button) | A subtle alternative to the default button styling, appropriate for certain backdrops and for displaying active state \(e.g. previous and next\) |
-|  ![](../../.gitbook/assets/primary-button%20%281%29.gif)  | [Link Button](buttons.md#link-button) | Link buttons are used to navigate to another page  |
+| ![](../../.gitbook/assets/primarybutton%20%282%29.png)  | [Link Button](buttons.md#link-button) | Link buttons are used to navigate to another page  |
 | ![](../../.gitbook/assets/iconbutton%20%282%29.png) | [Icon Button](buttons.md#icon-button) | When words are not enough, icons can be used in buttons to better communicate what the button does. Icons are always paired with text. |
 
 ## For Developers
@@ -78,7 +78,7 @@ Buttons are vital for creating a smooth conversational flow on the web, and shou
 
 {% tab title="HTML" %}
 ```markup
-<button type="button" class="ma__button   ma__button--minor" aria-label="">Button</button>
+<button type="button" class="ma__button ma__button--minor" aria-label="">Button</button>
 ```
 {% endtab %}
 
