@@ -13,9 +13,7 @@ Buttons are vital for creating a smooth conversational flow on the web, and shou
 
 ### Accessibility
 
-### Labels
-
-## Button Variations
+### Button Variations
 
 | **Visual** | **Name** | **Description & Usage** |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -27,7 +25,7 @@ Buttons are vital for creating a smooth conversational flow on the web, and shou
 | ![](../../.gitbook/assets/primarybutton%20%282%29.png)  | [Link Button](buttons.md#link-button) | Link buttons are used to navigate to another page  |
 | ![](../../.gitbook/assets/iconbutton%20%282%29.png) | [Icon Button](buttons.md#icon-button) | When words are not enough, icons can be used in buttons to better communicate what the button does. Icons are always paired with text. |
 
-## For Developers
+## Code
 
 ### Primary Button
 
@@ -178,6 +176,8 @@ Buttons are vital for creating a smooth conversational flow on the web, and shou
 Not Available
 {% endtab %}
 {% endtabs %}
+
+## Style
 
 
 
