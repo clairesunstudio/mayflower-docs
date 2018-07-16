@@ -16,7 +16,7 @@ Buttons are vital for creating a smooth conversational flow on the web, and shou
 ### Button Variations
 
 | **Visual** | **Name** | **Description & Usage** |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ![](../../.gitbook/assets/primarybutton%20%281%29.png) | [Primary Button](buttons.md#primary-button) | For the principle call to action on the page. |
 | ![Example of Secondary Button](../../.gitbook/assets/secondarybutton.png) | [Secondary Button](buttons.md#secondary-button) | For the secondary action on a page. |
 | ![Example of Quaternary Button](../../.gitbook/assets/capture_01-atoms-01-buttons-button-as-quaternary-color_0_document_0_phone%20%281%29.png) | [Quaternary Button](buttons.md#quaternary-button) | For the fourth action on a page. |
@@ -24,6 +24,7 @@ Buttons are vital for creating a smooth conversational flow on the web, and shou
 | ![](../../.gitbook/assets/outlinebutton%20%282%29.png)  | [Outline Button](buttons.md#outline-primary-button) | A subtle alternative to the default button styling, appropriate for certain backdrops and for displaying active state \(e.g. previous and next\) |
 | ![](../../.gitbook/assets/primarybutton%20%282%29.png)  | [Link Button](buttons.md#link-button) | Link buttons are used to navigate to another page  |
 | ![](../../.gitbook/assets/iconbutton%20%282%29.png) | [Icon Button](buttons.md#icon-button) | When words are not enough, icons can be used in buttons to better communicate what the button does. Icons are always paired with text. |
+|  | [Search Button](buttons.md#search-button) |  |
 
 ## Code
 
@@ -176,6 +177,8 @@ Buttons are vital for creating a smooth conversational flow on the web, and shou
 Not Available
 {% endtab %}
 {% endtabs %}
+
+#### Search Button
 
 ## Style
 
