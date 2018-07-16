@@ -17,3 +17,33 @@
 Fontspring grants Licensee a perpetual, worldwide, non-exclusive and non-transferrable license to install the Texta as webfont **on Websites that are owned by the Commonwealth of Massachusetts** using the @font-face selector in CSS files. For other usage, you may have to acquire an additional license through Fontsprint.
 
 For more details about Texta's terms of use, please refer to our [**web font license**](https://www.fontspring.com/lic/htswufoczd).
+
+### Montserrat
+
+We also hand picked a free web front — [**Montserrat — from Google fonts**](https://fonts.google.com/specimen/Montserrat) for applications using our open source design system Mayflower at no additional cost.
+
+![&quot;Mass.gov&quot; displaying in Montserrat](/docs/assets/montserrat-massgov.png)
+
+![&quot;MA&quot; displaying in Montserrat](/docs/assets/montserrat-ma.png)
+
+#### Usage
+
+{% tabs %}
+{% tab title="Link in HTML" %}
+```css
+<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+
+// Set font-family in CSS
+font-family: 'Montserrat', sans-serif;
+```
+{% endtab %}
+
+{% tab title="@Import in CSS" %}
+```css
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+// Set font-family in CSS
+font-family: 'Montserrat', sans-serif;
+```
+{% endtab %}
+{% endtabs %}
