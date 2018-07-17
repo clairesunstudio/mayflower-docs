@@ -4,15 +4,15 @@
 
 Headings are used as the titles of each major section of a page in the interface.
 
-### Heading Variations
+### Heading Types
 
-#### Heading Levels
+#### Heading Level Variations
 
 | **Visual** | **Name** | **Description & Usage** |
 | --- | --- |
 |  ![](../../.gitbook/assets/headinglevel6.png)  | [Heading Levels 1-6](headings.md#heading-levels-1-6) |  |
 
-#### Colored Heading
+#### Colored Heading Variations
 
 | **Visual** | **Name** | **Description & Usage** |
 | --- | --- | --- | --- |
@@ -20,21 +20,21 @@ Headings are used as the titles of each major section of a page in the interface
 | ![](https://lh6.googleusercontent.com/1uG0E380Va1vRFieJc8zYfVgJfklSb5-ZILBCXjLOOg3cklWc3Ihzvp3XlIGozS4cDkm7tAtAeZKl6yo5NmR_sBdHvhXx4SkpZdPv1Coc9IfQEnfekfNdH_-GAII87A_SuYxuCSc) | [Colored Heading](headings.md#colored-heading) | Should only be used in the right rail when there is a green colored navigational heading in the 2/3rds main content well.   |
 | ![](https://lh3.googleusercontent.com/oWlfPM661LO-4F89i5_glUmDJjk0tp4snSYgxzno2Gbafqg1MUtJHl53MIgWECiceHTZYKLX-Y5dNtV85kM5VJ_nLTKkPszbmM54Edy8qaa8zqPRcqTzbcQ4-o8g7xqV1b-RJ4r5) | [Blue Colored Heading](headings.md#blue-colored-heading) | This heading style is used as an action finder. |
 
-#### Component Heading
+#### Component Heading Variations
 
 | **Visual** | **Name** | **Description & Usage** |
 | --- | --- |
 | ![](../../.gitbook/assets/componentheading.png) | [Component Heading](headings.md#component-heading) |  |
 
-#### Column Heading
+#### Column Heading Variations
 
-| **Visual** | Name | Description & Usage |
+| **Visual** | **Name** | **Description & Usage** |
 | --- | --- |
 | ![](../../.gitbook/assets/columnheading.png) | [Column Heading](headings.md#column-heading) |  |
 
-#### Sidebar Heading
+#### Sidebar Heading Variations
 
-| Visual | Name | Description & Usage |
+| **Visual** | **Name** | **Description & Usage** |
 | --- | --- |
 | ![](../../.gitbook/assets/sidebarheading.png)  | [Sidebar Heading](headings.md#sidebar-heading) | Should be used as a subheading in the main content well in a 50/50 split. |
 
