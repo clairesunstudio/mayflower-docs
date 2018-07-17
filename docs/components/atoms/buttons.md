@@ -129,7 +129,7 @@ Buttons are vital for creating a smooth conversational flow on the web, and shou
 
 {% tab title="HTML" %}
 ```markup
-<button type="button" class="ma__button  ma__button--quaternary" aria-label="">
+<button type="button" class="ma__button ma__button--quaternary" aria-label="">
   Button
 </button>
 ```
@@ -216,5 +216,13 @@ Not Available
 
 ## Style
 
-### 
+| **Name** | **Scss Modifiers** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Primary Button | .ma\_\_button |
+| Small Button | .ma\_\_button--small |
+| Outline Button | .ma\_\_button--minor |
+| Secondary Button | .ma\_\_button--secondary |
+| Quaternary Button | .ma\_\_button--quaternary |
+| Icon Button | .ma\_\_button--icon |
+| Search Button | .ma\_\_button--search |
 
