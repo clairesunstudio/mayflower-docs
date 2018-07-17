@@ -216,7 +216,9 @@ Not Available
 
 ## Style
 
-| **Name** | **Scss Modifiers** |
+### Classnames
+
+| **Name** | **scss Modifier** |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Primary Button | .ma\_\_button |
 | Small Button | .ma\_\_button--small |
