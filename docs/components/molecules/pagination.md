@@ -2,7 +2,19 @@
 
 ## Overview
 
+Pagination is used to aid users when navigating between a large number of items and should be leverage when there are too many items to show at once. This will be most useful in things like table listings, search results, and directories. What constitutes 'too many' can be influenced by factors like:
+
+* Load time
+* Amount of data in each entry
+* Screen space
+
 ![](../../.gitbook/assets/pagination.png)
+
+The pagination molecule includes:
+
+* **Previous & Next Buttons**: Allows users to move forward and backwards through a set of items.
+* **Pages**: Allows users to navigate to a specific page.
+* **Spacers**: Spacers are used to truncate between pages, if numerous.
 
 ### Accessibility & Best Practices
 
