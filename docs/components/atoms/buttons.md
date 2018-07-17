@@ -37,7 +37,9 @@ Buttons are vital for creating a smooth conversational flow on the web, and shou
 
 {% tab title="HTML" %}
 ```markup
-<button type="button" class="ma__button" aria-label="">Button</button>
+<button type="button" class="ma__button" aria-label="">
+  Button
+</button>
 ```
 {% endtab %}
 
@@ -55,7 +57,9 @@ Buttons are vital for creating a smooth conversational flow on the web, and shou
 {% tabs %}
 {% tab title="HTML" %}
 ```markup
-<button type="button" class="ma__button ma__button--small" aria-label="">Button</button>
+<button type="button" class="ma__button ma__button--small" aria-label="">
+  Button
+</button>
 ```
 {% endtab %}
 
@@ -77,7 +81,9 @@ Buttons are vital for creating a smooth conversational flow on the web, and shou
 
 {% tab title="HTML" %}
 ```markup
-<button type="button" class="ma__button ma__button--minor" aria-label="">Button</button>
+<button type="button" class="ma__button ma__button--minor" aria-label="">
+  Button
+</button>
 ```
 {% endtab %}
 
@@ -99,7 +105,9 @@ Buttons are vital for creating a smooth conversational flow on the web, and shou
 
 {% tab title="HTML" %}
 ```markup
-<button type="button" class="ma__button ma__button--small ma__button--secondary ma__button--minor" aria-label="">Button</button>
+<button type="button" class="ma__button ma__button--small ma__button--secondary ma__button--minor" aria-label="">
+  Button
+</button>
 ```
 {% endtab %}
 
@@ -121,7 +129,9 @@ Buttons are vital for creating a smooth conversational flow on the web, and shou
 
 {% tab title="HTML" %}
 ```markup
-<button type="button" class="ma__button  ma__button--quaternary" aria-label="">Button</button>
+<button type="button" class="ma__button  ma__button--quaternary" aria-label="">
+  Button
+</button>
 ```
 {% endtab %}
 
@@ -143,7 +153,9 @@ Buttons are vital for creating a smooth conversational flow on the web, and shou
 
 {% tab title="HTML" %}
 ```markup
-<a href="#" class="ma__button" title="">Button</a>
+<a href="#" class="ma__button" title="">
+  Button
+</a>
 ```
 {% endtab %}
 
@@ -165,7 +177,10 @@ Buttons are vital for creating a smooth conversational flow on the web, and shou
 
 {% tab title="HTML" %}
 ```markup
-<button class="ma__button-icon ma__icon"><span>BUTTON</span><svg aria-hidden="true" width="20" height="20" viewBox="0 0 59 38" xmlns="http://www.w3.org/2000/svg"><path d="M29.414,37.657 L0.344,8.586 L8.828,0.102 L29.414,20.686 L50,0.1 L58.484,8.585 L29.414,37.657"></path></svg></button>
+<button class="ma__button-icon ma__icon">
+  <span>BUTTON</span>
+  <svg aria-hidden="true" width="20" height="20" viewBox="0 0 59 38" xmlns="http://www.w3.org/2000/svg"><path d="M29.414,37.657 L0.344,8.586 L8.828,0.102 L29.414,20.686 L50,0.1 L58.484,8.585 L29.414,37.657"></path></svg>
+</button>
 ```
 {% endtab %}
 
