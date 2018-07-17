@@ -2,7 +2,7 @@
 
 ## Overview
 
-Tables show tabular data in columns and rows. Use tables to logically structure content in a grid to make it easier to see relationships and to facilitate understanding. 
+Tables should only be used to present raw data sets, to make content easy to scan and compare. If used for non-tabular data, this will not adhere to accessibility guidelines. A good example of using a table is to display fee data. Tables outside of rich text editors are responsive, and at smaller screen sizes, the columns and rows stack, turning into a list. Rich text tables have overflow turned on and will scroll on smaller screens.
 
 ![](../../.gitbook/assets/table.png)
 
