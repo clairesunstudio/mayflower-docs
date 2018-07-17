@@ -6,7 +6,7 @@ Tables show tabular data in columns and rows. Use tables to logically structure 
 
 ![](../../.gitbook/assets/table.png)
 
-### Accessibility
+### Accessibility & Best Practices
 
 ## Code
 
@@ -75,6 +75,8 @@ Tables show tabular data in columns and rows. Use tables to logically structure 
 {% endtabs %}
 
 ## Style
+
+### Classnames
 
 | **Name** | **scss Modifier** |
 | --- | --- | --- |

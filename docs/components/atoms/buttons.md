@@ -24,7 +24,7 @@ Buttons are vital for creating a smooth conversational flow on the web, and shou
 | ![](../../.gitbook/assets/iconbutton%20%282%29.png) | [Icon Button](buttons.md#icon-button) | When words are not enough, icons can be used in buttons to better communicate what the button does. Icons are always paired with text. |
 |  ![](../../.gitbook/assets/searchbutton.png)  | [Search Button](buttons.md#search-button) | The search button is included in the search bar, It is a submit button for the form to reduce the number of keystrokes required to use the form. The magnifying glass is universally recognized by users as an indicator of search, and doesn’t need to be visually paired with the word "Search" as long as it remains for screen readers. |
 
-### Accessibility
+### Accessibility & Best Practices
 
 ## Code
 
