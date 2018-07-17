@@ -2,12 +2,14 @@
 
 ## Overview
 
+Links are used to embed actions or pathways to more information in a sentence or on a page.
+
 ### Link Variations
 
 | **Visual** | **Name** | **Description & Usage** |
 | --- | --- | --- | --- |
-|  | [Link](links.md#link) |  |
-|  | [Decorative Link](links.md#decorative-link) |  |
+| ![](../../.gitbook/assets/link.png)  | [Link](links.md#link) | Use when you are linking just a few words of text or when you are doing inline links. |
+| ![](../../.gitbook/assets/decorativelink.png)  | [Decorative Link](links.md#decorative-link) | Used for standalone links that require more emphasis. |
 | ![](../../.gitbook/assets/primarybutton.png)  | Link Button | Refer to [Link Button](buttons.md#link-button) in the [Buttons](buttons.md) section. |
 
 ### Accessibility & Best Practices
