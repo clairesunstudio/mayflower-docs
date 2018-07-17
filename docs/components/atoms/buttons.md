@@ -24,7 +24,7 @@ Buttons are vital for creating a smooth conversational flow on the web, and shou
 | ![](../../.gitbook/assets/outlinebutton%20%282%29.png)  | [Outline Button](buttons.md#outline-primary-button) | A subtle alternative to the default button styling, appropriate for certain backdrops and for displaying active state \(e.g. previous and next\) |
 | ![](../../.gitbook/assets/primarybutton%20%282%29.png)  | [Link Button](buttons.md#link-button) | Link buttons are used to navigate to another page  |
 | ![](../../.gitbook/assets/iconbutton%20%282%29.png) | [Icon Button](buttons.md#icon-button) | When words are not enough, icons can be used in buttons to better communicate what the button does. Icons are always paired with text. |
-|  | [Search Button](buttons.md#search-button) |  |
+|  ![](../../.gitbook/assets/searchbutton.png)  | [Search Button](buttons.md#search-button) | The search button is included in the search bar, It is a submit button for the form to reduce the number of keystrokes required to use the form. The magnifying glass is universally recognized by users as an indicator of search, and doesn’t need to be visually paired with the word "Search" as long as it remains for screen readers. |
 
 ## Code
 
@@ -179,6 +179,25 @@ Not Available
 {% endtabs %}
 
 #### Search Button
+
+{% tabs %}
+{% tab title="HTML" %}
+```markup
+<button type="submit" class="ma__button-search">
+  <span>Search</span>
+  <svg aria-hidden="true"><use xlink:href="#bfc92151769435abdd9eb852cabede0f.0"></use></svg><svg xmlns="http://www.w3.org/2000/svg" style="display: none"><symbol xmlns="http://www.w3.org/2000/svg" aria-hidden="true" version="1.1" viewBox="0 0 20 20" id="bfc92151769435abdd9eb852cabede0f.0"><path d="M1424.99 107.4L1419.66 102.105C1420.44 100.884 1420.89 99.4383 1420.89 97.8892C1420.89 93.54 1417.3300000000002 90 1412.95 90C1408.57 90 1405.01 93.54 1405.01 97.89C1405.01 102.241 1408.57 105.781 1412.95 105.781C1414.43 105.781 1415.82 105.375 1417.01 104.67L1422.3799999999999 110ZM1407.97 97.89C1407.97 95.1625 1410.2 92.9416 1412.95 92.9416C1415.7 92.9416 1417.93 95.1617 1417.93 97.89C1417.93 100.619 1415.7 102.839 1412.95 102.839C1410.2 102.839 1407.97 100.619 1407.97 97.89Z " transform="matrix(1,0,0,1,-1405,-90)"/></symbol></svg>
+</button>
+```
+{% endtab %}
+
+{% tab title="React" %}
+[Search Button In Storybook](https://mayflower-react.digital.mass.gov/?knob-ButtonSearch.text=Search&knob-ButtonSearch.ariaLabel=Search&knob-button.href=https%3A%2F%2Fmass.gov&knob-button.text=button&knob-button.info=this%20will%20be%20the%20tooltip%20text%20on%20hover&knob-ButtonWithIcon.text=BUTTON&knob-button.outline=true&knob-ButtonWithIcon.icon=chevron&selectedKind=atoms%2Fbuttons&selectedStory=ButtonSearch&full=0&addons=1&stories=1&panelRight=0&addonPanel=storybooks%2Fstorybook-addon-knobs)
+{% endtab %}
+
+{% tab title="Twig PL" %}
+[Search Button in Pattern Lab](https://mayflower.digital.mass.gov/?p=atoms-button-search)
+{% endtab %}
+{% endtabs %}
 
 ## Style
 
