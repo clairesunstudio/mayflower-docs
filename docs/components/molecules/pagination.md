@@ -12,9 +12,9 @@ Pagination is used to aid users when navigating between a large number of items 
 
 The pagination molecule includes:
 
-* **Previous & Next Buttons**: Allows users to move forward and backwards through a set of items.
-* **Pages**: Allows users to navigate to a specific page.
-* **Spacers**: Spacers are used to truncate between pages, if numerous.
+* **Previous & Next Buttons**: Allow users to move forwards and backwards through a set of items/pages.
+* **Pages**: Allow users to navigate to a specific page.
+* **Spacers**: Spacer are used to truncate between pages, if numerous.
 
 ### Accessibility & Best Practices
 
