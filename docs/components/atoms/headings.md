@@ -11,7 +11,7 @@ Headings are used as the titles of each major section of a page in the interface
 | ![](https://lh4.googleusercontent.com/LtmTRB6jQ38Zhp92_ete7b3HzmIx4_TtEcLTAvQph5G57rQRsmiYLHWfDxGn-uw6fznzO6QiN5DZAnqzt5eldaGH620DK8BWrPQ997sB1aL39WbAnuCP_gCkphtfo-v-SbyzVeCJ) | [Green Colored Heading](headings.md#green-colored-heading) | Should be used as a navigational heading, high up on the page. |
 | ![](https://lh6.googleusercontent.com/1uG0E380Va1vRFieJc8zYfVgJfklSb5-ZILBCXjLOOg3cklWc3Ihzvp3XlIGozS4cDkm7tAtAeZKl6yo5NmR_sBdHvhXx4SkpZdPv1Coc9IfQEnfekfNdH_-GAII87A_SuYxuCSc) | [Colored Heading](headings.md#colored-heading) | Should only be used in the right rail when there is a green colored navigational heading in the 2/3rds main content well.   |
 | ![](https://lh3.googleusercontent.com/oWlfPM661LO-4F89i5_glUmDJjk0tp4snSYgxzno2Gbafqg1MUtJHl53MIgWECiceHTZYKLX-Y5dNtV85kM5VJ_nLTKkPszbmM54Edy8qaa8zqPRcqTzbcQ4-o8g7xqV1b-RJ4r5) | [Blue Colored Heading](headings.md#blue-colored-heading) | This heading style is used as an action finder. |
-|  | Component Heading |  |
+| ![](../../.gitbook/assets/componentheading.png)  | [Component Heading](headings.md#component-heading) |  |
 
 ### Accessibility & Best Practices
 
@@ -85,7 +85,7 @@ Headings are used as the titles of each major section of a page in the interface
 {% tabs %}
 {% tab title="HTML" %}
 ```markup
-<h2 class="ma__comp-heading"tabindex="-1">
+<h2 class="ma__comp-heading" tabindex="-1">
   Title text
 </h2>
 ```
