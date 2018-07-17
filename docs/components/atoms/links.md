@@ -4,9 +4,18 @@
 
 ### Link Variations
 
-
+| **Visual** | **Name** | **Description & Usage** |
+| --- | --- | --- | --- |
+|  | [Link](links.md#link) |  |
+|  | [Decorative Link](links.md#decorative-link) |  |
+| ![](../../.gitbook/assets/primarybutton.png)  | Link Button | Refer to [Link Button](buttons.md#link-button) in the [Buttons](buttons.md) section. |
 
 ### Accessibility & Best Practices
+
+The purpose of a link can be determined from the link text alone or from the text combined with programmatically determined content
+
+* The largest errors usually found here are on article preview links or similar where there may be multiple links on a page stating “read more” or other similar repeatable text, this should be avoided.
+* Additionally links that are not links but items such as files, e-mail to links and phone numbers should be clearly labeled as such
 
 ## Code
 
