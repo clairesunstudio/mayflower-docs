@@ -18,15 +18,19 @@ Headings are used as the titles of each major section of a page in the interface
 
 | **Visual** | **Name** | **Description & Usage** |
 | --- | --- |
-| ![](../../.gitbook/assets/componentheading.png) | [Component Heading](headings.md#component-heading-1) |  |
+| ![](../../.gitbook/assets/componentheading.png) | [Component Heading](headings.md#component-heading) |  |
 
 #### Column Heading
 
 | **Visual** | Name | Description & Usage |
 | --- | --- |
-| ![](../../.gitbook/assets/columnheading.png) | [Column Heading](headings.md#column-heading-1) |  |
+| ![](../../.gitbook/assets/columnheading.png) | [Column Heading](headings.md#column-heading) |  |
 
 #### Sidebar Heading
+
+| Visual | Name | Description & Usage |
+| --- | --- |
+| ![](../../.gitbook/assets/sidebarheading.png)  | [Sidebar Heading](headings.md#sidebar-heading) |  |
 
 ### Accessibility & Best Practices
 
@@ -134,6 +138,8 @@ Not Available
 [Column Heading in Pattern Lab](https://mayflower.digital.mass.gov/?p=atoms-column-heading)
 {% endtab %}
 {% endtabs %}
+
+### Sidebar Heading
 
 ## Style
 
