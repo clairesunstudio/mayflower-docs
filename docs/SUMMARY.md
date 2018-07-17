@@ -21,6 +21,7 @@
   * [Atoms](components/atoms/README.md)
     * [Buttons](components/atoms/buttons.md)
     * [Headings](components/atoms/headings.md)
+    * [Links](components/atoms/links.md)
     * [Table](components/atoms/table.md)
   * [Molecules](components/molecules/README.md)
     * [Pagination](components/molecules/pagination.md)
