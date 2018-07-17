@@ -7,9 +7,10 @@ Links are used to embed actions or pathways to more information in a sentence or
 ### Link Variations
 
 | **Visual** | **Name** | **Description & Usage** |
-| --- | --- | --- | --- |
-| ![](../../.gitbook/assets/link.png)  | [Link](links.md#link) | Use when you are linking just a few words of text or when you are doing inline links. |
+| --- | --- | --- | --- | --- |
+| ![](../../.gitbook/assets/link%20%281%29.png)  | [Link](links.md#link) | Use when you are linking just a few words of text or when you are doing inline links. |
 | ![](../../.gitbook/assets/decorativelink.png)  | [Decorative Link](links.md#decorative-link) | Used for standalone links that require more emphasis. |
+| ![](../../.gitbook/assets/linkchevron.png)  | [Chevron Link](links.md#chevron-link) |  |
 | ![](../../.gitbook/assets/primarybutton.png)  | Link Button | Refer to [Link Button](buttons.md#link-button) in the [Buttons](buttons.md) section. |
 
 ### Accessibility & Best Practices
@@ -64,12 +65,33 @@ The purpose of a link can be determined from the link text alone or from the tex
 {% endtab %}
 {% endtabs %}
 
+### Chevron Link
+
+{% tabs %}
+{% tab title="HTML" %}
+```markup
+<a class="ma__content-link ma__content-link--chevron" href="#" title="">
+  <span>This is a link with a chevron</span>
+</a>
+```
+{% endtab %}
+
+{% tab title="React" %}
+Not Available
+{% endtab %}
+
+{% tab title="Twig PL" %}
+[Chevron Link in Pattern Lab](https://mayflower.digital.mass.gov/?p=atoms-link-chevron)
+{% endtab %}
+{% endtabs %}
+
 ## Style
 
 ### Classnames
 
 | **Name** | **scss Modifiers** |
-| --- | --- | --- |
-| Link | .ma\_\_content--link |
+| --- | --- | --- | --- |
+| Link | .ma\_\_content-link |
 | Decorative Link | .ma\_\_decorative--link |
+| Chevron Link | .ma\_\_content-link--chevron |
 
