@@ -11,8 +11,6 @@ description: >-
 
 Buttons are vital for creating a smooth conversational flow on the web, and should be used sparingly. Buttons should adhere to standard web practices, and afford for a target area of 45 pixels. They should also appear slightly raised, and not be completely flat. They have a slight shadow on them so they appear clickable. The small buttons are often used on forms and to set filters on listing pages. The large buttons should be used for primary calls to action. Font sizes reduce slightly on mobile.
 
-### Accessibility
-
 ### Button Variations
 
 | **Visual** | **Name** | **Description & Usage** |
@@ -25,6 +23,8 @@ Buttons are vital for creating a smooth conversational flow on the web, and shou
 | ![](../../.gitbook/assets/primarybutton%20%282%29.png)  | [Link Button](buttons.md#link-button) | Link buttons are used to navigate to another page  |
 | ![](../../.gitbook/assets/iconbutton%20%282%29.png) | [Icon Button](buttons.md#icon-button) | When words are not enough, icons can be used in buttons to better communicate what the button does. Icons are always paired with text. |
 |  ![](../../.gitbook/assets/searchbutton.png)  | [Search Button](buttons.md#search-button) | The search button is included in the search bar, It is a submit button for the form to reduce the number of keystrokes required to use the form. The magnifying glass is universally recognized by users as an indicator of search, and doesn’t need to be visually paired with the word "Search" as long as it remains for screen readers. |
+
+### Accessibility
 
 ## Code
 

@@ -4,6 +4,8 @@
 
 Tables show tabular data in columns and rows. Use tables to logically structure content in a grid to make it easier to see relationships and to facilitate understanding. 
 
+![](../../.gitbook/assets/table.png)
+
 ### Accessibility
 
 ## Code
