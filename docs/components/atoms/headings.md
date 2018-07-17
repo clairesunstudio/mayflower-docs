@@ -30,7 +30,7 @@ Headings are used as the titles of each major section of a page in the interface
 
 | Visual | Name | Description & Usage |
 | --- | --- |
-| ![](../../.gitbook/assets/sidebarheading.png)  | [Sidebar Heading](headings.md#sidebar-heading) |  |
+| ![](../../.gitbook/assets/sidebarheading.png)  | [Sidebar Heading](headings.md#sidebar-heading) | Should be used as a subheading in the main content well in a 50/50 split. |
 
 ### Accessibility & Best Practices
 
