@@ -26,6 +26,7 @@
     * [Table](components/atoms/table.md)
   * [Molecules](components/molecules/README.md)
     * [Pagination](components/molecules/pagination.md)
+    * [Relationship Indicators \(Breadcrumbs\)](components/molecules/relationship-indicators-breadcrumbs.md)
   * [Organisms](components/organisms/README.md)
     * [Header](components/organisms/header.md)
     * [Footer](components/organisms/footer.md)
