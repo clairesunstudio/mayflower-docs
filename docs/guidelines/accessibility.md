@@ -27,7 +27,7 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Web_accessibility)
 
 Web accessibility consists of two parts:
 
-- phylosophy &mdash; equivalent user experience
+- philosophy &mdash; equivalent user experience
 - process &mdash; techniques + code (what we build on line)
 
 They both are equally important to achieve the goal of creating an accessible website.
@@ -160,7 +160,7 @@ Accessibility techniques increase the findability of web pages by exposing conte
 
 Not just people with disabilities, but web accessibility also helps people who:
   
-- Have a slow internet connection
+- Have a slow Internet connection
   - location- for example, rural areas where high speed connections are not available or mobile phone reception is limited
   - bandwidth congestion
 - Use older technologies
@@ -194,7 +194,7 @@ Resources:
 
 ## What it takes to access web sites
 
-Some components are involved to make websites availalble to any of us. First, we have infomration to put on a website. We refer it as **web content**.  Second, we need tools to create a website, which is categorized as **authoring tools**. Third, we need means to get to the webiste. That is **user agents**. Let's take a look at each component closely.
+Some components are involved to make websites available to any of us. First, we have information to put on a website. We refer it as **web content**.  Second, we need tools to create a website, which is categorized as **authoring tools**. Third, we need means to get to the website. That is **user agents**. Let's take a look at each component closely.
 
 ### Web content
 
@@ -226,11 +226,11 @@ Software that people use to access web content:
 - voice browsers
 - mobile phone browsers
 - multimedia players
-- plug-ins
+- plug-ins 
 - assistive technologies
 
 
-To be able to access a website, these components need to play well together. If web content is not available, you wouldn't see anything on the website.  If authoring tools are not available, you couldn't have your information or messages on your website.  If user agents are not available, you cannot get to the website or the content on the website. Every component is equally important to make a website avaiable.
+To be able to access a website, these components need to play well together. If web content is not available, you wouldn't see anything on the website.  If authoring tools are not available, you couldn't have your information or messages on your website.  If user agents are not available, you cannot get to the website or the content on the website. Every component is equally important to make a website available.
 
 Web accessibility principles and techniques support these components to optimize their capabilities to make websites available to broad range of users.
 
@@ -251,7 +251,7 @@ People with the following conditions find using websites challenging.
   - limited for motor control
 - Problems with reading and understanding: 
   - learning disabilities
-  - distractibility
+  - destructibility
   - inability to remember
   - focus on large amount of information
 
@@ -259,19 +259,19 @@ We can ease such problems with our [TO DO]
 
 ### Get to know people with disabilities
 
-It is essential for us to learn disabilities and a life with them when we think how we could accomodate people with disabilities as our website users.  Disabilities are not just types of conditions. There are much more to be aware.
+It is essential for us to learn disabilities and a life with them when we think how we could accommodate people with disabilities as our website users.  Disabilities are not just types of conditions. There are much more to be aware.
  
 Some have disabilities at birth. 
 
-Some got disabilities at some point of their life by illness, accidents, aging and so on. In this group, some of them suddenly faced their imparent. To the others, it could develop with various manners. 
+Some got disabilities at some point of their life by illness, accidents, aging and so on. In this group, some of them suddenly faced their impatient. To the others, it could develop with various manners. 
 
-Disability is not always permenent. Some have disabilities for certain period of time.  They could be in their recovery from injuries, illness, medical precedures and so on.
+Disability is not always permanent. Some have disabilities for certain period of time.  They could be in their recovery from injuries, illness, medical procedures and so on.
 
-Also, there are various range of the sevirity of their imparements. Some of them could have multiple disabilities.
+Also, there are various range of the severity of their impairments. Some of them could have multiple disabilities.
 
-Most of disabilities are not visually recognizeable.  [You can learn about some types of disabilities.]()
+Most of disabilities are not visually recognizable.  [You can learn about some types of disabilities.](ADD LINK)
 
-The adoptability to their imparements also varies depending on their situations.  
+The adaptability to their impairments also varies depending on their situations.  
 
 You cannot assume all blind people understand/use braille or any deaf people understand/use sign languages.
 
@@ -301,7 +301,7 @@ Screen readers can also be used by **those who are both deaf and blind**. Rather
 
 ###### Obstacle 1:  Unstructured presentation
 
-If the page is not marked up in a reading order the page content makes sense, they would have a difficult time to navigate the page and conprehend the content.
+If the page is not marked up in a reading order the page content makes sense, they would have a difficult time to navigate the page and comprehend the content.
 
 The flow of the page elements such as header, footer, navigation, main content area, and so on really matters to screen readers to understand what is going on in the page.
 
@@ -346,11 +346,11 @@ People with color blindness might use assistive technology to transform colors b
 
 ###### Obstacle: no alternative presentation to colors
 
-When the colors, only the colors, convey important infomration, for example using a color they cannot recognize to indicate something important becomes a problem to them. Under these circumstances you will need to either change the graphic or provide an additional means of obtaining the same information. Oftentimes the most appropriate way to do this is to provide an explanation in the text itself.
+When the colors, only the colors, convey important information, for example using a color they cannot recognize to indicate something important becomes a problem to them. Under these circumstances you will need to either change the graphic or provide an additional means of obtaining the same information. Oftentimes the most appropriate way to do this is to provide an explanation in the text itself.
 
 #### Auditory disabilities
 
-Most of people with deafness and hard-of-hearing rely on visual presentation of information. Depending on their sevirity of hard-of-hearing, they might be able to obtain audio content with some adjustment.
+Most of people with deafness and hard-of-hearing rely on visual presentation of information. Depending on their severity of hard-of-hearing, they might be able to obtain audio content with some adjustment.
 
 ##### Obstacle 1: no alternative visual presentation of audio content 
 
@@ -367,7 +367,7 @@ Most of people with deafness and hard-of-hearing rely on visual presentation of 
 
 #### Physical disabilities (sometimes called “motor disabilities”)  
 
-The conditions for physical disabilities vary in their types and sevirities.  Most likely they have difficulty to use a mouse and/or keyboard.
+The conditions for physical disabilities vary in their types and severities.  Most likely they have difficulty to use a mouse and/or keyboard.
 
 To use the Web, people with physical disabilities often use specialized hardware and software such as:
 
@@ -406,7 +406,7 @@ The concept of cognitive disabilities is extremely broad, and not always well-de
 
 In fact, one may reasonably argue that a great deal of web content cannot be made accessible to individuals with profound cognitive disabilities, no matter how hard the developer tries. Some content will always be too complex for certain audiences. This is unavoidable. Nevertheless, there are still some things that designers can do to increase the accessibility of web content to people with less severe cognitive disabilities.
 
-Usually, the best advice to help users with cognitive disabilities is to provide information in muliple formats, with a heavy emphasis on visual formats. Even though most web content suffers for a lack of visually-enhanced communicative methods, the take-home message is that no one method is sufficient by itself. **Supplement the information with multiple modes and methods of communication**.
+Usually, the best advice to help users with cognitive disabilities is to provide information in multiple formats, with a heavy emphasis on visual formats. Even though most web content suffers for a lack of visually-enhanced communicative methods, the take-home message is that no one method is sufficient by itself. **Supplement the information with multiple modes and methods of communication**.
 
 The main categories of functional cognitive disabilities include deficits or difficulties with:
 
@@ -619,7 +619,7 @@ Sites and apps should be forgiving. All people, not just those with disabilities
 
 - Descriptive instructions, warnings, error messages, and suggestions for correction;
 - Context-sensitive help for more complex functionality and interaction;
-- Opportunity to review, correct, reverse submissions, or canellation options if necessary.
+- Opportunity to review, correct, reverse submissions, or cancellation options if necessary.
 
 If this feels like usability and not accessibility, that's because usable websites are inherently more accessible.
 
