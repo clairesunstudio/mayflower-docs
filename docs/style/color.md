@@ -10,7 +10,7 @@ Our primary palette is comprised of neutrals, blue, and green. These colors are 
 
 ### Bay Blue
 
-![HEX:  \#14558F  RGB:  20,85,143,100](../.gitbook/assets/color_bay-blue_long%20%281%29.png)
+![HEX:  \#14558F  RGB:  20,85,143](../.gitbook/assets/color_bay-blue_long%20%281%29.png)
 
 This complementary color is used for major headings, underlines on rich text headings, callouts, icons, and as a background accent color.
 
@@ -24,13 +24,13 @@ This complementary color is used for major headings, underlines on rich text hea
 
 ### Bay Blue \(50%\)
 
-![HEX:  \#8AAAC7  RGB:  138,170,199,100](../.gitbook/assets/color_bay-blue_50_long.png)
+![HEX:  \#8AAAC7  RGB:  138,170,199](../.gitbook/assets/color_bay-blue_50_long.png)
 
 * Illustrated card border color/Button border color/File type icons/Link arrows
 
 ### Bay Blue \(10%\)
 
-![HEX:  \#E7EEF4  RGB:  231,238,244,100](../.gitbook/assets/color_bay-blue_10_long.png)
+![HEX:  \#E7EEF4  RGB:  231,238,244](../.gitbook/assets/color_bay-blue_10_long.png)
 
 * Glorified button fill
 
@@ -38,7 +38,7 @@ This complementary color is used for major headings, underlines on rich text hea
 
 ### Berkshires green
 
-![HEX:  \#43956F  RGB:  67,149,111,100](../.gitbook/assets/color_berkshires-green_long.png)
+![HEX:  \#43956F  RGB:  67,149,111](../.gitbook/assets/color_berkshires-green_long.png)
 
 This complementary color is used for major headings, underlines on rich text headings, callouts, icons, and as a background accent color.
 
@@ -50,7 +50,7 @@ This complementary color is used for major headings, underlines on rich text hea
 
 ### Berkshires green \(50%\)
 
-![HEX:  \#A1CAB7  RGB:  161,202,183,100](../.gitbook/assets/color_berkshires-green_50_long.png)
+![HEX:  \#A1CAB7  RGB:  161,202,183](../.gitbook/assets/color_berkshires-green_50_long.png)
 
 * **Heading underline**
 * **Heading underlines \(primary nav active state\)**
