@@ -55,8 +55,11 @@ This complementary color is used for major headings, underlines on rich text hea
 * **Heading underline**
 * **Heading underlines \(primary nav active state\)**
 
-  
+### Berkshires green \(10%\)
 
+![HEX:  \#D9EAE2  RGB:  217, 234, 226](../.gitbook/assets/color_berkshires-green_10_long.png)
+
+###  
 
 | Color | Hex | Name | Details |
 | --- | --- | --- | --- |
