@@ -1,8 +1,66 @@
 # Color
 
+Where appropriate, we enable people to introduce their own color palettes. Our products adapt intelligently and flexibly to cater to people's preferences. We are also committed to complying with AA standard contrast ratios. To do this, choose primary, secondary, and extended colors that support usability by ensuring sufficient color contrast between elements so that people with low vision can see and use the interface.
+
+### Primary color palette
+
+Our primary palette is comprised of neutrals, blue, and green. These colors are present across most touch points from marketing to product. 
+
+## Blue
+
+### Bay Blue
+
+![HEX:  \#14558F  RGB:  20,85,143,100](../.gitbook/assets/color_bay-blue_long%20%281%29.png)
+
+This complementary color is used for major headings, underlines on rich text headings, callouts, icons, and as a background accent color.
+
+* Links
+* Buttons
+* Glorified buttons
+* Service page header overlay
+* Relationship indicator borders
+* Pagination
+* Jump links
+
+### Bay Blue \(50%\)
+
+![HEX:  \#8AAAC7  RGB:  138,170,199,100](../.gitbook/assets/color_bay-blue_50_long.png)
+
+* Illustrated card border color/Button border color/File type icons/Link arrows
+
+### Bay Blue \(10%\)
+
+![HEX:  \#E7EEF4  RGB:  231,238,244,100](../.gitbook/assets/color_bay-blue_10_long.png)
+
+* Glorified button fill
+
+## Green
+
+### Berkshires green
+
+![HEX:  \#43956F  RGB:  67,149,111,100](../.gitbook/assets/color_berkshires-green_long.png)
+
+This complementary color is used for major headings, underlines on rich text headings, callouts, icons, and as a background accent color.
+
+* ‘In this section’ table of contents heading background color
+* ‘The details’ sticky left navigation heading background color
+* Icon background colors \(topic pages, footer icons, decorative bullet points\)
+* Icon color fill \(search bar, location icons, etc.\)
+* Page dividers
+
+### Berkshires green \(50%\)
+
+![HEX:  \#A1CAB7  RGB:  161,202,183,100](../.gitbook/assets/color_berkshires-green_50_long.png)
+
+* **Heading underline**
+* **Heading underlines \(primary nav active state\)**
+
+  
+
+
 | Color | Hex | Name | Details |
 | --- | --- | --- | --- |
-| ![](../.gitbook/assets/color_bay-blue%20%281%29.png) | `#14558f` | **BAY BLUE** | This color is found in the utility nav and content tags, and signifies clickable hyperlinks among text. It is also occasionally used as an accent color.  Exmaples:  Links/Buttons/Glorified buttons/Service page header overlay/Relationship indicator borders/Pagination/Jump links |
+| ![](../.gitbook/assets/color_bay-blue%20%286%29.png) | `#14558f` | **BAY BLUE** | This color is found in the utility nav and content tags, and signifies clickable hyperlinks among text. It is also occasionally used as an accent color.  Exmaples:  Links/Buttons/Glorified buttons/Service page header overlay/Relationship indicator borders/Pagination/Jump links |
 | ![](../.gitbook/assets/color_bay-blue-50.png) | `#8AAAC7` | **50% BAY BLUE** | Examples: Illustrated card border color/Button border color/File type icons/Link arrows |
 | ![](../.gitbook/assets/color_bay-blue-10.png) | `#E7EEF4` | **10% BAY BLUE** | Examples: Glorified button fill |
 | ![](../.gitbook/assets/color_berkshires-green%20%281%29.png) | `#43956F` | **BERKSHIRES GREEN** | This complementary color is used for major headings, underlines on rich text headings, callouts, icons, and as a background accent color. \_\*\*\_Examples:  ‘In this section’ table of contents heading background color/‘The details’ sticky left navigation heading background color/Icon background colors \(topic pages, footer icons, decorative bullet points\)/Icon color fill \(search bar, location icons, etc.\)/Page dividers |
