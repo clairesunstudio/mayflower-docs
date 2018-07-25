@@ -11,7 +11,7 @@ description: >-
 
 {% tabs %}
 {% tab title="About" %}
-![visual example](../../.gitbook/assets/form_helper_text.png)
+![visual example](../../.gitbook/assets/form_helper_text%20%281%29.png)
 
 This pattern is used as Helper text for a form input
 
