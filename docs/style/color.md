@@ -1,6 +1,6 @@
 # Color
 
-&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD Where appropriate, we enable people to introduce their own color palettes. Our products adapt intelligently and flexibly to cater to people's preferences. We are also committed to complying with AA standard contrast ratios. To do this, choose primary, secondary, and extended colors that support usability by ensuring sufficient color contrast between elements so that people with low vision can see and use the interface.
+#### Where appropriate, we enable people to introduce their own color palettes. Our products adapt intelligently and flexibly to cater to people's preferences. We are also committed to complying with AA standard contrast ratios. To do this, choose primary, secondary, and extended colors that support usability by ensuring sufficient color contrast between elements so that people with low vision can see and use the interface.
 
 ### Primary color palette
 
