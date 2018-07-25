@@ -155,7 +155,7 @@ This color is used as an accent color, replacing the Berkshires Green, on the G2
 * **Heading underline**
 * **Navigation active state underline**
 
-### Error Red 
+### Error Red
 
 ![HEX:  \#CD0D0D  RGB:  205, 13, 13](../.gitbook/assets/color_error-red_long.png)
 
