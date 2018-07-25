@@ -9,31 +9,25 @@ description: >-
 
 ## Helper Text
 
-{% tabs %}
-{% tab title="About" %}
-![visual example](../../.gitbook/assets/form_helper_text.png)
+![Helper text example](../../.gitbook/assets/form_helper_text.png)
 
 This pattern is used as Helper text for a form input
 
-### Status
+### Status {#status}
 
 * Stable as of 5.0.0
 
-### Usage Guidelines
+### Usage Guidelines {#usage-guidelines}
 
 * the `inputId` value should match the id of the related input.
 
-### Variables
+### Variables {#variables}
 
 ```text
-helperText: {
-  inputId:
-    type: string / required.
-  message:
-    type: string / required
+helperText: {  inputId:    type: string / required.  message:    type: string / required
 ```
-{% endtab %}
 
+{% tabs %}
 {% tab title="HTML" %}
 ```text
 <label
@@ -50,10 +44,6 @@ helperText: {
   aria-labelledby="{{ helperText.inputId }}"
   class="ma__helper-text">{{ helperText.message }}</label>
 ```
-{% endtab %}
-
-{% tab title="Design file" %}
-[http://mass.gov/framework/helpertext.sketch](http://mass.gov/framework/helpertext.sketch)
 {% endtab %}
 
 {% tab title="Versions" %}
