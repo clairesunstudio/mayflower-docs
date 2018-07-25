@@ -2,7 +2,7 @@
 
 | Color | Hex | Name | Details |
 | --- | --- | --- | --- |
-| ![](../.gitbook/assets/color_bay-blue%20%286%29.png) | `#14558f` | **BAY BLUE** | This color is found in the utility nav and content tags, and signifies clickable hyperlinks among text. It is also occasionally used as an accent color.  Exmaples:  Links/Buttons/Glorified buttons/Service page header overlay/Relationship indicator borders/Pagination/Jump links |
+| ![](../.gitbook/assets/color_bay-blue%20%281%29.png) | `#14558f` | **BAY BLUE** | This color is found in the utility nav and content tags, and signifies clickable hyperlinks among text. It is also occasionally used as an accent color.  Exmaples:  Links/Buttons/Glorified buttons/Service page header overlay/Relationship indicator borders/Pagination/Jump links |
 | ![](../.gitbook/assets/color_bay-blue-50.png) | `#8AAAC7` | **50% BAY BLUE** | Examples: Illustrated card border color/Button border color/File type icons/Link arrows |
 | ![](../.gitbook/assets/color_bay-blue-10.png) | `#E7EEF4` | **10% BAY BLUE** | Examples: Glorified button fill |
 | ![](../.gitbook/assets/color_berkshires-green%20%281%29.png) | `#43956F` | **BERKSHIRES GREEN** | This complementary color is used for major headings, underlines on rich text headings, callouts, icons, and as a background accent color. \_\*\*\_Examples:  ‘In this section’ table of contents heading background color/‘The details’ sticky left navigation heading background color/Icon background colors \(topic pages, footer icons, decorative bullet points\)/Icon color fill \(search bar, location icons, etc.\)/Page dividers |
