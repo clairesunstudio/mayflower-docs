@@ -127,7 +127,7 @@ This color is used as a background in the header, footer, and some sections to v
 * Related pages background color
 * Table of contents component background color
 
-## Red 
+## Red
 
 ### Independence Cranberry
 
