@@ -136,7 +136,7 @@ This color is used as a background in the header, footer, and some sections to v
 
 ![HEX: \#680A1D RGB: 104, 10, 29](../.gitbook/assets/color_independence-cranberry_long%20%281%29.png)
 
-This color is used as an accent color, replacing the Berkshires Green, on the G2G site. It also replaces the Mass Blue in some areas on the Service page template.
+This color is used as an accent color, replacing the Berkshires Green. It also replaces the Mass Blue in some areas on the Service page template.
 
 * **Organization page**
   * Header chevrons and active state underlines
