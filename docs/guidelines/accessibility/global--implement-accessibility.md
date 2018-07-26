@@ -1,12 +1,62 @@
-## What you can do to make your website accessible
+# What you can do to make your website accessible
+
+The [Web Content Accessibility Guidelines (WCAG) 2.0 and 2.1](https://www.w3.org/WAI/standards-guidelines/wcag/) help you to [make your website available to more people](global--accessibility-definition.md). By following the guidelines, you would offer better user experiences to broad range of people use your website.
+
+[Planning and Managing Web Accessibility](https://www.w3.org/WAI/planning-and-managing/) would be helpful to determine what steps to take to make your website accessible. 
+
+However you starts, it is important to [have a good foundation](#cover-the-basic) to work on and [understand the basic concepts](#meet-more-user-needs) to support your initiative to be successful. 
+
+
+## Cover the basic {#cover-the-basic}
+
+To create an accessible website, let's start with a good foundation.
+
+### Web standards
+
+Separating a website in three layers:
+
+- Structure (content/html)
+- Presentation (style/css)
+- Behavior (script - JavaScript, PHP, etc.)
+
+Learn more: 
+
+- [Web Standards - Keeping Everything Compatible](https://www.whoishostingthis.com/resources/web-standards/)
+
+
+### Valid markup
+
+First, a website should be processed and displayed properly in multiple browsing devices.  Valid markup supports that.  
+
+  - [Markup Validation](https://validator.w3.org/)
+  - [CSS Validation](https://jigsaw.w3.org/css-validator/)
+
+
+### Semantic HTML
+
+Most of HTML elements have their own roles to present what their contents are.  For examples, `<h1>` - `<h6>` for headings, `<p>` for paragraph, `<nav>` for a navigation, and so on. Semantic markup creates a structure to the content.
+
+Especially for assisitve technology users, structured content plays a critical role for them to use a website.
+
+Assigning proper HTML elements to each content helps website browsing and assistive technology devices, and search engines to understand the website and its content better.
+
+Learn more: 
+
+- [Why Use Semantic HTML?](https://www.lifewire.com/why-use-semantic-html-3468271)
+- [Accessibility Through Semantic HTML](https://24ways.org/2017/accessibility-through-semantic-html/)
+- [G115: Using semantic elements to mark up structure](https://www.w3.org/TR/WCAG20-TECHS/G115.html)
+
+
+## Meet more user needs {#meet-more-user-needs}
+
+With a good foundation, your website is ready to meet more user needs.  What
+are the user needs? [Designing for accessibility is not that hard - Seven easy-to-implement guidelines to design a more accessible web ❤️](https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94) is a good place to start finding answers for the question.
 
 There are four main principles to make our website accessible based on these basic concepts:
 
 - Understanding the user's perspective and needs
 - Moving beyond technical accessibility
 - Focusing on the principles of accessibility
-
-[TO DO: ADD SOME DESIGN/UX ASPECT IN ADDITION TO TECHNICAL ONE.  KEEP IT HIGH LEVEL.]
 
 
 ### PERCEIVABLE information and user interface
@@ -141,7 +191,6 @@ Robust content is compatible with different browsers, assistive technologies, an
 - Providing a name, role, and value for non-standard user interface components.
 
 **Ask yourself**: Does our website only support the newest browsers or operating systems? Is our website developed with best practices?
-
 
 
 [TO DO:  NAVIGATE TO MAYFLOWER SPECIFIC ITEMS.]
