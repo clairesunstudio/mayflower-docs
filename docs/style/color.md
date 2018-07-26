@@ -1,6 +1,6 @@
 # Color
 
-#### Where appropriate, we enable people to introduce their own color palettes. Our products adapt intelligently and flexibly to cater to people's preferences. We are also committed to complying with AA standard contrast ratios. To do this, choose primary, secondary, and extended colors that support usability by ensuring sufficient color contrast between elements so that people with low vision can see and use the interface.
+**Where appropriate, we enable people to introduce their own color palettes. Our products adapt intelligently and flexibly to cater to people's preferences. We are also committed to complying with AA standard contrast ratios. To do this, choose primary, secondary, and extended colors that support usability by ensuring sufficient color contrast between elements so that people with low vision can see and use the interface.**
 
 ### Primary color palette
 
@@ -138,13 +138,13 @@ This color is used as a background in the header, footer, and some sections to v
 
 This color is used as an accent color, replacing the Berkshires Green. It also replaces the Mass Blue in some areas on the Service page template.
 
-* **Organization page**
+* Organization page
   * Header chevrons and active state underlines
   * Page hero background color
   * Icons \(footer, social, search button, dropdown chevrons\)
   * Page divider
   * Heading underline 
-* **Service page**
+* Service page
   * Header chevrons and active state underlines
   * Page hero background color
   * Icons  \(footer, social, search button, dropdown chevrons\)
@@ -155,8 +155,8 @@ This color is used as an accent color, replacing the Berkshires Green. It also r
 
 ![HEX: \#AD7E88 RGB: 173, 126, 136](../.gitbook/assets/color_independence-cranberry_50_long%20%281%29.png)
 
-* **Heading underline**
-* **Navigation active state underline**
+* Heading underline
+* Navigation active state underline
 
 ### Error Red
 
@@ -164,11 +164,11 @@ This color is used as an accent color, replacing the Berkshires Green. It also r
 
 This color is used for error language, borders, and icons.
 
-* **Form error states**
+* Form error states
 
 ### Error Red \(50%\)
 
 ![HEX: \#FCF3F3 RGB: 252, 243, 243](../.gitbook/assets/color_error-red_50_long.png)
 
-* **Overall form error state background**
+* Overall form error state background
 
