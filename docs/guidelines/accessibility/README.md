@@ -1,7 +1,5 @@
 # Accessibility
 
-
-
 ## Accessibility
 
 ### Web accessibility and the Commonwealth of Massachusetts
@@ -23,3 +21,4 @@ We value web accessibility, and consider it is important to promote it to anybod
   * Mayflower web accessibility \(links -- policy/legal, design, code base\)
   * [Web Accessibility Standards in the Commonwealth of Massachusetts](https://www.mass.gov/guides/web-accessibility-standards)
   * [IT Accessibility in the Commonwealth of Massachusetts](https://www.mass.gov/it-accessibility)
+

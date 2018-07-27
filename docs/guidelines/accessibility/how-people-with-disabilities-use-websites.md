@@ -1,7 +1,5 @@
 # How people with disabilities use websites
 
-
-
 ## How people with disabilities use websites
 
 Mary audience and including those who may have difficulty with some of the content. People with disability might need some assistance to use websites depending on their conditions. Not all of them need assistance to use a website, but their user experience could be much better with a mindfully created website.
@@ -208,5 +206,5 @@ The following items can result in difficulties for users with vestibular disorde
 
 \[TO DO: ADD NEXT STEP LINKS\]
 
-* [What you can do to make your website accessible](../global-implement-accessibility.md)
+* [What you can do to make your website accessible](https://github.com/massgov/edit-mayflower-docs/tree/940a489a97dd344008fe3e5e245fb321b63e5405/docs/guidelines/global-implement-accessibility.md)
 

@@ -45,5 +45,5 @@ Web accessibility principles and techniques support these components to optimize
 
 \[TO DO: ADD NEXT STEP LINKS\]
 
-* [Obstacles to use websites](global-obstacles.md)
+* [Obstacles to use websites](global-obstacles/)
 

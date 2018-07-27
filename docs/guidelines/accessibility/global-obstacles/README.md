@@ -41,7 +41,7 @@ The adaptability to their impairments also varies depending on their situations.
 
 You cannot assume all blind people understand/use braille or any deaf people understand/use sign languages.
 
-\[Learn more about disabilities\] &gt;&gt;&gt; [Disability Types](https://github.com/massgov/edit-mayflower-docs/tree/2d579cba5a280af6e4bd5fd08eabde4b3e71383b/docs/guidelines/accessibility/global--disability-types.md)
+\[Learn more about disabilities\] 
 
 ### How people with disabilities use websites {#how-people-with-disabilities-use-websites}
 
@@ -250,5 +250,5 @@ The following items can result in difficulties for users with vestibular disorde
 \[TO DO: ADD NEXT STEP LINKS\]
 
 * [What you can do to make your website accessible](../global-implement-accessibility.md)
-
+* [W3C:  How People with Disabilities Use the Web](https://www.w3.org/WAI/people-use-web/)
 
