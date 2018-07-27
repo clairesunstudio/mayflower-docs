@@ -21,6 +21,7 @@
     * [global--obstacles](guidelines/accessibility/global-obstacles.md)
     * [global--why-accessibility-matters](guidelines/accessibility/global-why-accessibility-matters.md)
     * [original-content](guidelines/accessibility/original-content.md)
+    * [Sources](guidelines/accessibility/sources.md)
   * [Search and Structured Data](guidelines/search-and-structured-data.md)
 * [Design Principles](design-principles.md)
 * [Style](style/README.md)
