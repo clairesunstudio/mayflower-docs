@@ -8,13 +8,6 @@
 
 [Learn more](https://webaim.org/articles/visual/)
 
-### Key principle of web accessibility for them
-
-* Perceivable: because they cannot perceive \(see\) visual information such as graphics, layout, or color-based cues
-* Operable: because they usually depend on a keyboard to operate \(navigate\) web content functionality, rather than a mouse
-* Understandable: because they cannot understand content that is presented in an illogical linear order, or which contains extraneous text not meant to be read word for word or character by character \(such as long web addresses\), etc.
-* Robust: because the assistive technologies used by the blind are not always capable of accessing a broad range of technologies, especially if those technologies are new
-
 ## Auditory
 
 * Deafness \(= Hard of hearing\)
@@ -36,9 +29,6 @@
 
 [Learn more](https://webaim.org/articles/auditory/)
 
-### Key principle of web accessibility for them
-
-* Perceivable: because they cannot perceive\(hear\) auditory content
 
 ## Motor
 
@@ -56,13 +46,7 @@
 
 [Learn more](https://webaim.org/articles/motor/motordisabilities)
 
-### Key principle of web accessibility for them
-
-Most assistive technologies for people with motor disabilities either work through the keyboard or emulate the functionality of the keyboard.
-
-Knowing this, developers can focus on making their content accessible to the keyboard, and ensure that the site is navigable with as few keystrokes as possible.
-
-## Key Concepts
+### Key Concepts
 
 * Users may not be able to use the mouse. --&gt; Make sure that all functions are available from the keyboard \(try tabbing from link to link\).
 * Users may not be able to control the mouse or the keyboard well. --&gt; Make sure that your pages are error-tolerant \(e.g. ask "are you sure you want to delete this file?"\), do not create small links or moving links.            
@@ -100,13 +84,10 @@ For the purposes of web accessibility, classifying cognitive disabilities by fun
 
 [Learn more](https://webaim.org/articles/cognitive/)
 
-### Key principle of web accessibility for them
 
 ## Seizure
 
 Some people are susceptible to seizures caused by strobing, flickering, or flashing effects. This kind of seizure is sometimes referred to as a photoepileptic seizure because it is caused by pulses of light \(hence the prefix "photo"\) interacting with the eye's light-receptive neurons and the body's central nervous system.
 
 [Learn more](https://webaim.org/articles/seizure/)
-
-### Key principle of web accessibility for them
 
