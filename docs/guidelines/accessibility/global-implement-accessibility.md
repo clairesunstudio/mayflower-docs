@@ -1,6 +1,5 @@
 # What you can do to make your website accessible
 
-
 The [Web Content Accessibility Guidelines \(WCAG\) 2.0 and 2.1](https://www.w3.org/WAI/standards-guidelines/wcag/) help you to [make your website available to more people](https://github.com/massgov/edit-mayflower-docs/tree/2d579cba5a280af6e4bd5fd08eabde4b3e71383b/docs/guidelines/accessibility/global--accessibility-definition.md). By following the guidelines, you would offer better user experiences to broad range of people use your website.
 
 [Planning and Managing Web Accessibility](https://www.w3.org/WAI/planning-and-managing/) would be helpful to determine what steps to take to make your website accessible.

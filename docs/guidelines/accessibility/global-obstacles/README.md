@@ -1,6 +1,5 @@
 # Obstacles to use websites
 
-
 People with the following conditions find using websites challenging.
 
 * Problems with sight:
@@ -40,5 +39,5 @@ The adaptability to their impairments also varies depending on their situations.
 
 You cannot assume all blind people understand/use braille or any deaf people understand/use sign languages.
 
-[Learn more about disabilities](https://github.com/massgov/edit-mayflower-docs/tree/2d579cba5a280af6e4bd5fd08eabde4b3e71383b/docs/guidelines/accessibility/global--disability-types.md)
+[Learn more about disabilities](global-disability-types.md)
 

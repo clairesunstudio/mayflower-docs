@@ -1,6 +1,5 @@
 # How people with disabilities use websites
 
-
 Mary audience and including those who may have difficulty with some of the content. People with disability might need some assistance to use websites depending on their conditions. Not all of them need assistance to use a website, but their user experience could be much better with a mindfully created website.
 
 Understanding [their obstacles](https://github.com/massgov/edit-mayflower-docs/tree/2dd65c3a6517f7982b93ad0772be51cea6997750/docs/guidelines/accessibility/LINK%20to%20Obstacles%20to%20use%20websites/README.md) would help us creating practically accessible websites.
