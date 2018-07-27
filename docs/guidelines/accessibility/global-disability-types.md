@@ -1,4 +1,4 @@
-# global--disability-types
+# Disability Types
 
 ## global--disability-types
 

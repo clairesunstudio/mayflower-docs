@@ -1,4 +1,4 @@
-# global--benefits-of-accessible-websites
+# Benefits of having an accessible website
 
 ## global--benefits-of-accessible-websites
 
