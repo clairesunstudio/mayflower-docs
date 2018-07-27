@@ -24,27 +24,26 @@ Learn more:
 - [Web Standards - Keeping Everything Compatible](https://www.whoishostingthis.com/resources/web-standards/)
 
 
-### Valid markup
-
-First, a website should be processed and displayed properly in multiple browsing devices.  Valid markup supports that.  
-
-  - [Markup Validation](https://validator.w3.org/)
-  - [CSS Validation](https://jigsaw.w3.org/css-validator/)
-
-
 ### Semantic HTML
 
-Most of HTML elements have their own roles to present what their contents are.  For examples, `<h1>` - `<h6>` for headings, `<p>` for paragraph, `<nav>` for a navigation, and so on. Semantic markup creates a structure to the content.
+HTML (Hypertext Markup Language) is not a programming language; it is a markup language used to tell a browser how to structure the web pages.  Semantic markup creates a structure to the content.
 
-Especially for assisitve technology users, structured content plays a critical role for them to use a website.
+One of HTML's main jobs is to give text structure and meaning (also known as semantics) so that a browser can display it correctly. Each element has its own definition and role understood by browsers. Assistive technology such as screen readers also use such definitions.  Using HTML elements as predefined is the first step to create an accessible website.
 
-Assigning proper HTML elements to each content helps website browsing and assistive technology devices, and search engines to understand the website and its content better.
+**Don't reinvent the wheel.** Use right HTML elements with their existing definitions for their right jobs.  If they need some more help, then, use CSS and JavaScript to fill their missing parts. 
 
 Learn more: 
 
 - [Why Use Semantic HTML?](https://www.lifewire.com/why-use-semantic-html-3468271)
 - [Accessibility Through Semantic HTML](https://24ways.org/2017/accessibility-through-semantic-html/)
 - [G115: Using semantic elements to mark up structure](https://www.w3.org/TR/WCAG20-TECHS/G115.html)
+
+### Valid markup
+
+First, a website should be processed and displayed properly in multiple browsing devices.  Valid markup supports that.  
+
+  - [Markup Validation](https://validator.w3.org/)
+  - [CSS Validation](https://jigsaw.w3.org/css-validator/)
 
 
 ## Meet more user needs {#meet-more-user-needs}
