@@ -33,7 +33,7 @@ Screen readers process the content as it's marked up.  The content doesn't have 
 
 Screen readers recognize headings, links, lists, forms, and so on, and announce what those elements are before reading through their contents.
 
-##### Obstacle 3: Non-text content missing text alternative presenttion
+##### Obstacle 3: Non-text content missing text alternative presentation
 
 If images, movies, videos don't have their alternative text presentation, screen readers cannot accurately convey their content.
 
