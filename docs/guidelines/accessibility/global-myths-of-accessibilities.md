@@ -1,4 +1,4 @@
-# global--myths-of-accessibilities
+# Myths of web accessibility
 
 ## global--myths-of-accessibilities
 

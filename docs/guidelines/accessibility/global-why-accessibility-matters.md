@@ -1,4 +1,4 @@
-# global--why-accessibility-matters
+# Why web accessibility matters
 
 ## global--why-accessibility-matters
 

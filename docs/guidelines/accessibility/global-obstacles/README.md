@@ -1,4 +1,4 @@
-# global--obstacles
+# Obstacles to use websites
 
 ## Obstacles to use websites
 
@@ -249,7 +249,7 @@ The following items can result in difficulties for users with vestibular disorde
 
 \[TO DO: ADD NEXT STEP LINKS\]
 
-* [What you can do to make your website accessible](global-implement-accessibility.md)
+* [What you can do to make your website accessible](../global-implement-accessibility.md)
 
 Resources:
 
