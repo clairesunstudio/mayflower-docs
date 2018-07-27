@@ -1,4 +1,4 @@
-# Why web accessibility matters
+# global--why-accessibility-matters
 
 ## global--why-accessibility-matters
 
@@ -13,4 +13,9 @@ For people with disabilities who have access to the Internet, independent access
 According to [WebAIM](https://webaim.org/), most studies find that about one fifth \(20%\) of the population has some kind of disability.
 
 Even though not all of these people have disabilities that make them difficult to access the internet, it is still a significant portion of the population. This number would increase as senior population grows as projected by [United Nations Population Fund \(UNFPA\)](https://www.unfpa.org/publications/ageing-twenty-first-century). As they age, people could have these problems in various levels and some would have more than one problem. Remember, we are all temporarily able-bodied.
+
+Resources:
+
+* [Brailworks: Why Accessibility Matters](https://brailleworks.com/accessibility-matters/)
+* [Stanford University Online Accessibility Program: Why Accessibility Matters](https://soap.stanford.edu/getting-started/why-accessibility-matters)
 

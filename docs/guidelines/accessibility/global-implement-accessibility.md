@@ -1,4 +1,4 @@
-# What you can do to make your website accessible
+# global--implement-accessibility
 
 ## global--implement-accessibility
 
@@ -185,4 +185,12 @@ Robust content is compatible with different browsers, assistive technologies, an
 **Ask yourself**: Does our website only support the newest browsers or operating systems? Is our website developed with best practices?
 
 \[TO DO: NAVIGATE TO MAYFLOWER SPECIFIC ITEMS.\]
+
+Sources:
+
+* [W3C - Accessibility Principles](https://www.w3.org/WAI/fundamentals/accessibility-principles/)
+* [DYNAMIT](http://www.dynamit.com/accessibility-principles/)
+* [WebAIM](https://webaim.org/articles/pour/)
+* [Adobe Blog - Design With Accessibility in Mind: The POUR Methodology](https://theblog.adobe.com/design-with-accessibility-in-mind-the-pour-methodology/)
+* [DYNO Mapper - Building a POUR Website: the 4 Principles of Accessibility](https://dynomapper.com/blog/27-accessibility-testing/274-4-principles-of-accessibility)
 

@@ -8,7 +8,11 @@ Web accessibility means **making your website available to as many people as pos
 
 It’s a combination of common sense, empathy and understanding.
 
+Source: [WUHCAG](https://www.wuhcag.com/what-is-web-accessibility/)
+
 Web accessibility refers to the **inclusive practice of removing barriers that prevent interaction with, or access to websites, by people with disabilities**.
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Web_accessibility)
 
 Web accessibility consists of two parts:
 
@@ -26,6 +30,6 @@ They both are equally important to achieve the goal of creating an accessible we
   * [What you can do to make your website accessible](global-implement-accessibility.md)
 * See what it takes to access web sites and what could be obstacles for it:
   * [What it takes to access web sites](global-access-web-sites.md)
-  * [Obstacles to use websites](global-obstacles/)
-  * [How people with disabilities use websites](global-obstacles/#how-people-with-disabilities-use-websites)
+  * [Obstacles to use websites](global-obstacles.md)
+  * [How people with disabilities use websites](global-obstacles.md#how-people-with-disabilities-use-websites)
 
