@@ -6,7 +6,7 @@
 
 **The official typeface of Mass.gov is Texta. We picked Texta for the Mass.gov branding purposes.**
 
-![&quot;Mass.gov&quot; displaying in Texta](../.gitbook/assets/texta-massgov.png)
+![&quot;Mass.gov&quot; displaying in Texta](../.gitbook/assets/texta-massgov%20%281%29.png)
 
 ![&quot;MA&quot; displaying in Texta](../.gitbook/assets/texta-ma.png)
 
