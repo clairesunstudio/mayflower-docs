@@ -15,7 +15,7 @@ Buttons are vital for creating a smooth conversational flow on the web, and shou
 
 For the principle call to action on the page.
 
-![](https://github.com/massgov/edit-mayflower-docs/tree/997581b83d7d3aafe2dfd2ec5b3311f8f0d3b691/docs/assets/primary-button-2.gif)
+![](https://github.com/massgov/edit-mayflower-docs/tree/733deb603a2477cc4605500c1b9e00ada397c6d2/docs/assets/primary-button-2.gif)
 
 ```text
 <button type="button" class="ma__button" aria-label="">Button</button>
