@@ -208,7 +208,3 @@ The following items can result in difficulties for users with vestibular disorde
 
 * [What you can do to make your website accessible](../global-implement-accessibility.md)
 
-Resources:
-
-* [W3C:  How People with Disabilities Use the Web](https://www.w3.org/WAI/people-use-web/)
-

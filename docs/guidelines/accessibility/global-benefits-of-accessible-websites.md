@@ -60,14 +60,3 @@ Not just people with disabilities, but web accessibility also helps people who:
 * Enables content on different configurations, such as mobile devices, screen readers, different operating systems and browsers;
 * ‘Future proofed’, that means being prepared for implementing future technologies;
 * Cross-browser compatibility.
-
-Resources:
-
-* [Constructing a POUR Website](https://webaim.org/articles/pour/)
-* [The Whole Brain Group](http://blog.thewholebraingroup.com/5-benefits-accessible-website)
-* [The benefits of Web Accessibility](http://www.accessibletemplate.com/about-accessibility/the-benefits-of-web-accessibility)
-* [Benefits of Accessible Design](https://digital.gov/2017/05/09/benefits-of-accessible-design/)
-* [Social Factors in Developing a Web Accessibility Business Case for Your Organization](https://www.w3.org/WAI/bcase/soc)
-* [Financial Factors in Developing a Web Accessibility Business Case for Your Organization](https://www.w3.org/WAI/bcase/fin.html)
-* [Getting Started with Website Accessibility](https://medium.com/statuscode/getting-started-with-website-accessibility-5586c7febc92)
-

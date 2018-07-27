@@ -58,8 +58,3 @@ It’s true that web developers and designers must do most of the heavy lifting 
 
 Currently, accessibility regulations apply to websites that provide "goods, services, and programs to the public," such as government websites, shopping, and e-commerce. This distinction can fall into a gray area based on traffic and intent of a website, meaning personal private sites aren’t necessarily subject to accessibility standards. It, however, is a good idea to make your personal website accessible for a better user experience for all.
 
-Sources:
-
-* [Bureau of Internet Accessibility: Website Accessibility Isn't What You Think It Is: 10 Myths, Busted](https://www.boia.org/blog/website-accessibility-isnt-what-you-think-it-is-10-myths-busted)
-* [TechWell: The Top Four Myths about Web Accessibility](https://www.techwell.com/techwell-insights/2014/11/top-four-myths-about-web-accessibility)
-
