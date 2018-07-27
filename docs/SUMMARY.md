@@ -20,7 +20,6 @@
     * [global--myths-of-accessibilities](guidelines/accessibility/global-myths-of-accessibilities.md)
     * [global--obstacles](guidelines/accessibility/global-obstacles.md)
     * [global--why-accessibility-matters](guidelines/accessibility/global-why-accessibility-matters.md)
-    * [global-access-web-sites](guidelines/accessibility/global-access-web-sites-2.md)
     * [original-content](guidelines/accessibility/original-content.md)
   * [Search and Structured Data](guidelines/search-and-structured-data.md)
 * [Design Principles](design-principles.md)
