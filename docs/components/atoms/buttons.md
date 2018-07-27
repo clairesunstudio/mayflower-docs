@@ -100,7 +100,7 @@ Buttons are vital for creating a smooth conversational flow on the web, and shou
 
 {% tabs %}
 {% tab title="Visual" %}
-![Example of Secondary Button](../../.gitbook/assets/secondary-button-outline.gif)
+![Example of Secondary Button](../../.gitbook/assets/secondary-button-outline%20%281%29.gif)
 {% endtab %}
 
 {% tab title="HTML" %}
