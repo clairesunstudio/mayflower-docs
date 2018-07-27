@@ -2,13 +2,13 @@
 
 
 
-### How people with disabilities use websites
+## How people with disabilities use websites
 
 Mary audience and including those who may have difficulty with some of the content. People with disability might need some assistance to use websites depending on their conditions. Not all of them need assistance to use a website, but their user experience could be much better with a mindfully created website.
 
 Understanding [their obstacles](https://github.com/massgov/edit-mayflower-docs/tree/2dd65c3a6517f7982b93ad0772be51cea6997750/docs/guidelines/accessibility/LINK%20to%20Obstacles%20to%20use%20websites/README.md) would help us creating practically accessible websites.
 
-#### Visual disabilities
+### Visual disabilities
 
 **Blindness**
 
@@ -68,7 +68,7 @@ People with color blindness might use assistive technology to transform colors b
 
 When the colors, only the colors, convey important information, for example using a color they cannot recognize to indicate something important becomes a problem to them. Under these circumstances you will need to either change the graphic or provide an additional means of obtaining the same information. Oftentimes the most appropriate way to do this is to provide an explanation in the text itself.
 
-#### Auditory disabilities
+### Auditory disabilities
 
 Most of people with deafness and hard-of-hearing rely on visual presentation of information. Depending on their severity of hard-of-hearing, they might be able to obtain audio content with some adjustment.
 
@@ -83,7 +83,7 @@ Most of people with deafness and hard-of-hearing rely on visual presentation of 
 * Media players that do not display captions and that do not provide volume controls.
 * Media players that do not provide options to adjust the text size and colors for captions.
 
-#### Physical disabilities \(sometimes called “motor disabilities”\)
+### Physical disabilities \(sometimes called “motor disabilities”\)
 
 The conditions for physical disabilities vary in their types and severities. Most likely they have difficulty to use a mouse and/or keyboard.
 
@@ -117,7 +117,7 @@ Missing visual and non-visual orientation cues, page structure, and other naviga
 
 Inconsistent, unpredictable, and overly complicated navigation mechanisms and page functions.
 
-#### Cognitive \(reading and understainding\)
+### Cognitive \(reading and understainding\)
 
 The concept of cognitive disabilities is extremely broad, and not always well-defined. In loose terms, **a person with a cognitive disability has greater difficulty with one or more types of mental tasks than the average person**.
 
@@ -187,7 +187,7 @@ For example, they may not realize that a photograph of a person is a representat
 
 For these people, a moving, talking person in a video may be easier to identify and mentally process than a static image of a person in a photograph. Video and multimedia, accompanied with narration, may be the best way to communicate to these individuals.
 
-#### Seizure
+### Seizure
 
 Some people are susceptible to seizures caused by **strobing**, **flickering**, or **flashing** effects. This kind of seizure is sometimes referred to as a photoepileptic seizure because it is caused by pulses of light \(hence the prefix "photo"\) interacting with the eye's light-receptive neurons and the body's central nervous system.
 
@@ -195,7 +195,7 @@ Most web content is completely harmless to individuals with photoepileptic tende
 
 We should still make every effort to ensure that our content does not have strobing, flickering, or flashing effects.
 
-#### Vestibular disorders
+### Vestibular disorders
 
 Even if an animating or moving object does not cause a seizure, it may cause nausea or dizziness in some people.
 
