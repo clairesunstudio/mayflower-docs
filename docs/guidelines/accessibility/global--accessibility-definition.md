@@ -26,5 +26,5 @@ They both are equally important to achieve the goal of creating an accessible we
 
 - See what it takes to access web sites and what could be obstacles for it:
   - [What it takes to access web sites](global--access-web-sites.md)
-  - [Obstacles to use websites](LINK)
-  - [How people with disabilities use websites](LINK)
+  - [Obstacles to use websites](global--obstacles.md)
+  - [How people with disabilities use websites](global-obstacles.md#how-people-with-disabilities-use-websites)

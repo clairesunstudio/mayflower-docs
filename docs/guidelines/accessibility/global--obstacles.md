@@ -43,7 +43,7 @@ You cannot assume all blind people understand/use braille or any deaf people und
 [Learn more about disabilities] >>> [Disability Types](global--disability-types.md)
 
 
-### How people with disabilities use websites
+### How people with disabilities use websites {#how-people-with-disabilities-use-websites}
 
 Mary audience and including those who may have difficulty with some of the content. 
 People with disability might need some assistance to use websites depending on their conditions.  Not all of them need assistance to use a website, but their user experience could be much better with a mindfully created website.

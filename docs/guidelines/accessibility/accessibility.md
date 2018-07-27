@@ -23,12 +23,12 @@ We value web accessibility, and consider it is important to promote it to anybod
 
 [BROKEN DOWN PAGES]
 
-- [What is web accessibility?](global--accessibility-definition.md)
-- [Why web accessibility matters](global--why-web-accessibility-matters.md)
-- [Myths of web accessibility](global--myths-of-accessibilities.md)
-- [Benefits of having an accessible website](global--benefits-of-accessible-websites.md)
-- [What it takes to access web sites](global--access-websites.md)
-- [Obstacles to use websites](global--obstacles.md)
-  - [Disability types](global--disability-types.md)
-- [What you can do to make your website accessible](global--implement-accessibility.md)
+- [What is web accessibility?](global-accessibility-definition.md)
+- [Why web accessibility matters](global-why-web-accessibility-matters.md)
+- [Myths of web accessibility](global-myths-of-accessibilities.md)
+- [Benefits of having an accessible website](global-benefits-of-accessible-websites.md)
+- [What it takes to access web sites](global-access-websites.md)
+- [Obstacles to use websites](global-obstacles.md)
+  - [Disability types](global-disability-types.md)
+- [What you can do to make your website accessible](global-implement-accessibility.md)
 
