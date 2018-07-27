@@ -1,4 +1,4 @@
-# global--accessibility-definition
+# What is web accessibility?
 
 ## global--accessibility-definition
 

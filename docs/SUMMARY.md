@@ -13,7 +13,7 @@
 * [Guidelines](guidelines/README.md)
   * [Accessibility](guidelines/accessibility/README.md)
     * [What it takes to access web sites](guidelines/accessibility/global-access-web-sites.md)
-    * [global--accessibility-definition](guidelines/accessibility/global-accessibility-definition.md)
+    * [What is web accessibility?](guidelines/accessibility/global-accessibility-definition.md)
     * [global--benefits-of-accessible-websites](guidelines/accessibility/global-benefits-of-accessible-websites.md)
     * [global--disability-types](guidelines/accessibility/global-disability-types.md)
     * [global--implement-accessibility](guidelines/accessibility/global-implement-accessibility.md)
