@@ -30,5 +30,6 @@ We value web accessibility, and consider it is important to promote it to anybod
 - [What it takes to access web sites](global-access-websites.md)
 - [Obstacles to use websites](global-obstacles.md)
   - [Disability types](global-disability-types.md)
+- [How people with disabilities use websites](global-use-wb-with-disabilities.md)
 - [What you can do to make your website accessible](global-implement-accessibility.md)
 
