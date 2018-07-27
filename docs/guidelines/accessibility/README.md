@@ -2,7 +2,15 @@
 
 ### Web accessibility and the Commonwealth of Massachusetts
 
-All government digital products are required to conform to the [Web Content Accessibility Guidelines \(WCAG\) 2.0 and 2.1](https://www.w3.org/WAI/standards-guidelines/wcag/) and the [Americans with Disabilities Act \(ADA\)](https://www.ada.gov/).
+All government digital products in the US are required to conform t[o Section 504 of the Rehabilitation Act](http://www.dol.gov/oasam/regs/statutes/sec504.htm)
+
+* [Section 508 of the Rehabilitation Act, 29 U.S.C. §794d](http://www.section508.gov/Section-508-Of-The-Rehabilitation-Act) and its implementing regulations, 36 C.F.R. §1194.22 \(Web-based intranet and internet information and applications\) and 36 C.F.R. §1194.21 \(Software applications and operating systems\). Although Section 508 of the Rehabilitation Act does not apply to Executive Department agencies, the Commonwealth has chosen to base its web accessibility standards on the standards included in Section 508.
+* State Government:
+  * Mass. Gen. L. ch. 151B, which prohibits discrimination against the handicapped in connection with housing and employment, and Ch. 272 sections 98 and 98A, which prohibit discrimination in public accommodations against persons with disabilities. All of these statutes apply to all state agencies.
+
+
+
+the [Web Content Accessibility Guidelines \(WCAG\) 2.0 and 2.1](https://www.w3.org/WAI/standards-guidelines/wcag/) and the [Americans with Disabilities Act \(ADA\)](https://www.ada.gov/).
 
 Mayflower is a design system for the the Commonwealth of Massachusetts . It is designed and developed to meet such web accessibility guidelines. If you follow this system's samples, your website would be accessible by broad range of users.
 
