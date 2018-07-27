@@ -22,6 +22,7 @@
       * [Disability Types](guidelines/accessibility/global-obstacles/global-disability-types.md)
     * [What you can do to make your website accessible](guidelines/accessibility/global-implement-accessibility.md)
     * [original-content](guidelines/accessibility/original-content.md)
+    * [Sources](guidelines/accessibility/sources.md)
   * [Search and Structured Data](guidelines/search-and-structured-data.md)
 * [Design Principles](design-principles.md)
 * [Style](style/README.md)
