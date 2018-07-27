@@ -12,7 +12,7 @@ We value web accessibility, and consider it is important to promote it to anybod
 
 \[TO DO: ADD SOME QUICK LINKS TO RESOURCES.\]
 
-* New to web accessibility? [What is web accessibility?](https://github.com/massgov/edit-mayflower-docs/tree/e9443646354812c76e7b530175beedce46c7fdc9/docs/guidelines/accessibility/global--accessibility-definition.md) is a good place to start. 
+* New to web accessibility? [What is web accessibility?](https://github.com/massgov/edit-mayflower-docs/tree/e9443646354812c76e7b530175beedce46c7fdc9/docs/guidelines/accessibility/global-accessibility-definition.md) is a good place to start. 
 * Looking for specific resources? 
   * Web accessibility for designers \(generic/global resource link?\)
   * Web accessibility for developers \(generic/global resource link?\)
