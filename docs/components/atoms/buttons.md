@@ -15,7 +15,7 @@ Buttons are vital for creating a smooth conversational flow on the web, and shou
 
 For the principle call to action on the page.
 
-![](https://github.com/massgov/edit-mayflower-docs/tree/6bb0ae7cadd8d99737c990dfd1fd613303acdde4/docs/assets/primary-button-2.gif)
+![](https://github.com/massgov/edit-mayflower-docs/tree/898f2ed1bf3158dfa4c2a82ee1fcdc469196f65d/docs/assets/primary-button-2.gif)
 
 ```text
 <button type="button" class="ma__button" aria-label="">Button</button>
@@ -29,7 +29,7 @@ For the principle call to action on the page.
 
 For the secondary action on a page.
 
-![](../../.gitbook/assets/secondary-button-outline%20%282%29.gif)
+![](../../.gitbook/assets/secondary-button-outline.gif)
 
 ```text
 <button type="button" class="ma__button ma__button--small ma__button--secondary ma__button--minor" aria-label="">Button</button>
