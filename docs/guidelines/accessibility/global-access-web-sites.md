@@ -1,12 +1,8 @@
 # What it takes to access web sites
 
-## global--access-web-sites
-
-## What it takes to access web sites
-
 Some components are involved to make websites available to any of us. First, we have information to put on a website. We refer it as **web content**. Second, we need tools to create a website, which is categorized as **authoring tools**. Third, we need means to get to the website. That is **user agents**. Let's take a look at each component closely.
 
-### Web content
+## Web content
 
 It is any part of a web site such as:
 
@@ -18,7 +14,7 @@ It is any part of a web site such as:
 * scripts 
 * applications
 
-### Authoring tools
+## Authoring tools
 
 They are the tools to build a website. They can be software or services that people use to produce web content. Here are some of them:
 
@@ -28,7 +24,7 @@ They are the tools to build a website. They can be software or services that peo
 * blogs
 * database scripts
 
-### User agents
+## User agents
 
 Software that people use to access web content:
 

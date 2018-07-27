@@ -1,8 +1,5 @@
 # What you can do to make your website accessible
 
-## global--implement-accessibility
-
-## What you can do to make your website accessible
 
 The [Web Content Accessibility Guidelines \(WCAG\) 2.0 and 2.1](https://www.w3.org/WAI/standards-guidelines/wcag/) help you to [make your website available to more people](https://github.com/massgov/edit-mayflower-docs/tree/2d579cba5a280af6e4bd5fd08eabde4b3e71383b/docs/guidelines/accessibility/global--accessibility-definition.md). By following the guidelines, you would offer better user experiences to broad range of people use your website.
 
@@ -10,11 +7,11 @@ The [Web Content Accessibility Guidelines \(WCAG\) 2.0 and 2.1](https://www.w3.o
 
 However you starts, it is important to [have a good foundation](global-implement-accessibility.md#cover-the-basic) to work on and [understand the basic concepts](global-implement-accessibility.md#meet-more-user-needs) to support your initiative to be successful.
 
-### Cover the basic {#cover-the-basic}
+## Cover the basic {#cover-the-basic}
 
 To create an accessible website, let's start with a good foundation.
 
-#### Web standards
+### Web standards
 
 Separating a website in three layers:
 
@@ -26,7 +23,7 @@ Learn more:
 
 * [Web Standards - Keeping Everything Compatible](https://www.whoishostingthis.com/resources/web-standards/)
 
-#### Semantic HTML
+### Semantic HTML
 
 HTML \(Hypertext Markup Language\) is not a programming language; it is a markup language used to tell a browser how to structure the web pages. Semantic markup creates a structure to the content.
 
@@ -40,14 +37,14 @@ Learn more:
 * [Accessibility Through Semantic HTML](https://24ways.org/2017/accessibility-through-semantic-html/)
 * [G115: Using semantic elements to mark up structure](https://www.w3.org/TR/WCAG20-TECHS/G115.html)
 
-#### Valid markup
+### Valid markup
 
 First, a website should be processed and displayed properly in multiple browsing devices. Valid markup supports that.
 
 * [Markup Validation](https://validator.w3.org/)
 * [CSS Validation](https://jigsaw.w3.org/css-validator/)
 
-### Meet more user needs {#meet-more-user-needs}
+## Meet more user needs {#meet-more-user-needs}
 
 With a good foundation, your website is ready to meet more user needs. What are the user needs? [Designing for accessibility is not that hard - Seven easy-to-implement guidelines to design a more accessible web ❤️](https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94) is a good place to start finding answers for the question.
 
@@ -57,7 +54,7 @@ There are four main principles to make our website accessible based on these bas
 * Moving beyond technical accessibility
 * Focusing on the principles of accessibility
 
-#### PERCEIVABLE information and user interface
+### PERCEIVABLE information and user interface
 
 Starting at the most basic level, users must be able to process information. The information could be text, audio, static image, video, and so on, things presented in your website, which are referred as **web content**.
 
@@ -138,7 +135,7 @@ Well organized content helps users to orient themselves and to navigate effectiv
 
 **Ask yourself**: Can all functions of our website be performed with a keyboard? Can users control interactive elements of our website? Does our website make completing tasks easy?
 
-#### UNDERSTANDABLE information and user interface
+### UNDERSTANDABLE information and user interface
 
 If users can perceive and operate a website, that doesn't mean they can understand it. Understandable websites use clear, concise language and offer functionality that is easy to comprehend. Writing should be clear and concise.
 

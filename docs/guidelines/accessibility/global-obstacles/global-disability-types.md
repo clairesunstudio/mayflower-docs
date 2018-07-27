@@ -1,10 +1,6 @@
 # Disability Types
 
-## global--disability-types
-
-## Disability Types
-
-### Visual
+## Visual
 
 * Blindness
 * Low vision
@@ -12,14 +8,14 @@
 
 [Learn more](https://webaim.org/articles/visual/)
 
-#### Key principle of web accessibility for them
+### Key principle of web accessibility for them
 
 * Perceivable: because they cannot perceive \(see\) visual information such as graphics, layout, or color-based cues
 * Operable: because they usually depend on a keyboard to operate \(navigate\) web content functionality, rather than a mouse
 * Understandable: because they cannot understand content that is presented in an illogical linear order, or which contains extraneous text not meant to be read word for word or character by character \(such as long web addresses\), etc.
 * Robust: because the assistive technologies used by the blind are not always capable of accessing a broad range of technologies, especially if those technologies are new
 
-### Auditory
+## Auditory
 
 * Deafness \(= Hard of hearing\)
   * Mild
@@ -40,11 +36,11 @@
 
 [Learn more](https://webaim.org/articles/auditory/)
 
-#### Key principle of web accessibility for them
+### Key principle of web accessibility for them
 
 * Perceivable: because they cannot perceive\(hear\) auditory content
 
-### Motor
+## Motor
 
 * Traumatic Injuries
   * Spinal cord injury
@@ -60,26 +56,26 @@
 
 [Learn more](https://webaim.org/articles/motor/motordisabilities)
 
-#### Key principle of web accessibility for them
+### Key principle of web accessibility for them
 
 Most assistive technologies for people with motor disabilities either work through the keyboard or emulate the functionality of the keyboard.
 
 Knowing this, developers can focus on making their content accessible to the keyboard, and ensure that the site is navigable with as few keystrokes as possible.
 
-### Key Concepts
+## Key Concepts
 
 * Users may not be able to use the mouse. --&gt; Make sure that all functions are available from the keyboard \(try tabbing from link to link\).
 * Users may not be able to control the mouse or the keyboard well. --&gt; Make sure that your pages are error-tolerant \(e.g. ask "are you sure you want to delete this file?"\), do not create small links or moving links.            
 * Users may be using voice-activated software. --&gt; Voice-activated software can replicate mouse movement, but not as efficiently as it can replicate keyboard functionality, so make sure that all functions are available from the keyboard.
 * Users may become fatigued when using "puff-and-sip" or similar adaptive technologies. --&gt; Provide a method for skipping over long lists of links or other lengthy content.
 
-### Cognitive
+## Cognitive
 
 The concept of cognitive disabilities is extremely broad, and not always well-defined. In loose terms, a person with a cognitive disability has greater difficulty with one or more types of mental tasks than the average person.
 
 There are at least two ways to classify cognitive disabilities: by functional disability or by clinical disability.
 
-#### Clinical diagnoses of cognitive disabilities
+### Clinical diagnoses of cognitive disabilities
 
 * Autism
 * Down Syndrome
@@ -104,13 +100,13 @@ For the purposes of web accessibility, classifying cognitive disabilities by fun
 
 [Learn more](https://webaim.org/articles/cognitive/)
 
-#### Key principle of web accessibility for them
+### Key principle of web accessibility for them
 
-### Seizure
+## Seizure
 
 Some people are susceptible to seizures caused by strobing, flickering, or flashing effects. This kind of seizure is sometimes referred to as a photoepileptic seizure because it is caused by pulses of light \(hence the prefix "photo"\) interacting with the eye's light-receptive neurons and the body's central nervous system.
 
 [Learn more](https://webaim.org/articles/seizure/)
 
-#### Key principle of web accessibility for them
+### Key principle of web accessibility for them
 

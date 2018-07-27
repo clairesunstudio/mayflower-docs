@@ -1,12 +1,11 @@
 # How people with disabilities use websites
 
-## How people with disabilities use websites
 
 Mary audience and including those who may have difficulty with some of the content. People with disability might need some assistance to use websites depending on their conditions. Not all of them need assistance to use a website, but their user experience could be much better with a mindfully created website.
 
 Understanding [their obstacles](https://github.com/massgov/edit-mayflower-docs/tree/2dd65c3a6517f7982b93ad0772be51cea6997750/docs/guidelines/accessibility/LINK%20to%20Obstacles%20to%20use%20websites/README.md) would help us creating practically accessible websites.
 
-### Visual disabilities
+## Visual disabilities
 
 **Blindness**
 
@@ -66,7 +65,7 @@ People with color blindness might use assistive technology to transform colors b
 
 When the colors, only the colors, convey important information, for example using a color they cannot recognize to indicate something important becomes a problem to them. Under these circumstances you will need to either change the graphic or provide an additional means of obtaining the same information. Oftentimes the most appropriate way to do this is to provide an explanation in the text itself.
 
-### Auditory disabilities
+## Auditory disabilities
 
 Most of people with deafness and hard-of-hearing rely on visual presentation of information. Depending on their severity of hard-of-hearing, they might be able to obtain audio content with some adjustment.
 
@@ -81,7 +80,7 @@ Most of people with deafness and hard-of-hearing rely on visual presentation of 
 * Media players that do not display captions and that do not provide volume controls.
 * Media players that do not provide options to adjust the text size and colors for captions.
 
-### Physical disabilities \(sometimes called “motor disabilities”\)
+## Physical disabilities \(sometimes called “motor disabilities”\)
 
 The conditions for physical disabilities vary in their types and severities. Most likely they have difficulty to use a mouse and/or keyboard.
 
@@ -115,7 +114,7 @@ Missing visual and non-visual orientation cues, page structure, and other naviga
 
 Inconsistent, unpredictable, and overly complicated navigation mechanisms and page functions.
 
-### Cognitive \(reading and understainding\)
+## Cognitive \(reading and understanding\)
 
 The concept of cognitive disabilities is extremely broad, and not always well-defined. In loose terms, **a person with a cognitive disability has greater difficulty with one or more types of mental tasks than the average person**.
 
@@ -157,7 +156,7 @@ Avoiding anything that draws a person's attention away from the main content and
 
 Some individuals have difficulties understanding text in various severities like the brightest minds of recent generations such as Albert Einstein, Thomas Edison, and Henry Ford.
 
-It would be unreasonable to expect web developers and content authors to accommodate the entire range of reading abilities. It is reasonable, however, to expect content authors to **write as simply and clearly as is feasible**, taking into account the pri
+It would be unreasonable to expect web developers and content authors to accommodate the entire range of reading abilities. It is reasonable, however, to expect content authors to **write as simply and clearly as is feasible**, taking into account the primary audience and including those who may have difficulty with some of the content.
 
 **Non-Literal Text**
 

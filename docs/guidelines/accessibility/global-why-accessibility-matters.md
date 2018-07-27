@@ -1,10 +1,7 @@
 # Why web accessibility matters
 
-## global--why-accessibility-matters
 
-## Why web accessibility matters
-
-At its core, the Web is about people being able to find and access information. Increasingly, access to online information is essential to our daily lives. Benefits from the Web are supposed to be avaiable to anybody. There shouldn't be any exception to any of us.
+At its core, the Web is about people being able to find and access information. Increasingly, access to online information is essential to our daily lives. Benefits from the Web are supposed to be available to anybody. There shouldn't be any exception to any of us.
 
 When it’s broken down, the word accessibility is the “ability” to “access” and really this is why the topic is so important. Broadly stated, it’s intentionally designing the world to include everyone, regardless of disability. So we have access to more of life.
 

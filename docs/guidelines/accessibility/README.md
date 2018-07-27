@@ -1,8 +1,6 @@
 # Accessibility
 
-## Accessibility
-
-### Web accessibility and the Commonwealth of Massachusetts
+## Web accessibility and the Commonwealth of Massachusetts
 
 All government digital products in the US are required to conform to [Section 504 of the Rehabilitation Act](http://www.dol.gov/oasam/regs/statutes/sec504.htm), [Section 508 of the Rehabilitation Act](https://section508.gov/manage/laws-and-policies) and the [Americans with Disabilities Act \(ADA\)](https://www.ada.gov/).
 
