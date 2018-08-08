@@ -29,7 +29,7 @@ For the principle call to action on the page.
 
 For the secondary action on a page.
 
-![](../../.gitbook/assets/secondary-button-outline%20%281%29.gif)
+![](../../.gitbook/assets/secondary-button-outline%20%282%29.gif)
 
 ```text
 <button type="button" class="ma__button ma__button--small ma__button--secondary ma__button--minor" aria-label="">Button</button>
