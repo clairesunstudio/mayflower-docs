@@ -28,6 +28,7 @@ Buttons are vital for creating a smooth conversational flow on the web, and shou
 
 ## Code
 
+
 ### Primary Button
 
 {% tabs %}
@@ -78,6 +79,7 @@ Buttons are vital for creating a smooth conversational flow on the web, and shou
 {% tab title="Visual" %}
 ![Example of Outline Button](../../.gitbook/assets/outlinebutton%20%281%29.png)
 {% endtab %}
+
 
 {% tab title="HTML" %}
 ```markup
