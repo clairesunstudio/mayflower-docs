@@ -24,6 +24,7 @@
     * [Links](components/atoms/links.md)
     * [Lists](components/atoms/lists.md)
     * [Table](components/atoms/table.md)
+    * [Text Area](components/atoms/text-area.md)
   * [Molecules](components/molecules/README.md)
     * [Pagination](components/molecules/pagination.md)
     * [Relationship Indicators \(Breadcrumbs\)](components/molecules/relationship-indicators-breadcrumbs.md)
