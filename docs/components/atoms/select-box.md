@@ -2,7 +2,11 @@
 
 ## Overview
 
-Select box is a common form component used when only a single option should be selected from a list of possibilities. The select box should be used if you are constrained by space or if you have more than 3 and less than 12 selectable options. A group of radio buttons is preferred if you are able to show all available options to users. If you have a large number of selectable options, users should be able provided with typeahead functionality - included in the input text typeahead component.
+Select box is a common form component used when only a single option should be selected from a list of possibilities. The select box should be used if you are constrained by space or if you have more than 3 and less than 10 selectable options. A group of radio buttons is preferred if you are able to show all available options to users. If you have a large number of selectable options, users should be able provided with typeahead functionality \(see input text typeahead\). 
+
+#### Disclaimer
+
+Select boxes should not be used if possible. The behavior of select boxes varies across devices and they are not intuitive to non-technical users. Better options  with comparable functionality are text inputs or a group of radio buttons.
 
 ### Select Box States
 
