@@ -8,35 +8,39 @@ Headings are used as the titles of each major section of a page in the interface
 
 #### Heading Level Variations
 
+These elements represent headings for their sections...These elements have a rank given by the number in their name. The `<h1>` element is said to have the highest rank, the `<h6>` element has the lowest rank, and two elements with the same name have equal rank.
+
+Navigating through the `<h1>` and `<h2>` elements allows the user to understand the overall purpose of a page and how its content is structured. The `<h3>`through `<h6>` elements provide a quick understanding of the details in each section.
+
 | **Visual** | **Name** | **Description & Usage** |
 | :--- | :--- | :--- |
-| ![](../../.gitbook/assets/headinglevel6%20%282%29.png) | [Heading Levels 1-6](headings.md#heading-levels-1-6) |  |
+| ![](../../.gitbook/assets/h1%20%281%29.png) | H1 | font-size: 3rem; line-height: 1.07; |
+| ![](../../.gitbook/assets/h1-2.png)  | H2 | font-size: 2.25rem; line-height: 1.222222; |
+| ![](../../.gitbook/assets/h1-2-2.png)  | H3 | font-size: 2rem; line-height: 1.2; margin-bottom: .75em; |
+| ![](../../.gitbook/assets/h1-2-2-2.png)  | H4 | font-size: 1.813rem; line-height: 1.2; |
+| ![](../../.gitbook/assets/h1-2-2-2-2.png)  | H5 | font-size: 1.625rem; line-height: 1.3; margin-bottom: .5em; |
+| ![](../../.gitbook/assets/h1-2-2-2-2-2.png)  | H6 | font-size: 1.4rem; margin-bottom: .25em; |
 
 #### Colored Heading Variations
 
 | **Visual** | **Name** | **Description & Usage** |
 | :--- | :--- | :--- |
-| ![](https://lh4.googleusercontent.com/LtmTRB6jQ38Zhp92_ete7b3HzmIx4_TtEcLTAvQph5G57rQRsmiYLHWfDxGn-uw6fznzO6QiN5DZAnqzt5eldaGH620DK8BWrPQ997sB1aL39WbAnuCP_gCkphtfo-v-SbyzVeCJ) | [Green Colored Heading](headings.md#green-colored-heading) | Should be used as a navigational heading, high up on the page. |
-| ![](https://lh6.googleusercontent.com/1uG0E380Va1vRFieJc8zYfVgJfklSb5-ZILBCXjLOOg3cklWc3Ihzvp3XlIGozS4cDkm7tAtAeZKl6yo5NmR_sBdHvhXx4SkpZdPv1Coc9IfQEnfekfNdH_-GAII87A_SuYxuCSc) | [Colored Heading](headings.md#colored-heading) | Should only be used in the right rail when there is a green colored navigational heading in the 2/3rds main content well. |
-| ![](https://lh3.googleusercontent.com/oWlfPM661LO-4F89i5_glUmDJjk0tp4snSYgxzno2Gbafqg1MUtJHl53MIgWECiceHTZYKLX-Y5dNtV85kM5VJ_nLTKkPszbmM54Edy8qaa8zqPRcqTzbcQ4-o8g7xqV1b-RJ4r5) | [Blue Colored Heading](headings.md#blue-colored-heading) | This heading style is used as an action finder. |
+| ![](https://lh4.googleusercontent.com/LtmTRB6jQ38Zhp92_ete7b3HzmIx4_TtEcLTAvQph5G57rQRsmiYLHWfDxGn-uw6fznzO6QiN5DZAnqzt5eldaGH620DK8BWrPQ997sB1aL39WbAnuCP_gCkphtfo-v-SbyzVeCJ) | [Green Colored Heading](headings.md#green-colored-heading) | Should be used as a navigational heading, high up on the page. It's used as section heading for action finders on organization page. If a page heading H1 exists, should use a lower heading level than the page heading. Color is for styling purposes no semantic differences. |
+| ![](https://lh3.googleusercontent.com/oWlfPM661LO-4F89i5_glUmDJjk0tp4snSYgxzno2Gbafqg1MUtJHl53MIgWECiceHTZYKLX-Y5dNtV85kM5VJ_nLTKkPszbmM54Edy8qaa8zqPRcqTzbcQ4-o8g7xqV1b-RJ4r5) | Blue Colored Heading | Should be used as a navigational heading, high up on the page. It's used as section heading for action finders on services page. |
+| ![](https://lh6.googleusercontent.com/1uG0E380Va1vRFieJc8zYfVgJfklSb5-ZILBCXjLOOg3cklWc3Ihzvp3XlIGozS4cDkm7tAtAeZKl6yo5NmR_sBdHvhXx4SkpZdPv1Coc9IfQEnfekfNdH_-GAII87A_SuYxuCSc) | [Colored Heading](headings.md#blue-colored-heading) | Should only be used in the right rail when there is a green colored navigational heading in the 2/3rds main content well. |
 
 #### Component Heading Variations
 
 | **Visual** | **Name** | **Description & Usage** |
 | :--- | :--- | :--- |
-| ![](../../.gitbook/assets/componentheading.png) | [Component Heading](headings.md#component-heading) |  |
-
-#### Column Heading Variations
-
-| **Visual** | **Name** | **Description & Usage** |
-| :--- | :--- | :--- |
-| ![](../../.gitbook/assets/columnheading.png) | [Column Heading](headings.md#column-heading) |  |
+| ![](../../.gitbook/assets/screen-shot-2018-08-09-at-4.34.45-pm.png)  | Blue [Component Heading](headings.md#component-heading) | Should be used to to separate content within a big section. If used under Colored Heading, should use a lower heading level than the colored heading. |
+| ![](../../.gitbook/assets/screen-shot-2018-08-09-at-4.29.08-pm.png)  | Yellow Component Heading  |  |
 
 #### Sidebar Heading Variations
 
 | **Visual** | **Name** | **Description & Usage** |
 | :--- | :--- | :--- |
-| ![](../../.gitbook/assets/sidebarheading.png) | [Sidebar Heading](headings.md#sidebar-heading) | Should be used as a subheading in the main content well in a 50/50 split. |
+| ![](../../.gitbook/assets/sidebarheading.png) | [Sidebar Heading](headings.md#sidebar-heading) | Should be used as a heading of a list either full width or in a 50/50 split the main content well. |
 
 ### Accessibility & Best Practices
 
