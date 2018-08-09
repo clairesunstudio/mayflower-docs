@@ -1,7 +1,3 @@
----
-description: Text area is a long free form input text field.
----
-
 # Text Area
 
 ## Overview
