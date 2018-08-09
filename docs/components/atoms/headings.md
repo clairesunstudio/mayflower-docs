@@ -33,19 +33,14 @@ Navigating through the `<h1>` and `<h2>` elements allows the user to understand 
 
 | **Visual** | **Name** | **Description & Usage** |
 | :--- | :--- | :--- |
-| ![](../../.gitbook/assets/componentheading.png) | [Component Heading](headings.md#component-heading) | Should be used to to separate content within a big section. If used under Colored Heading, should use a lower heading level than the colored heading. |
-
-#### Column Heading Variations
-
-| **Visual** | **Name** | **Description & Usage** |
-| :--- | :--- | :--- |
-| ![](../../.gitbook/assets/columnheading.png) | [Column Heading](headings.md#column-heading) |  |
+| ![](../../.gitbook/assets/screen-shot-2018-08-09-at-4.34.45-pm.png)  | Blue [Component Heading](headings.md#component-heading) | Should be used to to separate content within a big section. If used under Colored Heading, should use a lower heading level than the colored heading. |
+| ![](../../.gitbook/assets/screen-shot-2018-08-09-at-4.29.08-pm.png)  | Yellow Component Heading  |  |
 
 #### Sidebar Heading Variations
 
 | **Visual** | **Name** | **Description & Usage** |
 | :--- | :--- | :--- |
-| ![](../../.gitbook/assets/sidebarheading.png) | [Sidebar Heading](headings.md#sidebar-heading) | Should be used as a subheading in the main content well in a 50/50 split. |
+| ![](../../.gitbook/assets/sidebarheading.png) | [Sidebar Heading](headings.md#sidebar-heading) | Should be used as a heading of a list either full width or in a 50/50 split the main content well. |
 
 ### Accessibility & Best Practices
 
