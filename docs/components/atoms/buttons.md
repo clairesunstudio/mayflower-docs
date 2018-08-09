@@ -207,6 +207,7 @@ Not Available
 | Quaternary Button | .ma\_\_button--quaternary |
 | Icon Button | .ma\_\_button--icon |
 | Search Button | .ma\_\_button--search |
+| Capitalized Button | .ma\_\_button-capitalized |
 
 
 
