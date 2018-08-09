@@ -16,8 +16,8 @@ Select box is a common form component used when only a single option should be s
 
 ### Accessibility & Best Practices
 
-* The list of options should be sorted in a logical manner.
-* Create simple, clear and used options.
+* Options should be sorted in a logical manner.
+* Create simple, clear, and relevant options.
 * Provide a clear label.
 
 ## Code
