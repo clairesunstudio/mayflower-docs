@@ -8,10 +8,10 @@ Text input fields enable users to enter long and free form content. TextArea sho
 
 | Visual | Name | Description |
 | :--- | :--- | :--- |
-| ![](../../.gitbook/assets/textarea.png) |  Standard | The standard state of the text area atom. |
-| ![](../../.gitbook/assets/textarea-as-disabled.png) |  Disabled | In a disabled state, a user cannot input anything into text area. Use a disabled state if an action needs to be taken before a user can use the input. |
-| ![](../../.gitbook/assets/textarea-as-error.png) |  Error | The error state indicates a form validation issue on this input, with red color adding emphasis. In this state, provide clear instructions on how to resolve the error.  |
-| ![](../../.gitbook/assets/textarea-as-focus.png) |  Focus | The appearance of text area when a user is focused on the atom. |
+| ![](../../.gitbook/assets/textarea.png) | Standard | The standard state of the text area atom. |
+| ![](../../.gitbook/assets/textarea-as-disabled.png) | Disabled | In a disabled state, a user cannot input anything into text area. Use a disabled state if an action needs to be taken before a user can use the input. |
+| ![](../../.gitbook/assets/textarea-as-error%20%281%29.png) | Error | The error state indicates a form validation issue on this input, with red color adding emphasis. In this state, provide clear instructions on how to resolve the error. |
+| ![](../../.gitbook/assets/textarea-as-focus%20%281%29.png) | Focus | The appearance of text area when a user is focused on the atom. |
 
 ### Accessibility & Best Practices
 
