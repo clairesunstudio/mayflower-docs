@@ -16,7 +16,7 @@ Text input fields enable users to enter long and free form content. TextArea sho
 ### Accessibility & Best Practices
 
 * **Label** \(_labelText_\): The label should appropriately indicate to the user what they should enter in the text area. Use sentence style capitalization.
-* **Placeholder** \(_placeholder_\): The placeholder text should provide hints to users on what to enter in the input. Use placeholder only when further clarification is needed.
+* **Placeholder** \(_placeholder_\): The placeholder text should provide hints to users on what to enter in the input. Use placeholder only when further clarification is needed. When a user enters text in the field, placeholder text disappears so use it sparingly when clarification is needed.
 * **Error Message** \(_errorMsg_\): Error messages should indicate to users what the field issue is and how they can resolve it. Inform the user what is wrong and how to fix it. Error messages should only be shown to a user after they have interacted with the field
 
 ## Code
