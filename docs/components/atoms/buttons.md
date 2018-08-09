@@ -15,14 +15,13 @@ Buttons are vital for creating a smooth conversational flow on the web, and shou
 
 | **Visual** | **Name** | **Description & Usage** |
 | :--- | :--- | :--- |
-| ![](../../.gitbook/assets/primarybutton-2.png) | [Primary Button](buttons.md#primary-button) | For the principle call to action on the page. |
-| ![Example of Secondary Button](../../.gitbook/assets/secondarybutton%20%282%29.png) | [Secondary Button](buttons.md#secondary-button) | For the secondary action on a page. |
-| ![Example of Quaternary Button](../../.gitbook/assets/capture_01-atoms-01-buttons-button-as-quaternary-color_0_document_0_phone-1.png) | [Quaternary Button](buttons.md#quaternary-button) | For the fourth action on a page. |
-| ![](../../.gitbook/assets/primarybutton-1.png) | [Small Button](buttons.md#small-primary-button) | Use when there is not enough space for a regular button size. |
-| ![](../../.gitbook/assets/outlinebutton-2.png) | [Outline Button](buttons.md#outline-primary-button) | A subtle alternative to the default button styling, appropriate for certain backdrops and for displaying active state \(e.g. previous and next\) |
+| ![](../../.gitbook/assets/primarybutton-2.png)![](../../.gitbook/assets/screen-shot-2018-08-09-at-11.06.52-am%20%283%29.png) | [Primary Button](buttons.md#primary-button) | For the principle call to action on the page.  |
+| ![](../../.gitbook/assets/outlinebutton-2.png)![Example of Secondary Button](../../.gitbook/assets/secondarybutton%20%282%29.png) | Secondary Button | For the secondary action on a page. Inverting the primary button to provide a less prominent action on a page, e.g. the Back button. |
+| ![](../../.gitbook/assets/screen-shot-2018-08-09-at-2.22.08-pm.png) | Tertiary Button | For the third action on a page. |
+|  ![](../../.gitbook/assets/screen-shot-2018-08-09-at-2.12.33-pm.png) | Quaternary Button | For an subtile action on a page. |
 | ![](../../.gitbook/assets/primarybutton-3.png) | [Link Button](buttons.md#link-button) | Link buttons are used to navigate to another page |
 | ![](../../.gitbook/assets/iconbutton-2.png) | [Icon Button](buttons.md#icon-button) | When words are not enough, icons can be used in buttons to better communicate what the button does. Icons are always paired with text. |
-| ![](../../.gitbook/assets/searchbutton%20%282%29.png) | [Search Button](buttons.md#search-button) | The search button is included in the search bar, It is a submit button for the form to reduce the number of keystrokes required to use the form. The magnifying glass is universally recognized by users as an indicator of search, and doesn’t need to be visually paired with the word "Search" as long as it remains for screen readers. |
+| ![](../../.gitbook/assets/searchbutton%20%282%29.png) | [Search Button](buttons.md#search-button) | The search button is a variant of the icon button. It is a submit button included in the search bar, for the form to reduce the number of keystrokes required to use the form. On mobile, it will reduced to the icon. The magnifying glass is universally recognized by users as an indicator of search, and doesn’t need to be visually paired with the word "Search" as long as it remains for screen readers. |
 
 ### Accessibility & Best Practices
 
