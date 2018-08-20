@@ -21,7 +21,7 @@ Buttons are vital for creating a smooth conversational flow on the web, and shou
 |  ![](../../.gitbook/assets/screen-shot-2018-08-09-at-2.12.33-pm.png) | Quaternary Button | For an subtle action on a page. |
 |  ![](../../.gitbook/assets/screen-shot-2018-08-09-at-2.35.05-pm%20%281%29.png) ![](../../.gitbook/assets/screen-shot-2018-08-09-at-2.34.59-pm%20%281%29.png) | Disabled Button | Box shadow on default buttons are used to accentuate the actions. For disabled buttons, box shadow is removed and opacity for the button is set to 0.5 for a muted look and no hover or focus state is provided. |
 | ![](../../.gitbook/assets/primarybutton-3%20%281%29.png) | [Link Button](buttons.md#link-button) | Link buttons are used to navigate to another page |
-| ![](../../.gitbook/assets/iconbutton-2.png) | [Icon Button](buttons.md#icon-button) | When words are not enough, icons can be used in buttons to better communicate what the button does. Icons are always paired with text. |
+| ![](../../.gitbook/assets/iconbutton-2%20%282%29.png) | [Icon Button](buttons.md#icon-button) | When words are not enough, icons can be used in buttons to better communicate what the button does. Icons are always paired with text. |
 | ![](../../.gitbook/assets/searchbutton%20%282%29.png) | [Search Button](buttons.md#search-button) | The search button is a variant of the icon button. It is a submit button included in the search bar, for the form to reduce the number of keystrokes required to use the form. On mobile, it will reduced to the icon. The magnifying glass is universally recognized by users as an indicator of search, and doesn’t need to be visually paired with the word "Search" as long as it remains for screen readers. |
 
 ### Accessibility & Best Practices
@@ -56,7 +56,7 @@ Buttons are vital for creating a smooth conversational flow on the web, and shou
 
 {% tabs %}
 {% tab title="Visual" %}
-![Example of Outline Button](../../.gitbook/assets/outlinebutton-1.png)
+![Example of Outline Button](../../.gitbook/assets/outlinebutton-1%20%281%29.png)
 {% endtab %}
 
 {% tab title="HTML" %}

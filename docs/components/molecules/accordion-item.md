@@ -6,11 +6,12 @@ Accordions aid in providing only needed and key content to users. The are create
 
 ### Accordion Item Variations
 
-![Default Accordion](../../.gitbook/assets/accordiondefault.gif)
-
-![Borderless Accordion](../../.gitbook/assets/accordion-borderless.gif)
-
-![Subtle Accordion](../../.gitbook/assets/accordion-subtle%20%281%29.gif)
+| Visual | Name | Description |
+| :--- | :--- | :--- |
+| ![](../../.gitbook/assets/accordiondefault.gif)  | Default | This is the default accordion style, a colored heading with bordered content. |
+| ![](../../.gitbook/assets/accordion-borderless.gif)  | Borderless | A borderless accordion content style. |
+| ![](../../.gitbook/assets/accordion-subtle%20%281%29.gif)  | Subtle | An accordion whose header turns transparent  in an open state. |
+| ![](../../.gitbook/assets/accordionsecondary.gif)  | Secondary | An accordion that is a less prominent element on the page. |
 
 
 
