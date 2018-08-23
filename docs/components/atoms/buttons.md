@@ -28,7 +28,9 @@ Buttons are vital for creating a smooth conversational flow on the web, and shou
 
 - Buttons should display a visible focus state when users tab to them.
 - `<button>` has built-in keyboard accessibility — it can be tabbed between, and activated using Return/Enter.
-- When an icon or any image is included in `<button>`, make sure they have text alternative presentation or use them supplementary and add text for its label.
+- When an icon or any image is included in `<button>`; 
+  1. if the icon or image is NOT decorative, make sure they have text alternative presentation.
+  2. if it is decorative (= use them supplementary) with text for its label, do not add any text alternative to it.  Use `aria-hidden="true"`, empty alt attribute `alt=""`. Do not use `title` and other aria attributes to make the icon or image recognizable to assistive technologies.
 - Avoid using `<div>` or `<img>` tags to create buttons. Screen readers don't automatically know either is a usable button.
 - When styling links to look like buttons, remember that screen readers handle links slightly differently than they do buttons. Pressing the Space key triggers a button, but pressing the Enter key triggers a link.
 - The label text and the background have a color contrast to meet the WCAG guideline.
