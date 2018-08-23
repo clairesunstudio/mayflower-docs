@@ -29,7 +29,6 @@
 
 [Learn more](https://webaim.org/articles/auditory/)
 
-
 ## Motor
 
 * Traumatic Injuries
@@ -83,7 +82,6 @@ For the purposes of web accessibility, classifying cognitive disabilities by fun
 * Visual comprehension
 
 [Learn more](https://webaim.org/articles/cognitive/)
-
 
 ## Seizure
 

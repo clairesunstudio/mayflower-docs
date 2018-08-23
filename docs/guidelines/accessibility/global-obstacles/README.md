@@ -39,5 +39,5 @@ The adaptability to their impairments also varies depending on their situations.
 
 You cannot assume all blind people understand/use braille or any deaf people understand/use sign languages.
 
-[Learn more about disabilities](global-disability-types.md)
+[Learn more about disabilities]()
 

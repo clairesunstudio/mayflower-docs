@@ -8,9 +8,9 @@ Accessible websites are part of a culture of accessibility and inclusion. Web ac
 
 ## 2. Build positive public relations
 
-Corporate Social Responsibility (CSR) - Accessible websites include, and inaccessible websites exclude. Providing an accessible website is one way your organization can demonstrate that it’s helping to support the  needs of a diverse society.
+Corporate Social Responsibility \(CSR\) - Accessible websites include, and inaccessible websites exclude. Providing an accessible website is one way your organization can demonstrate that it’s helping to support the needs of a diverse society.
 
-Having an accessible website can also contribute positively to your organization’s public image. 
+Having an accessible website can also contribute positively to your organization’s public image.
 
 Taking responsibility for your organization’s social impact can enhance your brand, increase sales and customer loyalty, provide more access to capital and funding, and make your organization more attractive to potential employees.
 
@@ -22,7 +22,7 @@ A [study in the United Kingdom \(UK\)](https://disability-smart.com/2017/01/10/i
 
 ## 4. Avoid discrimination and legal complications
 
-In the U.S., public sector organizations (government-funded programs/schools, airlines, and nonprofits) are required to follow certain website accessibility rules. Having an accessible website means complying with your country’s equality and anti-discrimination law.  U.S. government websites need to conform to [Section 504 of the Rehabilitation Act](https://www.dol.gov/oasam/regs/statutes/sec504.htm), [Section 508 of the Rehabilitation Act](https://section508.gov/manage/laws-and-policies) and the [Americans with Disabilities Act (ADA)](https://www.ada.gov/).
+In the U.S., public sector organizations \(government-funded programs/schools, airlines, and nonprofits\) are required to follow certain website accessibility rules. Having an accessible website means complying with your country’s equality and anti-discrimination law. U.S. government websites need to conform to [Section 504 of the Rehabilitation Act](https://www.dol.gov/oasam/regs/statutes/sec504.htm), [Section 508 of the Rehabilitation Act](https://section508.gov/manage/laws-and-policies) and the [Americans with Disabilities Act \(ADA\)](https://www.ada.gov/).
 
 Both governments and private organizations are becoming subject to legal challenges because of their inaccessible online content and service offerings.
 
@@ -30,7 +30,7 @@ Private sector companies can be sued if they fail to adhere to accessibility gui
 
 ## 5. Better Search Engine Optimization \(SEO\)
 
-Search engines prefer accessible websites.  Most search engines are only able to process text and the way it is structured. By having a well-marked up site, they can index your site for more relevant information in search results.
+Search engines prefer accessible websites. Most search engines are only able to process text and the way it is structured. By having a well-marked up site, they can index your site for more relevant information in search results.
 
 ## 6. Improve usability for all types of users
 

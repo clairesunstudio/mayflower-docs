@@ -12,7 +12,6 @@
   * [Versioning](for-developers/versioning.md)
 * [Guidelines](guidelines/README.md)
   * [Accessibility](guidelines/accessibility/README.md)
-    * [What is web accessibility?](guidelines/accessibility/global-accessibility-definition.md)
     * [Why web accessibility matters](guidelines/accessibility/global-why-accessibility-matters.md)
     * [Myths of web accessibility](guidelines/accessibility/global-myths-of-accessibilities.md)
     * [Benefits of having an accessible website](guidelines/accessibility/global-benefits-of-accessible-websites.md)
