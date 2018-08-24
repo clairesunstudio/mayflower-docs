@@ -2,7 +2,7 @@
 
 Before we go into approaches for making an accessible website, it is important to understand the basic pieces needed for anyone to access a website.
 
-There are commonalities across all websites regardless of the audience. There is the information that needs to be put on a website or, more simply, **web content**. There are tools needed to create a website. These are our **authoring tools**. Finally, there needs to be a way to get to the website, which, in technical speak is called a **user agent**. Let's take a look at each component closely.
+There is the information that needs to be put on a website or, more simply, **web content**. There are tools needed to create a website. These are our **authoring tools**. Finally, there needs to be a way to get to the website, which, in technical speak is called a **user agent**. Let's take a look at each component closely.
 
 | Component | Description | Examples |
 | :--- | :--- | :--- |
