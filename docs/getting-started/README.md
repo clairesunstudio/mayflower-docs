@@ -33,7 +33,7 @@ The current version of Mayflower generated static assets:
 
 All Mayflower assets are version-controlled and are published following this convention:[`https://mayflower.digital.mass.gov`](https://mayflower.digital.mass.gov/)`/v/[version]`
 
-We recommend that you point to a stable version of the CSS and JS to avoid unexpected changes and update it whenever you are ready. Please refer to the [Mayflower Changelog](https://github.com/massgov/mayflower/blob/develop/CHANGELOG.md) to determine whether you want to upgrade Mayflower:  E.g. Mayflower v6.0.0
+We recommend that you point to a stable version of the CSS and JS to avoid unexpected changes and update it whenever you are ready. Please refer to the [Mayflower Changelog](https://github.com/massgov/mayflower/blob/develop/CHANGELOG.md) to determine whether you want to upgrade Mayflower: E.g. Mayflower v6.0.0
 
 * Compiled CSS for v6.0.0:
   * [https://mayflower.digital.mass.gov/v/6.0.0/assets/css/index-generated.css](https://mayflower.digital.mass.gov/v/5.31.0/assets/css/index-generated.css)
@@ -61,3 +61,4 @@ Currently Mayflower has 2 component libraries:
   2. JSX templating language
   3. Exports reusable React code by components
   4. **NPM package for React component library:** [**Mayflower-react** ](https://www.npmjs.com/package/@massds/mayflower-react)\*\*\*\*
+

@@ -4,7 +4,7 @@
 
 **The official typeface of Mass.gov is Texta. We picked Texta for the Mass.gov branding purposes.**
 
-![&quot;Mass.gov&quot; displaying in Texta](../.gitbook/assets/texta-massgov%20%281%29.png)
+![&quot;Mass.gov&quot; displaying in Texta](../.gitbook/assets/texta-massgov-1.png)
 
 ![&quot;MA&quot; displaying in Texta](../.gitbook/assets/texta-ma.png)
 
@@ -21,10 +21,11 @@ Texta font has the following font weight options:
 | Bold | 700 |
 | Black | 800 |
 
-All font files can be downloaded either from the [**Mayflower Github repo**](https://github.com/massgov/mayflower/tree/develop/assets/fonts) or from the [**Mayflower NPM package**](https://unpkg.com/@massds/mayflower@6.0.0/fonts/). Please read the web font [**web font license**](https://www.fontspring.com/lic/htswufoczd) ****carefully to proceed**.**
+All font files can be downloaded either from the [**Mayflower Github repo**](https://github.com/massgov/mayflower/tree/develop/assets/fonts) or from the [**Mayflower NPM package**](https://unpkg.com/@massds/mayflower@6.0.0/fonts/). Please read the web font [**web font license**](https://www.fontspring.com/lic/htswufoczd) **\*\*carefully to proceed**.\*\*
 
 ### License
 
 Fontspring grants Licensee a perpetual, worldwide, non-exclusive and non-transferrable license to install the Texta as webfont **on Websites that are owned by the Commonwealth of Massachusetts** using the @font-face selector in CSS files. For other usage, you may have to acquire an additional license through Fontsprint.
 
 For more details about Texta's terms of use, please refer to our [**web font license**](https://www.fontspring.com/lic/htswufoczd).
+
