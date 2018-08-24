@@ -21,7 +21,6 @@
     * [How people with disabilities use websites](guidelines/accessibility/how-people-with-disabilities-use-websites.md)
     * [What you can do to make your website accessible](guidelines/accessibility/global-implement-accessibility.md)
     * [Sources](guidelines/accessibility/sources.md)
-    * [original-content](guidelines/accessibility/original-content.md)
   * [Search and Structured Data](guidelines/search-and-structured-data.md)
 * [Design Principles](design-principles.md)
 * [Style](style/README.md)
