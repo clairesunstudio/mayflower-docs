@@ -1,6 +1,6 @@
 # Myths of web accessibility
 
-People who are unfamiliar with web accessibility tend to misunderstand it. If you believe some things shown below, read through our documentation. You'll start seeing web accessibility in more positive way. We demonstrate such misconceptions are not true in this styleguide.
+People who are unfamiliar with web accessibility tend to misunderstand it. If you believe some things shown below, read through our documentation and you will begin to see web accessibility in more positive way.
 
 ## 1. People who have disabilities do not use my website.
 
