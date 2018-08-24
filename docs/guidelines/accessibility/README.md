@@ -12,7 +12,7 @@ As technology evolves, some methods of meeting accessibility guidelines become o
 
 Here, you'll find resources for web accessibility from basic concepts to technical approaches.
 
-**New to web accessibility?** [What is web accessibility?](https://github.com/massgov/edit-mayflower-docs/tree/e9443646354812c76e7b530175beedce46c7fdc9/docs/guidelines/accessibility/global-accessibility-definition.md) is a good place to start. 
+**New to web accessibility?** [Why web accessibility matters?](global-why-accessibility-matters.md) is a good place to start. 
 
 **Looking for more specific resources?**
 
