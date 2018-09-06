@@ -4,9 +4,9 @@
 
 Use checkboxes when looking for yes or no answers.
 
-Checkboxes enable to turn on and off one or more options from a set of alternatives. They can be used as a single option to be turned on or off. If only one option is to be selected in a set of options at a time, radio buttons should be used instead. 
+Checkboxes enable to turn on and off one or more options from a set of alternatives. They can be used as a single option to be turned on or off. If only one option is to be selected in a set of options at a time, radio buttons should be used instead.
 
-They can be presented either checked (pre-selected) or unchecked when the page loads.
+They can be presented either checked \(pre-selected\) or unchecked when the page loads.
 
 This is a unit to present a checkbox. Each checkbox needs its label to describe what the checkbox is for for the user.
 
@@ -43,14 +43,11 @@ Ensure the `id` value is unique in the page to identify the checkbox as a unique
 
 `name` attribute should share a common value between the checkboxes as grouped options.
 
-#### `<svg aria-hidden="true">` (Optional Component)
+#### `<svg aria-hidden="true">` \(Optional Component\)
 
-This component is optional.  It's a decorative element and safely omitted without any concerns for accessibility.
+This component is optional. It's a decorative element and safely omitted without any concerns for accessibility.
 
 When the icon conveys the same text content as the `<label>`'s, the icon is used for decorative purpose with `aria-hidden="true"`. No text alternative is provided, and assistive technology would ignore the icon.
 
 If it presents additional information to the label text content, the icon should not have `aria-hidden="true"` and provides text alternative through `alt`, visually hidden text, or other methods assistive technology can access.
-
-
-
 

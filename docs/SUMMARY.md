@@ -27,6 +27,8 @@
     * [Text Area](components/atoms/text-area.md)
     * [Select Box](components/atoms/select-box.md)
     * [Checkbox](components/atoms/checkbox.md)
+    * [Radio Button](components/atoms/radio-button.md)
+    * [Help Text](components/atoms/help-text.md)
   * [Molecules](components/molecules/README.md)
     * [Pagination](components/molecules/pagination.md)
     * [Relationship Indicators \(Breadcrumbs\)](components/molecules/relationship-indicators-breadcrumbs.md)
