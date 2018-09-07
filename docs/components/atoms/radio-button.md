@@ -8,6 +8,8 @@ Only one radio button in a given group can be selected at the same time, whereas
 
 This is a unit to present a radio button. Each radio button needs its label to describe what the radio button is for for the user.
 
+<!-- The radio button cannot have an icon? -->
+
 ### Radio Button States
 
 | Visual | Name | Description |
@@ -20,21 +22,46 @@ This is a unit to present a radio button. Each radio button needs its label to d
 
 ### Accessibility & Best Practices
 
-#### `<label>`
+Pairing the radio button with the label is crucial for usability and accessibility.
 
-`<label>` describes its associated radio button `<input type="radio">`.
+#### Label
 
-`for` attribute is required to establish the association with the radio button.
+The label describes the radio button.
 
-It must have the common value to the `id` value of the `<input>`.
+`for` attribute with its matching value to the `id` value of the radio button assigns the label to the radio button as a pair.
 
 A benefit of using labels is that the user can click on the label itself to set focus to the form element. This is useful to some with motor disabilities, particularly when selecting small checkboxes and radio buttons. You can try this by clicking on the word "Name:" above to see focus set to the text box. Clicking adjacent labels provides an easy way to check for proper form labeling.
 
-#### `<input type="radio">`
+#### Radio button
 
 Its `id` attribute is used to establish the pairing with the `<label>`. So, users can understand what this radio button is for.
 
-Ensure the `id` value is unique in the page to identify the radio button as a unique item and to pair with its `<label>`.
+Ensure the `id` value is unique in the page to identify the radio button as a unique item.
 
-`name` attribute should share a common value between the grouped radio buttons.
+A grouped options share a common value for their `name` attribute.
 
+## Code
+
+{% tab title="HTML" %}
+```markup
+<span class="ma__input-radio">
+  <input name="radio-test" type="radio" value="radio-button" id="radio-test" checked>
+  <label for="radio-test"><span>Radio Button</span></label>
+</span>
+```
+{% endtab %}
+
+{% tab title="React" %}
+
+{% endtab %}
+
+{% tab title="Twig PL" %}
+```
+{% if inputRadio.checked == 'true' or inputRadio.checked == 'false' %}
+  {% set inputRadio = inputRadio|merge({'checked': inputRadio.checked == 'true' ? true : false }) %}
+{% endif %}
+```
+{% endtab %}
+{% endtabs %}
+
+## Style
