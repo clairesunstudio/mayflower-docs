@@ -8,13 +8,11 @@ Only one radio button in a given group can be selected at the same time, whereas
 
 This is a unit to present a radio button. Each radio button needs its label to describe what the radio button is for for the user.
 
-<!-- The radio button cannot have an icon? -->
-
 ### Radio Button States
 
 | Visual | Name | Description |
 | :--- | :--- | :--- |
-| ![](../../.gitbook/assets/form_input_radio.png) | Standard |  |
+| ![](../../.gitbook/assets/form_input_radio%20%281%29.png) | Standard |  |
 | ![](../../.gitbook/assets/form_input_radio_checked.png) | Checked |  |
 |  | Disabled |  |
 |  | Error |  |
@@ -40,6 +38,7 @@ A grouped options share a common value for their `name` attribute.
 
 ## Code
 
+{% tabs %}
 {% tab title="HTML" %}
 ```markup
 <span class="ma__input-radio">
@@ -54,7 +53,7 @@ A grouped options share a common value for their `name` attribute.
 {% endtab %}
 
 {% tab title="Twig PL" %}
-```
+```php
 {% if inputRadio.checked == 'true' or inputRadio.checked == 'false' %}
   {% set inputRadio = inputRadio|merge({'checked': inputRadio.checked == 'true' ? true : false }) %}
 {% endif %}
@@ -63,3 +62,4 @@ A grouped options share a common value for their `name` attribute.
 {% endtabs %}
 
 ## Style
+

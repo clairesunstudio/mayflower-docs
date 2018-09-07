@@ -14,13 +14,11 @@ All options need to be grouped with `name` attribute for their association.
 
 The icon for the label is optional.
 
-<!-- The purpose of the icon use is not clear. Need a better sample. -->
-
 ### Checkbox States
 
 | Visual | Name | Description |
 | :--- | :--- | :--- |
-| ![](../../.gitbook/assets/form_input_checkbox.png) | Standard |  |
+| ![](../../.gitbook/assets/form_input_checkbox%20%283%29.png) | Standard |  |
 | ![](../../.gitbook/assets/form_input_checkbox_checked.png) | Checked |  |
 |  | Disabled |  |
 |  | Error |  |
@@ -54,6 +52,7 @@ If it presents additional information to the label text content, the icon should
 
 ## Code
 
+{% tabs %}
 {% tab title="HTML" %}
 ```markup
 <span class="ma__input-checkbox">
@@ -69,7 +68,7 @@ If it presents additional information to the label text content, the icon should
 {% endtab %}
 
 {% tab title="Twig PL" %}
-```
+```php
 {% if inputCheckbox.checked == 'true' or inputCheckbox.checked == 'false' %}
   {% set inputCheckbox = inputCheckbox|merge({'checked': inputCheckbox.checked == 'true' ? true : false }) %}
 {% endif %}
@@ -77,5 +76,5 @@ If it presents additional information to the label text content, the icon should
 {% endtab %}
 {% endtabs %}
 
-
 ## Style
+

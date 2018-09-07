@@ -6,7 +6,7 @@ Tooltip is often used to specify extra information about something when the user
 
 #### Disclaimer
 
-Tooltip should not be used if possible. Since its content is hidden by default, how to access the content might not be obvious to some users.  Use help text instead if possible. 
+Tooltip should not be used if possible. Since its content is hidden by default, how to access the content might not be obvious to some users. Use help text instead if possible.
 
 ### Accessibility & Best Practices
 
@@ -16,22 +16,13 @@ Tooltip should be recognized by assisitive technologies. The user should be able
 
 ## Code
 
-{% tab title="HTML" %}
 ```markup
 
 ```
-{% endtab %}
 
-{% tab title="React" %}
-
-{% endtab %}
-
-{% tab title="Twig PL" %}
-```
+```text
 
 ```
-{% endtab %}
-{% endtabs %}
 
 ## Style
 
