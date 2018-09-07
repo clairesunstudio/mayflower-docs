@@ -248,5 +248,5 @@ When a user filters content by organization in search.mass.gov, that organizatio
 | Department of Public Health \(DPH\) | ![](../.gitbook/assets/dph-organization-display%20%285%29.png) |
 | Division of Fisheries and Wildlife \(MassWildlife\) | ![](../.gitbook/assets/dfw-organization-display-1%20%281%29.png) |
 | Massachusetts Registry of Motor Vehicles \(RMV\) | ![](../.gitbook/assets/rmv-organization-display-4%20%281%29.png) |
-| Office of the Attorney General Maura Healey \(AGO\) | ![](../.gitbook/assets/ago-organization-display-1.png) |
+| Office of the Attorney General Maura Healey \(AGO\) | ![](../.gitbook/assets/ago-organization-display-1%20%281%29.png) |
 
