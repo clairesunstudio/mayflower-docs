@@ -19,7 +19,7 @@ Navigating through the `<h1>` and `<h2>` elements allows the user to understand 
 | ![](../../.gitbook/assets/h1-2-2%20%281%29.png)  | H3 | font-size: 2rem; line-height: 1.2; margin-bottom: .75em; |
 | ![](../../.gitbook/assets/h1-2-2-2%20%281%29.png)  | H4 | font-size: 1.813rem; line-height: 1.2; |
 | ![](../../.gitbook/assets/h1-2-2-2-2.png)  | H5 | font-size: 1.625rem; line-height: 1.3; margin-bottom: .5em; |
-| ![](../../.gitbook/assets/h1-2-2-2-2-2%20%281%29.png)  | H6 | font-size: 1.4rem; margin-bottom: .25em; |
+| ![](../../.gitbook/assets/h1-2-2-2-2-2.png)  | H6 | font-size: 1.4rem; margin-bottom: .25em; |
 
 #### Colored Heading Variations
 
@@ -40,7 +40,7 @@ Navigating through the `<h1>` and `<h2>` elements allows the user to understand 
 
 | **Visual** | **Name** | **Description & Usage** |
 | :--- | :--- | :--- |
-| ![](../../.gitbook/assets/sidebarheading%20%281%29.png) | [Sidebar Heading](headings.md#sidebar-heading) | Should be used as a heading of a list either full width or in a 50/50 split the main content well. |
+| ![](../../.gitbook/assets/sidebarheading.png) | [Sidebar Heading](headings.md#sidebar-heading) | Should be used as a heading of a list either full width or in a 50/50 split the main content well. |
 
 ### Accessibility & Best Practices
 
