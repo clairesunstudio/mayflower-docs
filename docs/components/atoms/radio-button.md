@@ -12,8 +12,11 @@ This is a unit to present a radio button. Each radio button needs its label to d
 
 | Visual | Name | Description |
 | :--- | :--- | :--- |
-| ADD SCREENSHOT | Checked |  |
-| ADD SCREENSHOT | Unchecked |  |
+| ![](../../.gitbook/assets/form_input_radio.png) | Standard |  |
+| ![](../../.gitbook/assets/form_input_radio_checked.png) | Checked |  |
+|  | Disabled |  |
+|  | Error |  |
+|  | Focus |  |
 
 ### Accessibility & Best Practices
 
