@@ -30,7 +30,16 @@ Buttons are vital for creating a smooth conversational flow on the web, and shou
 
 ### Code
 
-&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+* Avoid using `<div>` or `<img>` tags to create buttons. Screen readers don't automatically know either is a usable button.
+* Buttons should display a visible focus state when users tab to them.
+* The label text and the background have a color contrast to meet the WCAG guideline.
+* `<button>` has built-in keyboard accessibility — it can be tabbed between, and activated using Return/Enter.
+* When an icon or any image is included in `<button>`; 
+  1. if the icon or image is NOT decorative, make sure they have text alternative presentation.
+  2. if it is decorative \(= use them supplementary\) with text for its label, do not add any text alternative to it.  Use `aria-hidden="true"`, empty alt attribute `alt=""`. Do not use `title` and other aria attributes to make the icon or image recognizable to assistive technologies.
+* When styling links to look like buttons, remember that screen readers handle links slightly differently than they do buttons. Pressing the Space key triggers a button, but pressing the Enter key triggers a link.
+
+## Code
 
 ## ![](https://github.com/massgov/edit-mayflower-docs/tree/733deb603a2477cc4605500c1b9e00ada397c6d2/docs/assets/primary-button-2.gif)
 
@@ -38,7 +47,7 @@ Buttons are vital for creating a smooth conversational flow on the web, and shou
 
 {% tabs %}
 {% tab title="Visual" %}
-![Example of Primary Button](../../.gitbook/assets/primary-button-3%20%289%29.gif)
+![Example of Primary Button](../../.gitbook/assets/primary-button-3%20%281%29.gif)
 {% endtab %}
 
 {% tab title="HTML" %}
@@ -62,7 +71,7 @@ Buttons are vital for creating a smooth conversational flow on the web, and shou
 
 {% tabs %}
 {% tab title="Visual" %}
-![Example of Outline Button](../../.gitbook/assets/outlinebutton-1%20%284%29.png)
+![Example of Outline Button](../../.gitbook/assets/outlinebutton-1-2.png)
 {% endtab %}
 
 {% tab title="HTML" %}
@@ -90,7 +99,7 @@ Buttons are vital for creating a smooth conversational flow on the web, and shou
 
 {% tabs %}
 {% tab title="Visual" %}
-![Example of Secondary Button](../../.gitbook/assets/secondary-button-outline-1.gif)
+![Example of Secondary Button](../../.gitbook/assets/secondary-button-outline-1-2.gif)
 {% endtab %}
 
 {% tab title="HTML" %}
@@ -114,7 +123,7 @@ Buttons are vital for creating a smooth conversational flow on the web, and shou
 
 {% tabs %}
 {% tab title="Visual" %}
-![Example of Quaternary Button](../../.gitbook/assets/quarternary-button-1%20%283%29.gif)
+![Example of Quaternary Button](../../.gitbook/assets/quarternary-button-1%20%282%29.gif)
 {% endtab %}
 
 {% tab title="HTML" %}
@@ -162,7 +171,7 @@ Buttons are vital for creating a smooth conversational flow on the web, and shou
 
 {% tabs %}
 {% tab title="Visual" %}
-![Example of Icon Button](../../.gitbook/assets/iconbutton-2%20%281%29.png)
+![Example of Icon Button](../../.gitbook/assets/iconbutton-2%20%287%29.png)
 {% endtab %}
 
 {% tab title="HTML" %}
@@ -212,6 +221,7 @@ Not Available
 | :--- | :--- |
 | Primary Button | .ma\_\_button |
 | Small Button | .ma\_\_button--small |
+| Large Button | .ma\_\_button--large |
 | Outline Button | .ma\_\_button--minor |
 | Secondary Button | .ma\_\_button--secondary |
 | Quaternary Button | .ma\_\_button--quaternary |
