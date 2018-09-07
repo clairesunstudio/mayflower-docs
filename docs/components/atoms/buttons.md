@@ -7,24 +7,37 @@ description: >-
 
 # Buttons
 
-## Overview
+## Buttons
+
+### Overview
 
 Buttons are vital for creating a smooth conversational flow on the web, and should be used sparingly. Buttons should adhere to standard web practices, and afford for a target area of 45 pixels. They should also appear slightly raised, and not be completely flat. They have a slight shadow on them so they appear clickable. The small buttons are often used on forms and to set filters on listing pages. The large buttons should be used for primary calls to action. Font sizes reduce slightly on mobile.
 
-### Button Variations
+#### Button Variations
 
 | **Visual** | **Name** | **Description & Usage** |
 | :--- | :--- | :--- |
-| ![](../../.gitbook/assets/primarybutton-2-1%20%282%29.png)![](../../.gitbook/assets/screen-shot-2018-08-09-at-11.06.52-am-3%20%281%29.png) | [Primary Button](buttons.md#primary-button) | For the principle call to action on the page. Default buttons are solid colors with uppercased button text \(this is configurable with an capitalized option for longer button text\) Box shadow are used to accentuate the actions. The hover state of the primary button lightens the button background color. |
-| ![](../../.gitbook/assets/outlinebutton-2-1.png)![Example of Secondary Button](../../.gitbook/assets/screen-shot-2018-08-09-at-2.39.01-pm%20%282%29.png) | Secondary Button | For the secondary action on a page. The outline button provides a less prominent visual to indicate an less important action on a page, e.g. the Back button. The hover state of the secondary button inverts the background/foreground colors. |
-| ![](../../.gitbook/assets/screen-shot-2018-08-09-at-2.22.08-pm-2.png) | Tertiary Button | For the third action on a page. This is a solid gray button with a lighter background color than the foreground text. The muted color makes this button less prominent on a page than the secondary outline button a providing an option for a tertiary action. The hover state of this button will invert background color with white color text. |
-| ![](../../.gitbook/assets/screen-shot-2018-08-09-at-2.12.33-pm%20%281%29.png) | Quaternary Button | For an subtle action on a page. |
-| ![](../../.gitbook/assets/screen-shot-2018-08-09-at-2.35.05-pm-1.png) ![](../../.gitbook/assets/screen-shot-2018-08-09-at-2.34.59-pm-1%20%281%29.png) | Disabled Button | Box shadow on default buttons are used to accentuate the actions. For disabled buttons, box shadow is removed and opacity for the button is set to 0.5 for a muted look and no hover or focus state is provided. |
-| ![](../../.gitbook/assets/primarybutton-3-1%20%283%29.png) | [Link Button](buttons.md#link-button) | Link buttons are used to navigate to another page |
-| ![](../../.gitbook/assets/iconbutton-2-5.png) | [Icon Button](buttons.md#icon-button) | When words are not enough, icons can be used in buttons to better communicate what the button does. Icons are always paired with text. |
-| ![](../../.gitbook/assets/searchbutton-2%20%283%29.png) | [Search Button](buttons.md#search-button) | The search button is a variant of the icon button. It is a submit button included in the search bar, for the form to reduce the number of keystrokes required to use the form. On mobile, it will reduced to the icon. The magnifying glass is universally recognized by users as an indicator of search, and doesn’t need to be visually paired with the word "Search" as long as it remains for screen readers. |
+| ![](../../.gitbook/assets/primarybutton-2-1-3.png)![](../../.gitbook/assets/screen-shot-2018-08-09-at-11.06.52-am-3-4.png) | [Primary Button](buttons.md#primary-button) | For the principle call to action on the page. Default buttons are solid colors with uppercased button text \(this is configurable with an capitalized option for longer button text\) Box shadow are used to accentuate the actions. The hover state of the primary button lightens the button background color. |
+| ![](../../.gitbook/assets/outlinebutton-2%20%281%29.png)![Example of Secondary Button](../../.gitbook/assets/screen-shot-2018-08-09-at-2.39.01-pm-5.png) | Secondary Button | For the secondary action on a page. The outline button provides a less prominent visual to indicate an less important action on a page, e.g. the Back button. The hover state of the secondary button inverts the background/foreground colors. |
+| ![](../../.gitbook/assets/screen-shot-2018-08-09-at-2.22.08-pm%20%282%29.png) | Tertiary Button | For the third action on a page. This is a solid gray button with a lighter background color than the foreground text. The muted color makes this button less prominent on a page than the secondary outline button a providing an option for a tertiary action. The hover state of this button will invert background color with white color text. |
+| ![](../../.gitbook/assets/screen-shot-2018-08-09-at-2.12.33-pm-3.png) | Quaternary Button | For an subtle action on a page. |
+| ![](../../.gitbook/assets/screen-shot-2018-08-09-at-2.35.05-pm-1-3.png) ![](../../.gitbook/assets/screen-shot-2018-08-09-at-2.34.59-pm-1-2.png) | Disabled Button | Box shadow on default buttons are used to accentuate the actions. For disabled buttons, box shadow is removed and opacity for the button is set to 0.5 for a muted look and no hover or focus state is provided. |
+| ![](../../.gitbook/assets/primarybutton-3-1-1.png) | [Link Button](buttons.md#link-button) | Link buttons are used to navigate to another page |
+| ![](../../.gitbook/assets/iconbutton-2-3.png) | [Icon Button](buttons.md#icon-button) | When words are not enough, icons can be used in buttons to better communicate what the button does. Icons are always paired with text. |
+| ![](../../.gitbook/assets/searchbutton-2-4.png) | [Search Button](buttons.md#search-button) | The search button is a variant of the icon button. It is a submit button included in the search bar, for the form to reduce the number of keystrokes required to use the form. On mobile, it will reduced to the icon. The magnifying glass is universally recognized by users as an indicator of search, and doesn’t need to be visually paired with the word "Search" as long as it remains for screen readers. |
 
-### Accessibility & Best Practices
+#### Accessibility & Best Practices
+
+### Code
+
+* Avoid using `<div>` or `<img>` tags to create buttons. Screen readers don't automatically know either is a usable button.
+* Buttons should display a visible focus state when users tab to them.
+* The label text and the background have a color contrast to meet the WCAG guideline.
+* `<button>` has built-in keyboard accessibility — it can be tabbed between, and activated using Return/Enter.
+* When an icon or any image is included in `<button>`; 
+  1. if the icon or image is NOT decorative, make sure they have text alternative presentation.
+  2. if it is decorative \(= use them supplementary\) with text for its label, do not add any text alternative to it.  Use `aria-hidden="true"`, empty alt attribute `alt=""`. Do not use `title` and other aria attributes to make the icon or image recognizable to assistive technologies.
+* When styling links to look like buttons, remember that screen readers handle links slightly differently than they do buttons. Pressing the Space key triggers a button, but pressing the Enter key triggers a link.
 
 * Avoid using `<div>` or `<img>` tags to create buttons. Screen readers don't automatically know either is a usable button.
 * Buttons should display a visible focus state when users tab to them.
@@ -37,11 +50,13 @@ Buttons are vital for creating a smooth conversational flow on the web, and shou
 
 ## Code
 
-### Primary Button
+## ![](https://github.com/massgov/edit-mayflower-docs/tree/733deb603a2477cc4605500c1b9e00ada397c6d2/docs/assets/primary-button-2.gif)
+
+#### Primary Button
 
 {% tabs %}
 {% tab title="Visual" %}
-![Example of Primary Button](../../.gitbook/assets/primary-button-3%20%281%29.gif)
+![Example of Primary Button](../../.gitbook/assets/primary-button-3-1.gif)
 {% endtab %}
 
 {% tab title="HTML" %}
@@ -61,11 +76,11 @@ Buttons are vital for creating a smooth conversational flow on the web, and shou
 {% endtab %}
 {% endtabs %}
 
-#### Outline Primary Button
+**Outline Primary Button**
 
 {% tabs %}
 {% tab title="Visual" %}
-![Example of Outline Button](../../.gitbook/assets/outlinebutton-1-2%20%281%29.png)
+![Example of Outline Button](../../.gitbook/assets/outlinebutton-1-2.png)
 {% endtab %}
 
 {% tab title="HTML" %}
@@ -85,11 +100,15 @@ Buttons are vital for creating a smooth conversational flow on the web, and shou
 {% endtab %}
 {% endtabs %}
 
-### Secondary Button
+#### Secondary Button
+
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+
+## ![](../../.gitbook/assets/secondary-button-outline-1-1.gif)
 
 {% tabs %}
 {% tab title="Visual" %}
-![Example of Secondary Button](../../.gitbook/assets/secondary-button-outline-1-2.gif)
+![Example of Secondary Button](../../.gitbook/assets/secondary-button-outline-1-2%20%281%29.gif)
 {% endtab %}
 
 {% tab title="HTML" %}
@@ -109,11 +128,11 @@ Buttons are vital for creating a smooth conversational flow on the web, and shou
 {% endtab %}
 {% endtabs %}
 
-### Quaternary Button
+#### Quaternary Button
 
 {% tabs %}
 {% tab title="Visual" %}
-![Example of Quaternary Button](../../.gitbook/assets/quarternary-button-1%20%282%29.gif)
+![Example of Quaternary Button](../../.gitbook/assets/quarternary-button-1-2.gif)
 {% endtab %}
 
 {% tab title="HTML" %}
@@ -133,11 +152,11 @@ Buttons are vital for creating a smooth conversational flow on the web, and shou
 {% endtab %}
 {% endtabs %}
 
-### Link Button
+#### Link Button
 
 {% tabs %}
 {% tab title="Visual" %}
-![Example Link Button](../../.gitbook/assets/primary-button-3.gif)
+![Example Link Button](../../.gitbook/assets/primary-button-3-7.gif)
 {% endtab %}
 
 {% tab title="HTML" %}
@@ -157,11 +176,11 @@ Buttons are vital for creating a smooth conversational flow on the web, and shou
 {% endtab %}
 {% endtabs %}
 
-### Icon Button
+#### Icon Button
 
 {% tabs %}
 {% tab title="Visual" %}
-![Example of Icon Button](../../.gitbook/assets/iconbutton-2%20%287%29.png)
+![Example of Icon Button](../../.gitbook/assets/iconbutton-2-7.png)
 {% endtab %}
 
 {% tab title="HTML" %}
@@ -182,7 +201,7 @@ Not Available
 {% endtab %}
 {% endtabs %}
 
-#### Search Button
+**Search Button**
 
 {% tabs %}
 {% tab title="HTML" %}
@@ -203,9 +222,9 @@ Not Available
 {% endtab %}
 {% endtabs %}
 
-## Style
+### Style
 
-### Classnames
+#### Classnames
 
 | **Name** | **scss Modifier** |
 | :--- | :--- |
