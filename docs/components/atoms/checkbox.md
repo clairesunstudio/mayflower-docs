@@ -47,7 +47,7 @@ Ensure the `id` value is unique in the page to identify the checkbox as a unique
 
 This component is optional. It's a decorative element and safely omitted without any concerns for accessibility.
 
-When the icon conveys the same text content as the `<label>`'s, the icon is used for decorative purpose with `aria-hidden="true"`. No text alternative is provided, and assistive technology would ignore the icon.
+When the icon conveys the same text content as the `<label>`'s, the icon is used for decorative purpose with `aria-hidden="true"`. No text alternative is provided, and assistive technologies would ignore the icon.
 
-If it presents additional information to the label text content, the icon should not have `aria-hidden="true"` and provides text alternative through `alt`, visually hidden text, or other methods assistive technology can access.
+If it presents additional information to the label text content, the icon should not have `aria-hidden="true"` and provides text alternative through `alt`, visually hidden text, or other methods assistive technologies can access.
 

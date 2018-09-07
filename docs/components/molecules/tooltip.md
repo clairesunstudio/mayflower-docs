@@ -10,5 +10,7 @@ Tooltip should not be used if possible. Since its content is hidden by default, 
 
 ### Accessibility & Best Practices
 
-Tooltip should be recognized by assisitive technology. The user should be able to access its content either with keyboard, mouse or touch interaction.
+The label for the tool tip should be obvious to be an interactive element to the user.
+
+Tooltip should be recognized by assisitive technologies. The user should be able to access its content either with keyboard, mouse or touch interaction.
 
