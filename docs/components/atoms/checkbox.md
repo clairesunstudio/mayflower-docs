@@ -40,7 +40,7 @@ A benefit of using labels is that the user can click on the label itself to set 
 
 #### Checkbox
 
-Ensure the `id` value is unique in the page to identify the checkbox as a unique item.
+Its `id` attribute identifies the checkbox as a unique element in the page. Ensure the `id` value is unique in the page.
 
 A grouped options share a common value for their `name` attribute.
 

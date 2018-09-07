@@ -34,9 +34,7 @@ A benefit of using labels is that the user can click on the label itself to set 
 
 #### Radio button
 
-Its `id` attribute is used to establish the pairing with the `<label>`. So, users can understand what this radio button is for.
-
-Ensure the `id` value is unique in the page to identify the radio button as a unique item.
+Its `id` attribute identifies the radio button as a unique element in the page. Ensure the `id` value is unique in the page.
 
 A grouped options share a common value for their `name` attribute.
 
