@@ -65,7 +65,7 @@ Buttons are vital for creating a smooth conversational flow on the web, and shou
 
 {% tabs %}
 {% tab title="Visual" %}
-![Example of Outline Button](../../.gitbook/assets/outlinebutton-1-2.png)
+![Example of Outline Button](../../.gitbook/assets/outlinebutton-1-2%20%281%29.png)
 {% endtab %}
 
 {% tab title="HTML" %}
