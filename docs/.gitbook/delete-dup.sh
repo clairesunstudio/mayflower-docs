@@ -24,3 +24,6 @@ do
         filecksums[$cksum]="$file"
     fi
 done
+
+#rename file names with duplicates, e.g. button (1).png
+find . -type f -name "* *" -exec rename "s/\s\([0-9]+\)//g" {} \;
