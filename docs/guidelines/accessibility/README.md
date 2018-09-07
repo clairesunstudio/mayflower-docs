@@ -12,7 +12,7 @@ As technology evolves, some methods of meeting accessibility guidelines become o
 
 Here, you'll find resources for web accessibility from basic concepts to technical approaches.
 
-**New to web accessibility?** [Why web accessibility matters?](global-why-accessibility-matters.md) is a good place to start. 
+**New to web accessibility?** [Why web accessibility matters?](global-why-accessibility-matters.md) is a good place to start.
 
 **Looking for more specific resources?**
 

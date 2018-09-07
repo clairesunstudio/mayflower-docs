@@ -18,5 +18,3 @@ Web accessibility principles and techniques support these components, permitting
 Learn more about [obstacles certain individuals have when interacting with the web](global-obstacles/).
 {% endhint %}
 
-
-

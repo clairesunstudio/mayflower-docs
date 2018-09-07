@@ -52,5 +52,3 @@ Accessibility is not just about users who have disabilities. It also means desig
 
 Search engines prefer accessible websites. Most search engines are only able to process text and the way it is structured. By having a well-marked up site, they can index your site for more relevant information in search results.
 
-
-
