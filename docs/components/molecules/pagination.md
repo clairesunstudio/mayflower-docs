@@ -8,7 +8,7 @@ Pagination is used to aid users when navigating between a large number of items 
 * Amount of data in each entry
 * Screen space
 
-![](../../.gitbook/assets/pagination-1%20%281%29.png)
+![](../../.gitbook/assets/pagination-1.png)
 
 The pagination molecule includes:
 

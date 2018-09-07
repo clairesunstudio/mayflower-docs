@@ -18,7 +18,7 @@ The icon for the label is optional.
 
 | Visual | Name | Description |
 | :--- | :--- | :--- |
-| ![](../../.gitbook/assets/form_input_checkbox%20%283%29.png) | Standard |  |
+| ![](../../.gitbook/assets/form_input_checkbox.png) | Standard |  |
 | ![](../../.gitbook/assets/form_input_checkbox_checked.png) | Checked |  |
 |  | Disabled |  |
 |  | Error |  |

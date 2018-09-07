@@ -125,7 +125,7 @@ Checkbox
 
 {% tabs %}
 {% tab title="About" %}
-![visual example](https://github.com/massgov/edit-mayflower-docs/tree/c019cd17f3fd3bed8e6188d596b68959fa6adb24/docs/.gitbook/assets/form_text_input_optional%20%282%29.png)
+![visual example](https://github.com/massgov/edit-mayflower-docs/tree/c019cd17f3fd3bed8e6188d596b68959fa6adb24/docs/.gitbook/assets/form_text_input_optional.png)
 
 This is a variant of the [Input Text](https://mayflower.digital.mass.gov/patterns/01-atoms-03-forms/?p=atoms-input-text) pattern showing an example of an optional input.
 
