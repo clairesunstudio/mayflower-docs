@@ -1,14 +1,14 @@
-# How people with disabilities use websites
+# How people with disabilities use the web
 
 People with the following conditions find using websites challenging:
 
 | Disability | Examples | Learn More |
 | :--- | :--- | :--- |
-| Visual | blindness, low vision, color-blindness | [https://webaim.org/articles/visual/](https://webaim.org/articles/visual/) |
-| Auditory | deafness, hard-of-hearing | [https://webaim.org/articles/auditory/](https://webaim.org/articles/auditory/) |
-| Motor | slow response time, limited motor control, inability to use mouse/keyboard | [https://webaim.org/articles/motor/](https://webaim.org/articles/motor/) |
-| Cognitive | learning disability, destructibility, inability to remember, focus on large amount of information \(learn more\) | [https://webaim.org/articles/cognitive/](https://webaim.org/articles/cognitive/) |
-| Seizure & Vestibular | seizures caused by strobing, flickering, or flashing effects | [https://webaim.org/articles/seizure/](https://webaim.org/articles/seizure/) |
+| [Visual](global-obstacles.md#visual) | blindness, low vision, color-blindness | [https://webaim.org/articles/visual/](https://webaim.org/articles/visual/) |
+| [Auditory](global-obstacles.md#auditory) | deafness, hard-of-hearing | [https://webaim.org/articles/auditory/](https://webaim.org/articles/auditory/) |
+| [Motor](global-obstacles.md#motor) | slow response time, limited motor control, inability to use mouse/keyboard | [https://webaim.org/articles/motor/](https://webaim.org/articles/motor/) |
+| [Cognitive](global-obstacles.md#cognitive) | learning disability, destructibility, inability to remember, focus on large amount of information \(learn more\) | [https://webaim.org/articles/cognitive/](https://webaim.org/articles/cognitive/) |
+| [Seizure](global-obstacles.md#seizure) & [Vestibular](global-obstacles.md#vestibular-disorders) | seizures caused by strobing, flickering, or flashing effects, dizziness and nausea caused by movement | [https://webaim.org/articles/seizure/](https://webaim.org/articles/seizure/) |
 
 ### Visual
 
