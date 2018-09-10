@@ -15,6 +15,6 @@ To be able to access a website, these components need to play well together. If 
 Web accessibility principles and techniques support these components, permitting websites to be available to broad range of users.
 
 {% hint style="info" %}
-Learn more about [obstacles certain individuals have when interacting with the web](global-obstacles/).
+Learn more about [obstacles certain individuals have when interacting with the web](global-obstacles.md).
 {% endhint %}
 

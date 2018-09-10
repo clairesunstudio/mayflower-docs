@@ -18,7 +18,7 @@ The icon for the label is optional.
 
 | Visual | Name | Description |
 | :--- | :--- | :--- |
-| ![](../../.gitbook/assets/form_input_checkbox.png) | Standard |  |
+| ![](../../.gitbook/assets/form_input_checkbox-3.png) | Standard |  |
 | ![](../../.gitbook/assets/form_input_checkbox_checked.png) | Checked |  |
 |  | Disabled |  |
 |  | Error |  |
@@ -61,10 +61,6 @@ If it presents additional information to the label text content, the icon should
     <label for="checkbox-test"><span>Checkbox</span></label>
 </span>
 ```
-{% endtab %}
-
-{% tab title="React" %}
-
 {% endtab %}
 
 {% tab title="Twig PL" %}

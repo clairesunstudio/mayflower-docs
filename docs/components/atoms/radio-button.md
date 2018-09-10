@@ -12,7 +12,7 @@ This is a unit to present a radio button. Each radio button needs its label to d
 
 | Visual | Name | Description |
 | :--- | :--- | :--- |
-| ![](../../.gitbook/assets/form_input_radio.png) | Standard |  |
+| ![](../../.gitbook/assets/form_input_radio-1.png) | Standard |  |
 | ![](../../.gitbook/assets/form_input_radio_checked.png) | Checked |  |
 |  | Disabled |  |
 |  | Error |  |
@@ -46,10 +46,6 @@ A grouped options share a common value for their `name` attribute.
   <label for="radio-test"><span>Radio Button</span></label>
 </span>
 ```
-{% endtab %}
-
-{% tab title="React" %}
-
 {% endtab %}
 
 {% tab title="Twig PL" %}
