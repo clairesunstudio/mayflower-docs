@@ -31,6 +31,8 @@ A [study in the United Kingdom \(UK\)](https://disability-smart.com/2017/01/10/i
 
 {% hint style="info" %}
 In the U.S., public sector organizations \(government-funded programs/schools, airlines, and nonprofits\) are required to follow certain website accessibility rules. Having an accessible website means complying with your country’s equality and anti-discrimination law. U.S. government websites need to conform to [Section 504 of the Rehabilitation Act](https://www.dol.gov/oasam/regs/statutes/sec504.htm), [Section 508 of the Rehabilitation Act](https://section508.gov/manage/laws-and-policies) and the [Americans with Disabilities Act \(ADA\)](https://www.ada.gov/).
+
+Learn more about [how people with disabilities use the web](https://massds.gitbook.io/edit-mayflower-doc/~/drafts/-LM4AU7q0uDYfKnfGbMl/primary/guidelines/accessibility/global-why-accessibility-matters/global-obstacles).
 {% endhint %}
 
 ### 2. Improve usability for all types of users
