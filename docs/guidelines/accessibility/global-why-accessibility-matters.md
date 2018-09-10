@@ -38,7 +38,8 @@ In the U.S., public sector organizations \(government-funded programs/schools, a
 Accessibility is not just about users who have disabilities. It also means designing for users who:
 
 * Have a slow Internet connection
-  * For example, rural areas where high speed connections are not available or mobile phone reception is limited
+  * rural areas where high speed connections are not available 
+  * mobile phone reception is limited
   * bandwidth congestion
 * Use older technologies
   * old web browser
