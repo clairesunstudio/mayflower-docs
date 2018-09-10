@@ -7,13 +7,13 @@ description: >-
 
 # Buttons
 
-## Buttons
-
-### Overview
+## Overview
 
 Buttons are vital for creating a smooth conversational flow on the web, and should be used sparingly. Buttons should adhere to standard web practices, and afford for a target area of 45 pixels. They should also appear slightly raised, and not be completely flat. They have a slight shadow on them so they appear clickable. The small buttons are often used on forms and to set filters on listing pages. The large buttons should be used for primary calls to action. Font sizes reduce slightly on mobile.
 
-#### Button Variations
+## Usage
+
+### Button Variations
 
 | **Visual** | **Name** | **Description & Usage** |
 | :--- | :--- | :--- |
@@ -26,9 +26,7 @@ Buttons are vital for creating a smooth conversational flow on the web, and shou
 | ![](../../.gitbook/assets/iconbutton-2-3.png) | [Icon Button](buttons.md#icon-button) | When words are not enough, icons can be used in buttons to better communicate what the button does. Icons are always paired with text. |
 | ![](../../.gitbook/assets/searchbutton-2-4.png) | [Search Button](buttons.md#search-button) | The search button is a variant of the icon button. It is a submit button included in the search bar, for the form to reduce the number of keystrokes required to use the form. On mobile, it will reduced to the icon. The magnifying glass is universally recognized by users as an indicator of search, and doesn’t need to be visually paired with the word "Search" as long as it remains for screen readers. |
 
-#### Accessibility & Best Practices
-
-### Code
+### Accessibility & Best Practices
 
 * Avoid using `<div>` or `<img>` tags to create buttons. Screen readers don't automatically know either is a usable button.
 * Buttons should display a visible focus state when users tab to them.
@@ -49,18 +47,16 @@ Buttons are vital for creating a smooth conversational flow on the web, and shou
 
 ## Code
 
-## ![](https://github.com/massgov/edit-mayflower-docs/tree/733deb603a2477cc4605500c1b9e00ada397c6d2/docs/assets/primary-button-2.gif)
-
-#### Primary Button
+### Primary Button
 
 {% tabs %}
 {% tab title="Visual" %}
-![Example of Primary Button](../../.gitbook/assets/primary-button-3-1%20%281%29.gif)
+![](../../.gitbook/assets/primarybutton%20%282%29.png)
 {% endtab %}
 
 {% tab title="HTML" %}
 ```markup
-<button type="button" class="ma__button" aria-label="">
+<button type="button" class="ma__button" aria-label="Example primary button">
   Button
 </button>
 ```
@@ -75,44 +71,16 @@ Buttons are vital for creating a smooth conversational flow on the web, and shou
 {% endtab %}
 {% endtabs %}
 
-**Outline Primary Button**
+### Secondary Button
 
 {% tabs %}
 {% tab title="Visual" %}
-![Example of Outline Button](../../.gitbook/assets/outlinebutton-1-2%20%282%29.png)
+![](../../.gitbook/assets/screen-shot-2018-08-09-at-2.39.01-pm.png)
 {% endtab %}
 
 {% tab title="HTML" %}
 ```markup
-<button type="button" class="ma__button ma__button--minor" aria-label="">
-  Button
-</button>
-```
-{% endtab %}
-
-{% tab title="React" %}
-[Outline Button in Storybook](https://mayflower-react.digital.mass.gov/?knob-button.href=https%3A%2F%2Fmass.gov&knob-button.text=button&knob-button.info=this%20will%20be%20the%20tooltip%20text%20on%20hover&knob-ButtonWithIcon.text=BUTTON&knob-button.outline=true&knob-ButtonWithIcon.icon=chevron&selectedKind=atoms%2Fbuttons&selectedStory=Button&full=0&addons=1&stories=1&panelRight=0&addonPanel=storybooks%2Fstorybook-addon-knobs)
-{% endtab %}
-
-{% tab title="Twig PL" %}
-[Outline Button in Pattern Lab](https://mayflower.digital.mass.gov/?p=atoms-button-as-outline)
-{% endtab %}
-{% endtabs %}
-
-#### Secondary Button
-
-&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-
-## ![](../../.gitbook/assets/secondary-button-outline-1-1.gif)
-
-{% tabs %}
-{% tab title="Visual" %}
-![Example of Secondary Button](../../.gitbook/assets/secondary-button-outline-1-2-1.gif)
-{% endtab %}
-
-{% tab title="HTML" %}
-```markup
-<button type="button" class="ma__button ma__button--small ma__button--secondary ma__button--minor" aria-label="">
+<button type="button" class="ma__button ma__button--secondary" aria-label="Example secondary button">
   Button
 </button>
 ```
@@ -127,31 +95,27 @@ Buttons are vital for creating a smooth conversational flow on the web, and shou
 {% endtab %}
 {% endtabs %}
 
-#### Quaternary Button
+### Tertiary Button
 
 {% tabs %}
 {% tab title="Visual" %}
-![Example of Quaternary Button](../../.gitbook/assets/quarternary-button-1-2.gif)
+![](../../.gitbook/assets/screen-shot-2018-08-09-at-2.22.08-pm%20%283%29.png)
 {% endtab %}
 
 {% tab title="HTML" %}
-```markup
-<button type="button" class="ma__button ma__button--quaternary" aria-label="">
-  Button
-</button>
-```
+Work in Progress
 {% endtab %}
 
 {% tab title="React" %}
-[Quaternary Button in Storybook](http://mayflower-react.digital.mass.gov/?knob-button.theme=quaternary&knob-button.info=this%20will%20be%20the%20tooltip%20text%20on%20hover&knob-button.text=button&knob-button.href=&selectedKind=atoms%2Fbuttons&selectedStory=Button&full=0&addons=1&stories=1&panelRight=0&addonPanel=storybooks%2Fstorybook-addon-knobs)
+Work in Progress
 {% endtab %}
 
 {% tab title="Twig PL" %}
-[Quaternary Button in Pattern Lab](https://mayflower.digital.mass.gov/?p=atoms-button-as-quaternary-color)
+Work in Progress
 {% endtab %}
 {% endtabs %}
 
-#### Link Button
+### Link Button
 
 {% tabs %}
 {% tab title="Visual" %}
@@ -175,7 +139,7 @@ Buttons are vital for creating a smooth conversational flow on the web, and shou
 {% endtab %}
 {% endtabs %}
 
-#### Icon Button
+### Icon Button
 
 {% tabs %}
 {% tab title="Visual" %}
@@ -200,7 +164,7 @@ Not Available
 {% endtab %}
 {% endtabs %}
 
-**Search Button**
+### **Search Button**
 
 {% tabs %}
 {% tab title="HTML" %}
@@ -221,9 +185,9 @@ Not Available
 {% endtab %}
 {% endtabs %}
 
-### Style
+## Style
 
-#### Classnames
+### Classnames
 
 | **Name** | **scss Modifier** |
 | :--- | :--- |
