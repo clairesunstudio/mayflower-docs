@@ -12,14 +12,17 @@ These elements represent headings for their sections...These elements have a ran
 
 Navigating through the `<h1>` and `<h2>` elements allows the user to understand the overall purpose of a page and how its content is structured. The `<h3>`through `<h6>` elements provide a quick understanding of the details in each section.
 
-| **Visual** | **Name** | **Description & Usage** |
-| :--- | :--- | :--- |
-| ![](../../.gitbook/assets/h1-1%20%281%29.png) | H1 | font-size: 3rem; line-height: 1.07; |
-| ![](../../.gitbook/assets/h1-2%20%284%29.png) | H2 | font-size: 2.25rem; line-height: 1.222222; |
-| ![](../../.gitbook/assets/h1-2-2-1%20%282%29.png) | H3 | font-size: 2rem; line-height: 1.2; margin-bottom: .75em; |
-| ![](../../.gitbook/assets/h1-2-2-2-1.png) | H4 | font-size: 1.813rem; line-height: 1.2; |
-| ![](../../.gitbook/assets/h1-2-2-2-2%20%283%29.png) | H5 | font-size: 1.625rem; line-height: 1.3; margin-bottom: .5em; |
-| ![](../../.gitbook/assets/h1-2-2-2-2-2-1.png) | H6 | font-size: 1.4rem; margin-bottom: .25em; |
+| **Visual** | **Name** | Screen Size \(px\) | Base Font Size \(px\) | Font Size \(rem\) | **Font Size \(px\)** | Line Height | Line Height \(px\) |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| ![](../../.gitbook/assets/h1-1%20%281%29.png) | H1 | &gt;= 1200 | 16px | 3.5rem | 56px | 1.07 | 59.92px |
+|  |  | 780 ~ 1200 | 16px | 3.25rem | 52px | 1.07 | 55.64px |
+|  |  | 620 ~ 780 | 16px | 3rem | 48px | 1.07 | 51.36px |
+|  |  | &lt;= 620 | 14.5px | 3rem | 43.5px | 1.07 | 46.545px |
+| ![](../../.gitbook/assets/h1-2%20%284%29.png) | H2 |  |  |  | font-size: 2.25rem; line-height: 1.222222; |  |  |
+| ![](../../.gitbook/assets/h1-2-2-1%20%282%29.png) | H3 |  |  |  | font-size: 2rem; line-height: 1.2; margin-bottom: .75em; |  |  |
+| ![](../../.gitbook/assets/h1-2-2-2-1.png) | H4 |  |  |  | font-size: 1.813rem; line-height: 1.2; |  |  |
+| ![](../../.gitbook/assets/h1-2-2-2-2%20%283%29.png) | H5 |  |  |  | font-size: 1.625rem; line-height: 1.3; margin-bottom: .5em; |  |  |
+| ![](../../.gitbook/assets/h1-2-2-2-2-2-1.png) | H6 |  |  |  | font-size: 1.4rem; margin-bottom: .25em; |  |  |
 
 #### Colored Heading Variations
 
