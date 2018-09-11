@@ -40,10 +40,12 @@ Select boxes should not be used if possible. The behavior of select boxes varies
 
 ### Classnames
 
-| Name | Scss Modifier |
+| Name | Class Modifier |
 | :--- | :--- |
-| Standard | .ma\_\_select-box\_\_field |
-| Disabled | .ma\_\_select-box\_\_field–disabled |
-| Inline | .ma\_\_select-box\_\_field–inline |
-| Error | .has-error |
+| Standard | `.ma__select-box__field` |
+| Disabled | `.ma__select-box__field--disabled` |
+| Inline | `.ma__select-box__field--inline` |
+| Error | `.ma__select-box__field--error` \(_work in progress_\) `.has-error` \(_previous version_\) |
+
+
 

@@ -95,7 +95,7 @@ Navigating through the `<h1>` and `<h2>` elements allows the user to understand 
 {% endtab %}
 {% endtabs %}
 
-#### Green Colored Heading
+#### Colored Heading \(Primary Alt\)
 
 {% tabs %}
 {% tab title="HTML" %}
@@ -115,7 +115,7 @@ Navigating through the `<h1>` and `<h2>` elements allows the user to understand 
 {% endtab %}
 {% endtabs %}
 
-#### Blue Colored Heading
+#### Colored Heading \(Primary\)
 
 {% tabs %}
 {% tab title="HTML" %}
@@ -202,10 +202,10 @@ Not Available
 | **Name** | **Class Modifier** |
 | :--- | :--- |
 | Colored Heading | `.ma__colored-heading` |
-| Colored Heading \(Primary Alt\) | `.ma__colored-heading--c-primary-alt`\(_work in progress_\) _previously `.ma__colored-heading--green`_ |
-| Colored Heading \(Primary\) | `.ma__colored-heading--c-primary`\(_work in progress_\)_previously_ `.ma__colored-heading--blue` |
+| Colored Heading \(Primary Alt\) | `.ma__colored-heading--c-primary-alt`\(_work in progress_\) `.ma__colored-heading--green` \(_previous version_\) |
+| Colored Heading \(Primary\) | `.ma__colored-heading--c-primary`\(_work in progress_\)`.ma__colored-heading--blue` \(_previous version_\) |
 | Component Heading | `.ma__comp-heading` |
-| Component Heading \(Highlight\) | `.ma__comp-heading--highlight` \(_work in progress_\)_previously_ `.ma__comp-heading--yellow` |
+| Component Heading \(Highlight\) | `.ma__comp-heading--c-highlight` \(_work in progress_\)`.ma__comp-heading--yellow` \(previous version\) |
 | Sidebar Heading | `.ma__sidebar-heading` |
 
 

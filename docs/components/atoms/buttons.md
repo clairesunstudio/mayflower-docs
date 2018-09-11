@@ -148,7 +148,7 @@ Work in Progress
 
 {% tab title="HTML" %}
 ```markup
-<button class="ma__button-icon ma__icon">
+<button class="ma__button-icon">
   <span>BUTTON</span>
   <svg aria-hidden="true" width="20" height="20" viewBox="0 0 59 38" xmlns="http://www.w3.org/2000/svg"><path d="M29.414,37.657 L0.344,8.586 L8.828,0.102 L29.414,20.686 L50,0.1 L58.484,8.585 L29.414,37.657"></path></svg>
 </button>
@@ -198,7 +198,7 @@ Not Available
 | **Name** | **Class Modifier** |
 | :--- | :--- |
 | Primary Button | `.ma__button` |
-| Secondary Button | `.ma__button--secondary` _\(work in progress\)_ |
+| Secondary Button | `.ma__button--secondary` _\(work in progress\)_`.ma__button--minor` \(_previous version_\) |
 | Tertiary Button | `.ma__button--tertiary` _\(work in progress\)_ |
 | Quaternary Button | `.ma__button--quaternary` _\(work in progress\)_ |
 | Small Button | `.ma__button--small` |
@@ -207,6 +207,6 @@ Not Available
 | Search Button | `.ma__button--icon .ma__button--search` |
 | Capitalized Button | `.ma__button--capitalized` |
 | Disabled Button | `.ma__button--disabled` _\(work in progress\)_ |
-| Primary Color Button | `.ma__button--c-primary` _\(work in progress\)_ |
-| Primary Alt Color Button | `.ma__button--c-primary-alt` _\(work in progress\)_ |
+| Color Button \(Primary Color\) | `.ma__button--c-primary` _\(work in progress\)_ |
+| Alt Color Button \(Primary Alt Color\) | `.ma__button--c-primary-alt` _\(work in progress\)_ |
 
