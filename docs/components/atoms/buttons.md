@@ -197,16 +197,16 @@ Not Available
 
 | **Name** | **Class Modifier** |
 | :--- | :--- |
-| Primary Button | .ma\_\_button |
-| Secondary Button | .ma\_\_button--secondary _\(work in progress\)_ |
-| Tertiary Button | .ma\_\_button--tertiary _\(work in progress\)_ |
-| Quaternary Button | .ma\_\_button--quaternary _\(work in progress\)_ |
-| Small Button | .ma\_\_button--small |
-| Large Button | .ma\_\_button--large |
-| Icon Button | .ma\_\_button--icon |
-| Search Button | .ma\_\_button--search |
-| Capitalized Button | .ma\_\_button--capitalized |
-| Disabled Button | .ma\_\_button--disabled _\(work in progress\)_ |
-| Primary Color Button | .ma\_\_button--c-primary _\(work in progress\)_ |
-| Primary Alt Color Button | .ma\_\_button--c-primary-alt _\(work in progress\)_ |
+| Primary Button | `.ma__button` |
+| Secondary Button | `.ma__button--secondary` _\(work in progress\)_ |
+| Tertiary Button | `.ma__button--tertiary` _\(work in progress\)_ |
+| Quaternary Button | `.ma__button--quaternary` _\(work in progress\)_ |
+| Small Button | `.ma__button--small` |
+| Large Button | `.ma__button--large` |
+| Icon Button | `.ma__button--icon` |
+| Search Button | `.ma__button--icon .ma__button--search` |
+| Capitalized Button | `.ma__button--capitalized` |
+| Disabled Button | `.ma__button--disabled` _\(work in progress\)_ |
+| Primary Color Button | `.ma__button--c-primary` _\(work in progress\)_ |
+| Primary Alt Color Button | `.ma__button--c-primary-alt` _\(work in progress\)_ |
 
