@@ -63,6 +63,10 @@ If it presents additional information to the label text content, the icon should
 ```
 {% endtab %}
 
+{% tab title="React" %}
+Currently Not Available
+{% endtab %}
+
 {% tab title="Twig PL" %}
 ```php
 {% if inputCheckbox.checked == 'true' or inputCheckbox.checked == 'false' %}
