@@ -119,7 +119,7 @@ Work in Progress
 
 {% tabs %}
 {% tab title="Visual" %}
-![Example Link Button](../../.gitbook/assets/primary-button-3-7.gif)
+![](../../.gitbook/assets/primary-button-3-7.gif)
 {% endtab %}
 
 {% tab title="HTML" %}
@@ -143,7 +143,7 @@ Work in Progress
 
 {% tabs %}
 {% tab title="Visual" %}
-![Example of Icon Button](../../.gitbook/assets/iconbutton-2-7%20%281%29.png)
+![](../../.gitbook/assets/iconbutton-2-7%20%281%29.png)
 {% endtab %}
 
 {% tab title="HTML" %}
@@ -167,17 +167,23 @@ Not Available
 ### **Search Button**
 
 {% tabs %}
+{% tab title="Visual" %}
+![](../../.gitbook/assets/searchbutton.png)
+{% endtab %}
+
 {% tab title="HTML" %}
 ```markup
-<button type="submit" class="ma__button-search">
+<button type="submit" class="ma__button-icon  ma__button-search" tabindex="0" aria-label="search">
   <span>Search</span>
-  <svg aria-hidden="true"><use xlink:href="#bfc92151769435abdd9eb852cabede0f.0"></use></svg><svg xmlns="http://www.w3.org/2000/svg" style="display: none"><symbol xmlns="http://www.w3.org/2000/svg" aria-hidden="true" version="1.1" viewBox="0 0 20 20" id="bfc92151769435abdd9eb852cabede0f.0"><path d="M1424.99 107.4L1419.66 102.105C1420.44 100.884 1420.89 99.4383 1420.89 97.8892C1420.89 93.54 1417.3300000000002 90 1412.95 90C1408.57 90 1405.01 93.54 1405.01 97.89C1405.01 102.241 1408.57 105.781 1412.95 105.781C1414.43 105.781 1415.82 105.375 1417.01 104.67L1422.3799999999999 110ZM1407.97 97.89C1407.97 95.1625 1410.2 92.9416 1412.95 92.9416C1415.7 92.9416 1417.93 95.1617 1417.93 97.89C1417.93 100.619 1415.7 102.839 1412.95 102.839C1410.2 102.839 1407.97 100.619 1407.97 97.89Z " transform="matrix(1,0,0,1,-1405,-90)"/></symbol></svg>
+  <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+    <path d="M1424.99 107.4L1419.66 102.105C1420.44 100.884 1420.89 99.4383 1420.89 97.8892C1420.89 93.54 1417.3300000000002 90 1412.95 90C1408.57 90 1405.01 93.54 1405.01 97.89C1405.01 102.241 1408.57 105.781 1412.95 105.781C1414.43 105.781 1415.82 105.375 1417.01 104.67L1422.3799999999999 110ZM1407.97 97.89C1407.97 95.1625 1410.2 92.9416 1412.95 92.9416C1415.7 92.9416 1417.93 95.1617 1417.93 97.89C1417.93 100.619 1415.7 102.839 1412.95 102.839C1410.2 102.839 1407.97 100.619 1407.97 97.89Z" transform="matrix(1,0,0,1,-1405,-90)"></path>
+  </svg>
 </button>
 ```
 {% endtab %}
 
 {% tab title="React" %}
-[Search Button In Storybook](https://mayflower-react.digital.mass.gov/?knob-ButtonSearch.text=Search&knob-ButtonSearch.ariaLabel=Search&knob-button.href=https%3A%2F%2Fmass.gov&knob-button.text=button&knob-button.info=this%20will%20be%20the%20tooltip%20text%20on%20hover&knob-ButtonWithIcon.text=BUTTON&knob-button.outline=true&knob-ButtonWithIcon.icon=chevron&selectedKind=atoms%2Fbuttons&selectedStory=ButtonSearch&full=0&addons=1&stories=1&panelRight=0&addonPanel=storybooks%2Fstorybook-addon-knobs)
+[Search Button In Storybook](https://mayflower-react.digital.mass.gov/?selectedKind=atoms%2Fbuttons&selectedStory=ButtonSearch)
 {% endtab %}
 
 {% tab title="Twig PL" %}
@@ -189,15 +195,18 @@ Not Available
 
 ### Classnames
 
-| **Name** | **scss Modifier** |
+| **Name** | **Class Modifier** |
 | :--- | :--- |
 | Primary Button | .ma\_\_button |
+| Secondary Button | .ma\_\_button--secondary _\(work in progress\)_ |
+| Tertiary Button | .ma\_\_button--tertiary _\(work in progress\)_ |
+| Quaternary Button | .ma\_\_button--quaternary _\(work in progress\)_ |
 | Small Button | .ma\_\_button--small |
 | Large Button | .ma\_\_button--large |
-| Outline Button | .ma\_\_button--minor |
-| Secondary Button | .ma\_\_button--secondary |
-| Quaternary Button | .ma\_\_button--quaternary |
 | Icon Button | .ma\_\_button--icon |
 | Search Button | .ma\_\_button--search |
-| Capitalized Button | .ma\_\_button-capitalized |
+| Capitalized Button | .ma\_\_button--capitalized |
+| Disabled Button | .ma\_\_button--disabled _\(work in progress\)_ |
+| Primary Color Button | .ma\_\_button--c-primary _\(work in progress\)_ |
+| Primary Alt Color Button | .ma\_\_button--c-primary-alt _\(work in progress\)_ |
 
