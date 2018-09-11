@@ -50,3 +50,14 @@ Currently Not Available
 
 ## Style
 
+### Classnames
+
+| Name | Class Modifier |
+| :--- | :--- |
+| Default Accordion Item | `.ma__accordion-item` |
+| Borderless Accordion Item | `.ma__accordion-item--borderless` |
+| Subtle Accordion Item\(modifier on accordion header element\) | `.ma__accordion-header__button--trans`  |
+| Secondary Accordion Item | `.ma__accordion-item--secondary` |
+
+
+
