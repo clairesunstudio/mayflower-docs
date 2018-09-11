@@ -89,9 +89,9 @@ Currently Not Available
 
 ### Classnames
 
-| **Name** | **scss Modifiers** |
+| **Name** | **Class Modifiers** |
 | :--- | :--- |
-| Link | .ma\_\_content-link |
-| Decorative Link | .ma\_\_decorative--link |
-| Chevron Link | .ma\_\_content-link--chevron |
+| Link | `.ma__content-link` |
+| Decorative Link | `.ma__decorative--link` |
+| Chevron Link | `.ma__content-link--chevron` |
 
