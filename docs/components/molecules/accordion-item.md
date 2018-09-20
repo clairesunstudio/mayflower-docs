@@ -21,20 +21,21 @@ Accordions aid in providing only needed and key content to users. The are create
 
 Accordions have a toggle feature to show/hide their contents. Use `<button>` tag for a toggle, then assistive technologies know this is an interacitve element.
 
-Make sure their state is clear to assisitive technologies when it gets focused, then users could determine their next action.
+Make sure its state is clear to assisitive technologies when it gets focused, then the user could determine his/her next action.
 
 ##### Association with toggled content block
 
 The button and its associated content block need to be paired.  The content block has a unique `id` in the page. The toggle button has `aria-controls` with the same value as the `id`'s.
 
-##### Status
+##### State
 
-The status can be addressed with the `aria-expanded` attribute.  Set its value to `true` for show and `false` for hide.  
+The state can be addressed with the `aria-expanded` attribute.  Set its value to `true` for show and `false` for hide.  
 
-The status should get updated accordingly with the user's action.
+The `aria-expanded` value should get updated accordingly as the state changes.
 
 ##### Focus and its order
-While the user interacts with the toggle button, the focus should stay on the button.
+
+When the focus is on the toggle button, it should stay on the button regardless the user's interaction with the button.
 
 Once the user tabs to the next element, the focus moves from the button to the next element. When the toggle state is **show**, the next focus should be on an element in the content block displayed by the toggle. 
 
