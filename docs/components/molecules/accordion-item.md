@@ -9,10 +9,10 @@ Accordions aid in providing only needed and key content to users. The are create
 | Visual | Name | Description |
 | :--- | :--- | :--- |
 | ![](../../.gitbook/assets/accordiondefault.gif) | Default | This is the default accordion style, a colored heading with bordered content. |
-| ![](../../.gitbook/assets/accordion-borderless.gif) | Borderless | A borderless accordion content style. |
-| ![](../../.gitbook/assets/accordion-subtle.gif) | Subtle | An accordion whose header turns transparent  in an open state. |
+| ![](../../.gitbook/assets/accordion-borderless%20%281%29.gif) | Borderless | A borderless accordion content style. |
+| ![](../../.gitbook/assets/accordion-subtle-1.gif) | Subtle | An accordion whose header turns transparent  in an open state. |
 | ![](../../.gitbook/assets/accordionnoicon.gif) | No Icon | An accordion whose header does not include an icon. |
-| ![](../../.gitbook/assets/accordionsecondary.gif) | Secondary | An accordion that is a less prominent element on the page. |
+| ![](../../.gitbook/assets/accordionsecondary%20%281%29.gif) | Secondary | An accordion that is a less prominent element on the page. |
 
 ### Accessibility & Best Practices
 
@@ -52,12 +52,37 @@ Currently Not Available
 
 ### Classnames
 
-| Name | Class Modifier |
-| :--- | :--- |
-| Default Accordion Item | `.ma__accordion-item` |
-| Borderless Accordion Item | `.ma__accordion-item--borderless` |
-| Subtle Accordion Item\(modifier on accordion header element\) | `.ma__accordion-header__button--trans`  |
-| Secondary Accordion Item | `.ma__accordion-item--secondary` |
-
-
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Name</th>
+      <th style="text-align:left">Class Modifier</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Default Accordion Item</td>
+      <td style="text-align:left"><code>.ma__accordion-item</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Borderless Accordion Item</td>
+      <td style="text-align:left"><code>.ma__accordion-item--borderless</code>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>Subtle Accordion Item</p>
+        <p>(modifier on accordion header element)</p>
+      </td>
+      <td style="text-align:left"><code>.ma__accordion-header__button--trans</code> 
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Secondary Accordion Item</td>
+      <td style="text-align:left"><code>.ma__accordion-item--secondary</code>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
