@@ -17,14 +17,14 @@ Buttons are vital for creating a smooth conversational flow on the web, and shou
 
 | **Visual** | **Name** | **Description & Usage** |
 | :--- | :--- | :--- |
-| ![](../../.gitbook/assets/primarybutton-2-1-3.png)![](../../.gitbook/assets/screen-shot-2018-08-09-at-11.06.52-am-3-4.png) | [Primary Button](buttons.md#primary-button) | For the principle call to action on the page. Default buttons are solid colors with uppercased button text \(this is configurable with an capitalized option for longer button text\) Box shadow are used to accentuate the actions. The hover state of the primary button lightens the button background color. |
-| ![](../../.gitbook/assets/outlinebutton-2-1.png)![Example of Secondary Button](../../.gitbook/assets/screen-shot-2018-08-09-at-2.39.01-pm-5%20%281%29.png) | Secondary Button | For the secondary action on a page. The outline button provides a less prominent visual to indicate an less important action on a page, e.g. the Back button. The hover state of the secondary button inverts the background/foreground colors. |
-| ![](../../.gitbook/assets/screen-shot-2018-08-09-at-2.22.08-pm-2%20%281%29.png) | Tertiary Button | For the third action on a page. This is a solid gray button with a lighter background color than the foreground text. The muted color makes this button less prominent on a page than the secondary outline button a providing an option for a tertiary action. The hover state of this button will invert background color with white color text. |
-| ![](../../.gitbook/assets/screen-shot-2018-08-09-at-2.12.33-pm-3.png) | Quaternary Button | For an subtle action on a page. |
-| ![](../../.gitbook/assets/screen-shot-2018-08-09-at-2.35.05-pm-1-3.png) ![](../../.gitbook/assets/screen-shot-2018-08-09-at-2.34.59-pm-1-2%20%281%29.png) | Disabled Button | Box shadow on default buttons are used to accentuate the actions. For disabled buttons, box shadow is removed and opacity for the button is set to 0.5 for a muted look and no hover or focus state is provided. |
-| ![](../../.gitbook/assets/primarybutton-3-1-1%20%281%29.png) | [Link Button](buttons.md#link-button) | Link buttons are used to navigate to another page |
-| ![](../../.gitbook/assets/iconbutton-2-3.png) | [Icon Button](buttons.md#icon-button) | When words are not enough, icons can be used in buttons to better communicate what the button does. Icons are always paired with text. |
-| ![](../../.gitbook/assets/searchbutton-2-4%20%281%29.png) | [Search Button](buttons.md#search-button) | The search button is a variant of the icon button. It is a submit button included in the search bar, for the form to reduce the number of keystrokes required to use the form. On mobile, it will reduced to the icon. The magnifying glass is universally recognized by users as an indicator of search, and doesn’t need to be visually paired with the word "Search" as long as it remains for screen readers. |
+| ![](../../.gitbook/assets/primarybutton%20%284%29.png)![](../../.gitbook/assets/screen-shot-2018-08-09-at-11.06.52-am%20%282%29.png) | [Primary Button](buttons.md#primary-button) | For the principle call to action on the page. Default buttons are solid colors with uppercased button text \(this is configurable with an capitalized option for longer button text\) Box shadow are used to accentuate the actions. The hover state of the primary button lightens the button background color. |
+| ![](../../.gitbook/assets/outlinebutton.png)![Example of Secondary Button](../../.gitbook/assets/screen-shot-2018-08-09-at-2.39.01-pm%20%288%29.png) | Secondary Button | For the secondary action on a page. The outline button provides a less prominent visual to indicate an less important action on a page, e.g. the Back button. The hover state of the secondary button inverts the background/foreground colors. |
+| ![](../../.gitbook/assets/screen-shot-2018-08-09-at-2.22.08-pm%20%283%29.png) | Tertiary Button | For the third action on a page. This is a solid gray button with a lighter background color than the foreground text. The muted color makes this button less prominent on a page than the secondary outline button a providing an option for a tertiary action. The hover state of this button will invert background color with white color text. |
+| ![](../../.gitbook/assets/screen-shot-2018-08-09-at-2.12.33-pm%20%285%29.png) | Quaternary Button | For an subtle action on a page. |
+| ![](../../.gitbook/assets/screen-shot-2018-08-09-at-2.35.05-pm.png) ![](../../.gitbook/assets/screen-shot-2018-08-09-at-2.34.59-pm%20%282%29.png) | Disabled Button | Box shadow on default buttons are used to accentuate the actions. For disabled buttons, box shadow is removed and opacity for the button is set to 0.5 for a muted look and no hover or focus state is provided. |
+| ![](../../.gitbook/assets/primarybutton%20%281%29.png) | [Link Button](buttons.md#link-button) | Link buttons are used to navigate to another page |
+| ![](../../.gitbook/assets/iconbutton%20%285%29.png) | [Icon Button](buttons.md#icon-button) | When words are not enough, icons can be used in buttons to better communicate what the button does. Icons are always paired with text. |
+| ![](../../.gitbook/assets/searchbutton%20%282%29.png) | [Search Button](buttons.md#search-button) | The search button is a variant of the icon button. It is a submit button included in the search bar, for the form to reduce the number of keystrokes required to use the form. On mobile, it will reduced to the icon. The magnifying glass is universally recognized by users as an indicator of search, and doesn’t need to be visually paired with the word "Search" as long as it remains for screen readers. |
 
 ### Accessibility & Best Practices
 
@@ -51,7 +51,7 @@ Buttons are vital for creating a smooth conversational flow on the web, and shou
 
 {% tabs %}
 {% tab title="Visual" %}
-![](../../.gitbook/assets/primarybutton%20%282%29.png)
+![](../../.gitbook/assets/primarybutton.png)
 {% endtab %}
 
 {% tab title="HTML" %}
@@ -75,7 +75,7 @@ Buttons are vital for creating a smooth conversational flow on the web, and shou
 
 {% tabs %}
 {% tab title="Visual" %}
-![](../../.gitbook/assets/screen-shot-2018-08-09-at-2.39.01-pm.png)
+![](../../.gitbook/assets/screen-shot-2018-08-09-at-2.39.01-pm%20%282%29.png)
 {% endtab %}
 
 {% tab title="HTML" %}
@@ -99,7 +99,7 @@ Buttons are vital for creating a smooth conversational flow on the web, and shou
 
 {% tabs %}
 {% tab title="Visual" %}
-![](../../.gitbook/assets/screen-shot-2018-08-09-at-2.22.08-pm%20%283%29.png)
+![](../../.gitbook/assets/screen-shot-2018-08-09-at-2.22.08-pm%20%285%29.png)
 {% endtab %}
 
 {% tab title="HTML" %}
@@ -119,7 +119,7 @@ Work in Progress
 
 {% tabs %}
 {% tab title="Visual" %}
-![](../../.gitbook/assets/primary-button-3-7.gif)
+![](../../.gitbook/assets/primary-button%20%282%29.gif)
 {% endtab %}
 
 {% tab title="HTML" %}
@@ -143,7 +143,7 @@ Work in Progress
 
 {% tabs %}
 {% tab title="Visual" %}
-![](../../.gitbook/assets/iconbutton-2-7%20%281%29.png)
+![](../../.gitbook/assets/iconbutton%20%284%29.png)
 {% endtab %}
 
 {% tab title="HTML" %}
@@ -168,7 +168,7 @@ Not Available
 
 {% tabs %}
 {% tab title="Visual" %}
-![](../../.gitbook/assets/searchbutton.png)
+![](../../.gitbook/assets/searchbutton%20%283%29.png)
 {% endtab %}
 
 {% tab title="HTML" %}
@@ -195,78 +195,18 @@ Not Available
 
 ### Classnames
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left"><b>Name</b>
-      </th>
-      <th style="text-align:left"><b>Class Modifier</b>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Primary Button</td>
-      <td style="text-align:left"><code>.ma__button</code>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Secondary Button</td>
-      <td style="text-align:left">
-        <p><code>.ma__button--secondary</code>  <em>(work in progress)</em>
-        </p>
-        <p><code>.ma__button--minor</code> (<em>previous version</em>)</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Tertiary Button</td>
-      <td style="text-align:left"><code>.ma__button--tertiary</code>  <em>(work in progress)</em>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Quaternary Button</td>
-      <td style="text-align:left"><code>.ma__button--quaternary </code><em>(work in progress)</em>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Small Button</td>
-      <td style="text-align:left"><code>.ma__button--small</code>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Large Button</td>
-      <td style="text-align:left"><code>.ma__button--large</code>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Icon Button</td>
-      <td style="text-align:left"><code>.ma__button--icon</code>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Search Button</td>
-      <td style="text-align:left"><code>.ma__button--icon .ma__button--search</code>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Capitalized Button</td>
-      <td style="text-align:left"><code>.ma__button--capitalized</code>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Disabled Button</td>
-      <td style="text-align:left"><code>.ma__button--disabled </code><em>(work in progress)</em>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Color Button (Primary Color)</td>
-      <td style="text-align:left"><code>.ma__button--c-primary </code><em>(work in progress)</em>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Alt Color Button (Primary Alt Color)</td>
-      <td style="text-align:left"><code>.ma__button--c-primary-alt</code>  <em>(work in progress)</em>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| **Name** | **Class Modifier** |
+| :--- | :--- |
+| Primary Button | `.ma__button` |
+| Secondary Button | `.ma__button--secondary` _\(work in progress\)_`.ma__button--minor` \(_previous version_\) |
+| Tertiary Button | `.ma__button--tertiary` _\(work in progress\)_ |
+| Quaternary Button | `.ma__button--quaternary` _\(work in progress\)_ |
+| Small Button | `.ma__button--small` |
+| Large Button | `.ma__button--large` |
+| Icon Button | `.ma__button--icon` |
+| Search Button | `.ma__button--icon .ma__button--search` |
+| Capitalized Button | `.ma__button--capitalized` |
+| Disabled Button | `.ma__button--disabled` _\(work in progress\)_ |
+| Color Button \(Primary Color\) | `.ma__button--c-primary` _\(work in progress\)_ |
+| Alt Color Button \(Primary Alt Color\) | `.ma__button--c-primary-alt` _\(work in progress\)_ |
+

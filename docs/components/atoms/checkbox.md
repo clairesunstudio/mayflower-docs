@@ -12,9 +12,9 @@ Each checkbox needs a label and, optionally, can include an icon. All options ne
 
 | Visual | Name | Description |
 | :--- | :--- | :--- |
-| ![](../../.gitbook/assets/form_input_checkbox-3.png) | Standard |  |
-| ![](../../.gitbook/assets/form_input_checkbox_checked.png) | Checked |  |
-| ![](../../.gitbook/assets/checkbox-disabled-state-small.png)  | Disabled |  |
+| ![](../../.gitbook/assets/form_input_checkbox%20%282%29.png) | Standard |  |
+| ![](https://github.com/massgov/edit-mayflower-docs/tree/2722edcc01f5369d927910b639e6360875d1a97e/docs/.gitbook/assets/form_input_checkbox_checked.png) | Checked |  |
+| ![](../../.gitbook/assets/checkbox-disabled-state-small%20%281%29.png) | Disabled |  |
 |  | Error |  |
 |  | Focus |  |
 
@@ -63,6 +63,4 @@ Currently Not Available
 | Base Checkbox | `.ma__input-checkbox` |
 | Checkbox with Error | `.ma__input-checkbox--error` \(_work in progress_\) |
 | Checkbox Disabled | `.ma__input-checkbox--disabled` \(_work in progress_\) |
-
-
 

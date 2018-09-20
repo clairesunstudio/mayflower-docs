@@ -14,19 +14,19 @@ Navigating through the `<h1>` and `<h2>` elements allows the user to understand 
 
 | **Visual** | **Name** | Screen Size \(px\) | Base Font Size \(px\) | Font Size \(rem\) | **Font Size \(px\)** | Line Height | Line Height \(px\) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| ![](../../.gitbook/assets/h1-1%20%281%29.png) | H1 | &gt;= 1200 | 16px | 3.5rem | 56px | 1.07 | 59.92px |
+| ![](../../.gitbook/assets/h1%20%282%29.png) | H1 | &gt;= 1200 | 16px | 3.5rem | 56px | 1.07 | 59.92px |
 |  |  | 780 ~ 1200 | 16px | 3.25rem | 52px | 1.07 | 55.64px |
 |  |  | 620 ~ 780 | 16px | 3rem | 48px | 1.07 | 51.36px |
 |  |  | &lt;= 620 | 14.5px | 3rem | 43.5px | 1.07 | 46.545px |
-| ![](../../.gitbook/assets/h1-2%20%284%29.png) | H2 | Above 620px | 16px | 2.5rem | 40px | 1.2 | 48px |
+| ![](../../.gitbook/assets/h2.png) | H2 | Above 620px | 16px | 2.5rem | 40px | 1.2 | 48px |
 |  |  | Below 620px | 14.5px | 2.5rem | 36.25px | 1.2 | 43.5px |
-| ![](../../.gitbook/assets/h1-2-2-1%20%282%29.png) | H3 | Above 620px | 16px | 2.125rem | 34px | 1.2 | 40.8px |
+| ![](../../.gitbook/assets/h3.png) | H3 | Above 620px | 16px | 2.125rem | 34px | 1.2 | 40.8px |
 |  |  | Below 620px | 14.5px | 2.125rem | 30.8125px | 1.2 | 36.975px |
-| ![](../../.gitbook/assets/h1-2-2-2-1.png) | H4 | Above 620px | 16px | 1.875rem | 30px | 1.2 | 36px |
+| ![](../../.gitbook/assets/h4.png) | H4 | Above 620px | 16px | 1.875rem | 30px | 1.2 | 36px |
 |  |  | Below 620px | 14.5px | 1.875rem | 27.1875px | 1.2 | 32.625px |
-| ![](../../.gitbook/assets/h1-2-2-2-2%20%283%29.png) | H5 | Above 620px | 16px | 1.625rem | 26px | 1.3 | 33.8px |
+| ![](../../.gitbook/assets/h5.png) | H5 | Above 620px | 16px | 1.625rem | 26px | 1.3 | 33.8px |
 |  |  | Below 620px | 14.5px | 1.625rem | 23.5625px | 1.3 | 30.63125px |
-| ![](../../.gitbook/assets/h1-2-2-2-2-2-1.png) | H6 | Above 620px | 16px | 1.375rem | 22px | 1.4 | 30.8px |
+| ![](../../.gitbook/assets/h6.png) | H6 | Above 620px | 16px | 1.375rem | 22px | 1.4 | 30.8px |
 |  |  | Below 620px | 14.5px | 1.375rem | 19.9375px | 1.4 | 27.9125px |
 
 #### Colored Heading Variations
@@ -41,14 +41,14 @@ Navigating through the `<h1>` and `<h2>` elements allows the user to understand 
 
 | **Visual** | **Name** | **Description & Usage** |
 | :--- | :--- | :--- |
-| ![](../../.gitbook/assets/screen-shot-2018-08-09-at-4.34.45-pm-1-1.png) | Component Heading  | Should be used to to separate content within a big section. If used under Colored Heading, should use a lower heading level than the colored heading. |
-| ![](../../.gitbook/assets/screen-shot-2018-08-09-at-4.29.08-pm-1.png) | Component Heading \(Highlight\) |  |
+| ![](../../.gitbook/assets/screen-shot-2018-08-09-at-4.34.45-pm.png) | Component Heading | Should be used to to separate content within a big section. If used under Colored Heading, should use a lower heading level than the colored heading. |
+| ![](../../.gitbook/assets/screen-shot-2018-08-09-at-4.29.08-pm%20%284%29.png) | Component Heading \(Highlight\) |  |
 
 #### Sidebar Heading Variations
 
 | **Visual** | **Name** | **Description & Usage** |
 | :--- | :--- | :--- |
-| ![](../../.gitbook/assets/sidebarheading-1%20%281%29.png) | Sidebar Heading | Should be used as a heading of a list either full width or in a 50/50 split the main content well. |
+| ![](../../.gitbook/assets/sidebarheading.png) | Sidebar Heading | Should be used as a heading of a list either full width or in a 50/50 split the main content well. |
 
 ### Accessibility & Best Practices
 
@@ -204,51 +204,12 @@ Not Available
 
 ### Classnames
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left"><b>Name</b>
-      </th>
-      <th style="text-align:left"><b>Class Modifier</b>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Colored Heading</td>
-      <td style="text-align:left"><code>.ma__colored-heading</code>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Colored Heading (Primary Alt)</td>
-      <td style="text-align:left"><code>.ma__colored-heading--c-primary-alt</code>(<em>work in progress</em>)
-        <br
-        /><code>.ma__colored-heading--green</code> (<em>previous version</em>)</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Colored Heading (Primary)</td>
-      <td style="text-align:left">
-        <p><code>.ma__colored-heading--c-primary</code>(<em>work in progress</em>)</p>
-        <p><code>.ma__colored-heading--blue</code> (<em>previous version</em>)</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Component Heading</td>
-      <td style="text-align:left"><code>.ma__comp-heading</code>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Component Heading (Highlight)</td>
-      <td style="text-align:left">
-        <p><code>.ma__comp-heading--c-highlight</code> (<em>work in progress</em>)</p>
-        <p><code>.ma__comp-heading--yellow</code> (previous version)</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Sidebar Heading</td>
-      <td style="text-align:left"><code>.ma__sidebar-heading</code>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| **Name** | **Class Modifier** |
+| :--- | :--- |
+| Colored Heading | `.ma__colored-heading` |
+| Colored Heading \(Primary Alt\) | `.ma__colored-heading--c-primary-alt`\(_work in progress_\) `.ma__colored-heading--green` \(_previous version_\) |
+| Colored Heading \(Primary\) | `.ma__colored-heading--c-primary`\(_work in progress_\)`.ma__colored-heading--blue` \(_previous version_\) |
+| Component Heading | `.ma__comp-heading` |
+| Component Heading \(Highlight\) | `.ma__comp-heading--c-highlight` \(_work in progress_\)`.ma__comp-heading--yellow` \(previous version\) |
+| Sidebar Heading | `.ma__sidebar-heading` |
 
