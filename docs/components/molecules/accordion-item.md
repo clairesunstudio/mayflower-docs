@@ -40,7 +40,7 @@ Once the user tabs to the next element, the focus moves from the button to the n
 
 #### aria-label
 
-This is an optional. Omit it unless you need it.
+This is an optional. Omit it unless you need to add extra label infomration for assisitve technologies.
 
 NOTE:  not sure about use of this.  It doesn't seem to be necessary.
 
