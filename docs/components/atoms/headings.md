@@ -14,7 +14,7 @@ Navigating through the `<h1>` and `<h2>` elements allows the user to understand 
 
 | **Visual** | **Name** | Screen Size \(px\) | Base Font Size \(px\) | Font Size \(rem\) | **Font Size \(px\)** | Line Height | Line Height \(px\) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| ![](../../.gitbook/assets/h1-1%20%281%29.png) | H1 | &gt;= 1200 | 16px | 3.5rem | 56px | 1.07 | 59.92px |
+| ![](../../.gitbook/assets/h1%20%282%29.png) | H1 | &gt;= 1200 | 16px | 3.5rem | 56px | 1.07 | 59.92px |
 |  |  | 780 ~ 1200 | 16px | 3.25rem | 52px | 1.07 | 55.64px |
 |  |  | 620 ~ 780 | 16px | 3rem | 48px | 1.07 | 51.36px |
 |  |  | &lt;= 620 | 14.5px | 3rem | 43.5px | 1.07 | 46.545px |
@@ -41,8 +41,8 @@ Navigating through the `<h1>` and `<h2>` elements allows the user to understand 
 
 | **Visual** | **Name** | **Description & Usage** |
 | :--- | :--- | :--- |
-| ![](../../.gitbook/assets/screen-shot-2018-08-09-at-4.34.45-pm-1-1.png) | Component Heading  | Should be used to to separate content within a big section. If used under Colored Heading, should use a lower heading level than the colored heading. |
-| ![](../../.gitbook/assets/screen-shot-2018-08-09-at-4.29.08-pm-1.png) | Component Heading \(Highlight\) |  |
+| ![](../../.gitbook/assets/screen-shot-2018-08-09-at-4.34.45-pm.png) | Component Heading | Should be used to to separate content within a big section. If used under Colored Heading, should use a lower heading level than the colored heading. |
+| ![](../../.gitbook/assets/screen-shot-2018-08-09-at-4.29.08-pm%20%284%29.png) | Component Heading \(Highlight\) |  |
 
 #### Sidebar Heading Variations
 

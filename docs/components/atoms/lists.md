@@ -8,8 +8,8 @@ Lists display a series of related content. Each list item begins with a bullet o
 
 | **Visual** | **Name** | Description & Usage |
 | :--- | :--- | :--- |
-| ![](../../.gitbook/assets/orderedlist-1.png) | Ordered List | Use ordered lists to group a set of items in a prioritized or step by step sequence.. |
-| ![](../../.gitbook/assets/capture_01-atoms-08-lists-unordered-list_0_document_0_phone-2.png) | Unordered List | Use unordered lists to group shortened content of the same status or value. |
+| ![](../../.gitbook/assets/orderedlist%20%283%29.png) | Ordered List | Use ordered lists to group a set of items in a prioritized or step by step sequence.. |
+| ![](../../.gitbook/assets/capture_01-atoms-08-lists-unordered-list_0_document_0_phone%20%282%29.png) | Unordered List | Use unordered lists to group shortened content of the same status or value. |
 
 ### Accessibility & Best Practices
 
