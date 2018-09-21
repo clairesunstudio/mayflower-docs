@@ -32,7 +32,6 @@
   * [Typography](style/typography.md)
 * [Components](components/README.md)
   * [Atoms](components/atoms/README.md)
-    * [Input](components/atoms/input.md)
     * [Buttons](components/atoms/buttons.md)
     * [Headings](components/atoms/headings.md)
     * [Links](components/atoms/links.md)
