@@ -8,11 +8,11 @@ Regardless of the user's device or operating system, the file input provides a b
 
 ## Usage
 
-![](../../.gitbook/assets/form_input_file.png)
+![](../../.gitbook/assets/form_input_file%20%282%29.png)
 
 ### Allow multiple files
 
-Including the `multiple` attribute, specifies that multiple files can be chosen at once. The user can choose multiple files from the file picker in any way that their chosen platform allows. 
+Including the `multiple` attribute, specifies that multiple files can be chosen at once. The user can choose multiple files from the file picker in any way that their chosen platform allows.
 
 If the user should choose a single file per `<input>`, omit the `multiple` attribute.
 
@@ -29,7 +29,7 @@ If the user should choose a single file per `<input>`, omit the `multiple` attri
 | Any file with a video | `video/*` |
 | Anything like an MS Word document | `.doc,.docx,.xml,application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document` |
 
-The `accept` attribute doesn't validate the types of the selected files; it simply provides hints for browsers to guide users towards selecting the correct file types. It is still possible (in most cases) for users to toggle an option in the file chooser that makes it possible to override this and select any file they wish, and then choose incorrect file types.
+The `accept` attribute doesn't validate the types of the selected files; it simply provides hints for browsers to guide users towards selecting the correct file types. It is still possible \(in most cases\) for users to toggle an option in the file chooser that makes it possible to override this and select any file they wish, and then choose incorrect file types.
 
 Because of this, you should make sure that the accept attribute is backed up by appropriate server-side validation.
 
@@ -68,7 +68,7 @@ Work in progress
 {% endtab %}
 
 {% tab title="Twig PL" %}
-
+Work in progress
 {% endtab %}
 {% endtabs %}
 
@@ -81,3 +81,4 @@ Work in progress
 | Label for optional field | `.ma__label` `.ma__label--optional` |
 | Label for required field | `.ma__label` `.ma__label--required` |
 | Input | `.ma__input` |
+
