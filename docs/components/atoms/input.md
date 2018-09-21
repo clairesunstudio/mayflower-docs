@@ -59,6 +59,10 @@ Assistive technologies use this association to identify the field to the user.
 ```
 {% endtab %}
 
+{% tab title="React" %}
+Work in progress
+{% endtab %}
+
 {% tab title="Twig PL" %}
 ```text
 {% if inputText.labelText %}
@@ -109,6 +113,10 @@ Assistive technologies use this association to identify the field to the user.
         pattern="[0-9]*"
       required />
 ```
+{% endtab %}
+
+{% tab title="React" %}
+Work in progress
 {% endtab %}
 
 {% tab title="Twig PL" %}
@@ -176,6 +184,14 @@ You can use the `min` and `max` attributes to specify a minimum and maximum valu
          />
 ```
 {% endtab %}
+
+{% tab title="React" %}
+Work in progress
+{% endtab %}
+
+{% tab title="Twig PL" %}
+Work in progress
+{% endtab %}
 {% endtabs %}
 
 ### Email
@@ -195,6 +211,14 @@ You can use the `min` and `max` attributes to specify a minimum and maximum valu
   data-type="text"
          />
 ```
+{% endtab %}
+
+{% tab title="React" %}
+Work in progress
+{% endtab %}
+
+{% tab title="Twig PL" %}
+Work in progress
 {% endtab %}
 {% endtabs %}
 
@@ -216,6 +240,14 @@ You can use the `min` and `max` attributes to specify a minimum and maximum valu
          />
 ```
 {% endtab %}
+
+{% tab title="React" %}
+Work in progress
+{% endtab %}
+
+{% tab title="Twig PL" %}
+Work in progress
+{% endtab %}
 {% endtabs %}
 
 ### Password
@@ -236,6 +268,10 @@ You can use the `min` and `max` attributes to specify a minimum and maximum valu
   data-restrict="max" 
    />
 ```
+{% endtab %}
+
+{% tab title="React" %}
+Work in progress
 {% endtab %}
 
 {% tab title="Twig PL" %}
