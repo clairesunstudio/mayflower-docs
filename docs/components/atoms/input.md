@@ -1,7 +1,5 @@
 # Input
 
-TEST EDIT
-
 ## Overview
 
 Input fields allow the user to enter any combination of letters, numbers, or symbols of their choosing \(unless otherwise restricted\).
@@ -16,13 +14,13 @@ An input field can be specified what data type to accept with its type attribute
 
 | **Visual** | **Input Type** | **Description & Usage** |
 | :--- | :--- | :--- |
-| ![](../../../.gitbook/assets/form_input_text%20%281%29.png) | Text | Text input allows the user to enter any combination of letters, numbers, or symbols of their choosing \(unless otherwise restricted\). |
-| ![](../../../.gitbook/assets/form_input_text_number%20%281%29.png) | Number | Number input is used to let the user enter a number. It includes built-in validation to reject non-numerical entries. Browsers that don't support type "number" fall back to using a standard "text" input. |
+| ![](../../.gitbook/assets/form_input_text-1.png) | Text | Text input allows the user to enter any combination of letters, numbers, or symbols of their choosing \(unless otherwise restricted\). |
+| ![](../../.gitbook/assets/form_input_text_number-1.png) | Number | Number input is used to let the user enter a number. It includes built-in validation to reject non-numerical entries. Browsers that don't support type "number" fall back to using a standard "text" input. |
 | ADD SCREENSHOT | Telephone | Telephone input to let the user enter a telephone number. Unlike `<input type="email">` and `<input type="url">` , the input value is not automatically validated to a particular format before the form can be submitted, because formats for telephone numbers vary so much around the world.  Browsers that don't support type "email" fall back to being a standard "text" input. |
 | ADD SCREENSHOT | Email | Email input lets the user to enter and edit an email address. The input value is automatically validated to ensure that it's either empty or a properly-formatted email address before the form can be submitted. Browsers that don't support type "email" fall back to being a standard "text" input. |
 | ADD SCREENSHOT | URL | URL input lets the user enter a URL. The input value is automatically validated to ensure that it's either empty or a properly-formatted URL before the form can be submitted. Browsers that don't support type "email" fall back to being a standard "text" input. |
 | ADD SCREENSHOT | Password | Password input provides a way for the user to securely enter a password. Entered text is obscured so that it cannot be read, usually by replacing each character with a symbol such as the asterisk \("\*"\) or a dot \("•"\). This character will vary depending on the user agent and OS. |
-| ![](../../../.gitbook/assets/form_input_date%20%282%29.png) | Date | Date input lets the user enter a date, either using a text box that automatically validates the content, or using a special date picker interface. The resulting value includes the year, month, and day, but not the time. In unsupported browsers, the control degrades gracefully a standard "text" input. |
+| ![](../../.gitbook/assets/form_input_date-2.png) | Date | Date input lets the user enter a date, either using a text box that automatically validates the content, or using a special date picker interface. The resulting value includes the year, month, and day, but not the time. In unsupported browsers, the control degrades gracefully a standard "text" input. |
 
 ### Other input types:
 
@@ -61,10 +59,6 @@ Assistive technologies use this association to identify the field to the user.
 ```
 {% endtab %}
 
-{% tab title="React" %}
-
-{% endtab %}
-
 {% tab title="Twig PL" %}
 ```text
 {% if inputText.labelText %}
@@ -96,8 +90,6 @@ Assistive technologies use this association to identify the field to the user.
 {% endtab %}
 {% endtabs %}
 
-
-
 ### Number
 
 {% tabs %}
@@ -117,10 +109,6 @@ Assistive technologies use this association to identify the field to the user.
         pattern="[0-9]*"
       required />
 ```
-{% endtab %}
-
-{% tab title="React" %}
-
 {% endtab %}
 
 {% tab title="Twig PL" %}
@@ -162,14 +150,13 @@ A number input is considered valid when empty and when a single number is entere
 
 By default, the up and down buttons provided for you to step the number up and down will step the value up and down by 1. You can change this by providing a `step` attribute, which takes as its value a number specifying the step amount.
 
-##### Allowing decimal values
+**Allowing decimal values**
 
-When a number with a decimal, such as "1.0", is entered to the field, it will be considered invalid. If the field requires a value with decimals, set the `step` value (e.g. `step="0.01"` to allow decimals to two decimal places).
+When a number with a decimal, such as "1.0", is entered to the field, it will be considered invalid. If the field requires a value with decimals, set the `step` value \(e.g. `step="0.01"` to allow decimals to two decimal places\).
 
 #### Specifying minimum and maximum values
 
 You can use the `min` and `max` attributes to specify a minimum and maximum value that the field can have.
-
 
 ### Telephone
 
@@ -188,14 +175,6 @@ You can use the `min` and `max` attributes to specify a minimum and maximum valu
   data-type="text"
          />
 ```
-{% endtab %}
-
-{% tab title="React" %}
-
-{% endtab %}
-
-{% tab title="Twig PL" %}
-
 {% endtab %}
 {% endtabs %}
 
@@ -217,14 +196,6 @@ You can use the `min` and `max` attributes to specify a minimum and maximum valu
          />
 ```
 {% endtab %}
-
-{% tab title="React" %}
-
-{% endtab %}
-
-{% tab title="Twig PL" %}
-
-{% endtab %}
 {% endtabs %}
 
 ### URL
@@ -245,31 +216,9 @@ You can use the `min` and `max` attributes to specify a minimum and maximum valu
          />
 ```
 {% endtab %}
-
-{% tab title="React" %}
-
-{% endtab %}
-
-{% tab title="Twig PL" %}
-
-{% endtab %}
 {% endtabs %}
 
 ### Password
-
-{% tabs %}
-{% tab title="HTML" %}
-
-{% endtab %}
-
-{% tab title="React" %}
-
-{% endtab %}
-
-{% tab title="Twig PL" %}
-
-{% endtab %}
-{% endtabs %}
 
 ### Date
 
@@ -289,10 +238,6 @@ You can use the `min` and `max` attributes to specify a minimum and maximum valu
 ```
 {% endtab %}
 
-{% tab title="React" %}
-
-{% endtab %}
-
 {% tab title="Twig PL" %}
 ```text
 <label for="{{ inputDate.id }}">{{inputDate.labelText}}</label>
@@ -309,20 +254,18 @@ You can use the `min` and `max` attributes to specify a minimum and maximum valu
 {% endtab %}
 {% endtabs %}
 
-Non-supporting browsers gracefully degrade to a text input, but this creates problems both in terms of consistency of user interface (the presented control will be different), and data handling.
+Non-supporting browsers gracefully degrade to a text input, but this creates problems both in terms of consistency of user interface \(the presented control will be different\), and data handling.
 
-With a date input, the actual value is always normalized to the format `yyyy-mm-dd`. With a text input (in non-supporting browsers) on the other hand, by default the browser has no recognition of what format the date should be in, and there are lots of different ways in which people write dates, for example:
+With a date input, the actual value is always normalized to the format `yyyy-mm-dd`. With a text input \(in non-supporting browsers\) on the other hand, by default the browser has no recognition of what format the date should be in, and there are lots of different ways in which people write dates, for example:
 
-- `ddmmyyyy`
-- `dd/mm/yyyy`
-- `mm/dd/yyyy`
-- `dd-mm-yyyy`
-- `mm-dd-yyyy`
-- `Month dd yyyy`
+* `ddmmyyyy`
+* `dd/mm/yyyy`
+* `mm/dd/yyyy`
+* `dd-mm-yyyy`
+* `mm-dd-yyyy`
+* `Month dd yyyy`
 
-Workaround is to put a `pattern` attribute on the date input for example: `pattern="[0-9]{4}-[0-9]{2}-[0-9]{2}"` 
-Even though the date input doesn't use it, the text input fallback will. `placeholder` can be also used to diplay the format: `yyyy-mm-dd`
-
+Workaround is to put a `pattern` attribute on the date input for example: `pattern="[0-9]{4}-[0-9]{2}-[0-9]{2}"` Even though the date input doesn't use it, the text input fallback will. `placeholder` can be also used to diplay the format: `yyyy-mm-dd`
 
 ## Style
 
@@ -333,3 +276,4 @@ Even though the date input doesn't use it, the text input fallback will. `placeh
 | Label for optional field | `.ma__label` `.ma__label--optional` |
 | Label for required field | `.ma__label` `.ma__label--required` |
 | Input | `.ma__input` |
+
