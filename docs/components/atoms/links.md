@@ -11,7 +11,7 @@ Links are used to embed actions or pathways to more information in a sentence or
 | ![](../../.gitbook/assets/link-1-1.png) | Link | Use when you are linking just a few words of text or when you are doing inline links. |
 | ![](../../.gitbook/assets/decorativelink-1.png) | Decorative Link | Used for standalone links that require more emphasis. |
 | ![](../../.gitbook/assets/linkchevron-2.png) | Chevron Link |  |
-| ![](../../.gitbook/assets/primarybutton-4%20%281%29.png) | Link Button | Refer to [Link Button](buttons.md#link-button) in the [Buttons](buttons.md) section. |
+| ![](../../.gitbook/assets/primarybutton-4%20%282%29.png) | Link Button | Refer to [Link Button](buttons.md#link-button) in the [Buttons](buttons.md) section. |
 
 ### Accessibility & Best Practices
 

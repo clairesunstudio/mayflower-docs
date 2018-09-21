@@ -18,15 +18,15 @@ Navigating through the `<h1>` and `<h2>` elements allows the user to understand 
 |  |  | 780 ~ 1200 | 16px | 3.25rem | 52px | 1.07 | 55.64px |
 |  |  | 620 ~ 780 | 16px | 3rem | 48px | 1.07 | 51.36px |
 |  |  | &lt;= 620 | 14.5px | 3rem | 43.5px | 1.07 | 46.545px |
-| ![](../../.gitbook/assets/h1-2%20%284%29.png) | H2 | Above 620px | 16px | 2.5rem | 40px | 1.2 | 48px |
+| ![](../../.gitbook/assets/h1-2%20%285%29.png) | H2 | Above 620px | 16px | 2.5rem | 40px | 1.2 | 48px |
 |  |  | Below 620px | 14.5px | 2.5rem | 36.25px | 1.2 | 43.5px |
 | ![](../../.gitbook/assets/h1-2-2-1%20%282%29.png) | H3 | Above 620px | 16px | 2.125rem | 34px | 1.2 | 40.8px |
 |  |  | Below 620px | 14.5px | 2.125rem | 30.8125px | 1.2 | 36.975px |
-| ![](../../.gitbook/assets/h1-2-2-2-1.png) | H4 | Above 620px | 16px | 1.875rem | 30px | 1.2 | 36px |
+| ![](../../.gitbook/assets/h1-2-2-2-1%20%281%29.png) | H4 | Above 620px | 16px | 1.875rem | 30px | 1.2 | 36px |
 |  |  | Below 620px | 14.5px | 1.875rem | 27.1875px | 1.2 | 32.625px |
 | ![](../../.gitbook/assets/h1-2-2-2-2%20%283%29.png) | H5 | Above 620px | 16px | 1.625rem | 26px | 1.3 | 33.8px |
 |  |  | Below 620px | 14.5px | 1.625rem | 23.5625px | 1.3 | 30.63125px |
-| ![](../../.gitbook/assets/h1-2-2-2-2-2-1.png) | H6 | Above 620px | 16px | 1.375rem | 22px | 1.4 | 30.8px |
+| ![](../../.gitbook/assets/h1-2-2-2-2-2-1%20%281%29.png) | H6 | Above 620px | 16px | 1.375rem | 22px | 1.4 | 30.8px |
 |  |  | Below 620px | 14.5px | 1.375rem | 19.9375px | 1.4 | 27.9125px |
 
 #### Colored Heading Variations
