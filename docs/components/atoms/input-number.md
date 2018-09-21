@@ -1,6 +1,5 @@
 # Input Number
 
-
 ## Overview
 
 `<input>` elements of type "number" are used to let the user enter a number. They include built-in validation to reject non-numerical entries. The browser may opt to provide stepper arrows to let the user increase and decrease the value using their mouse or by simply tapping with a fingertip.
@@ -9,7 +8,7 @@ Browsers that don't support type "number" fall back to using a standard "text" i
 
 ## Usage
 
-![](../../.gitbook/assets/form_input_number.png)
+![](https://github.com/massgov/edit-mayflower-docs/tree/65ab88bdf205e76c9267cd4dc0098fd8c3ecf999/docs/.gitbook/assets/form_input_number.png)
 
 Number representing the value of the number entered into the input. You can set a default value for the input by including a number inside the value attribute.
 
@@ -37,11 +36,11 @@ The label and the text field have to be paired to identify the text field.
 
 The `for` attribute share the same value with its paired `<input>`'s `id` to establish their association.
 
-`id` is required to `<input type="text">`.  Ensure its value is unique in the page.
+`id` is required to `<input type="text">`. Ensure its value is unique in the page.
 
 Assistive technologies use this association to identify the field to the user.
-
 
 ## Code
 
 ADD CODE
+

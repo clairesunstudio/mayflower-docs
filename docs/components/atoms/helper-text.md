@@ -18,10 +18,9 @@ The placement pattern for helper text should be consistent through the site.
 
 Helper text is paired with its associated form element. Its container `<div>` has a unique `id` in the page, and its value is shared with the `aria-describedby` attribute of the form element.
 
-
 ## Code
-
 
 ## Related Element
 
-- Tooltip
+* Tooltip
+
