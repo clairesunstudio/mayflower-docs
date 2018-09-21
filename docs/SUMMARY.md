@@ -34,7 +34,7 @@
   * [Atoms](components/atoms/README.md)
     * [Buttons](components/atoms/buttons.md)
     * [Input](components/atoms/input.md)
-    * [Input File Uploader](components/atoms/input-file-uploader.md)
+    * [File Uploader](components/atoms/input-file-uploader.md)
     * [Checkbox](components/atoms/checkbox.md)
     * [Radio Button](components/atoms/radio-button.md)
     * [Text Area](components/atoms/text-area.md)

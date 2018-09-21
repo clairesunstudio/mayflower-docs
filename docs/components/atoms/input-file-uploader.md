@@ -1,4 +1,4 @@
-# Input File Uploader
+# File Uploader
 
 ## Overview
 
@@ -24,5 +24,28 @@ Assistive technologies use this association to identify the field to the user.
 
 ## Code
 
-ADD CODE
+{% tabs %}
+{% tab title="HTML" %}
+```text
+<label 
+  for="optional-input"
+  class="ma__label ma__label--optional ">File Upload</label>
+<input 
+  class="ma__input " 
+  name="optional-input" 
+  id="optional-input" 
+  type="file" 
+  data-type="binary"
+         />
+```
+{% endtab %}
+
+{% tab title="React" %}
+Work in progress
+{% endtab %}
+
+{% tab title="Twig PL" %}
+
+{% endtab %}
+{% endtabs %}
 
