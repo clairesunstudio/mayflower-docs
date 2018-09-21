@@ -24,7 +24,7 @@ An input field can be specified what data type to accept with its type attribute
 
 ### Other input types:
 
-* File Upload
+* [File Upload](input-file-uploader.md)
 
 ### Accessibility & Best Practices
 
