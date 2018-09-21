@@ -6,7 +6,7 @@ Error message is displayed at required fields which don't have any values based 
 
 ## Usage
 
-![](../../.gitbook/assets/form_input_text_error%20%281%29.png)
+![](../../.gitbook/assets/form_input_text_error-1.png)
 
 ### Accessibility & Best Practices
 
@@ -34,8 +34,6 @@ The error message should have an association with the invalid form element, so a
   document.querySelector('.ma__error-msg').classList.add('has-error');
   document.querySelector('.ma__input').classList.add('has-error');
 </script>
-
-Text Input as Error
 ```
 {% endtab %}
 
