@@ -1,10 +1,10 @@
-# Input Date / Date Range
+# Date / Date Range
 
 ## Overview
 
 ## Usage
 
-![](../../.gitbook/assets/form_input_date%20%281%29.png)
+![](../../../.gitbook/assets/form_input_date%20%281%29.png)
 
 ### Accessibility & Best Practices
 

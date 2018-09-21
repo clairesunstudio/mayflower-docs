@@ -1,4 +1,4 @@
-# Input Text
+# Text
 
 ## Overview
 
@@ -6,7 +6,7 @@ Text inputs allow people to enter any combination of letters, numbers, or symbol
 
 ## Usage
 
-![](../../.gitbook/assets/form_input_text%20%281%29.png)
+![](../../../.gitbook/assets/form_input_text%20%282%29.png)
 
 ### Accessibility & Best Practices
 

@@ -1,4 +1,4 @@
-# Input Password
+# Password
 
 ## Overview
 
@@ -6,7 +6,7 @@
 
 ## Usage
 
-![](../../.gitbook/assets/form_input_text%20%281%29.png)![](../../.gitbook/assets/form_input_text%20%281%29.png)
+![](../../../.gitbook/assets/form_input_text%20%282%29.png)![](../../../.gitbook/assets/form_input_text%20%282%29.png)
 
 ### Accessibility & Best Practices
 

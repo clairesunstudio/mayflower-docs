@@ -1,4 +1,4 @@
-# Input Number
+# Number
 
 ## Overview
 
