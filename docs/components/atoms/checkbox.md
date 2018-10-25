@@ -12,7 +12,7 @@ Each checkbox needs a label and, optionally, can include an icon. All options ne
 
 | Visual | Name | Description |
 | :--- | :--- | :--- |
-| ![](../../.gitbook/assets/form_input_checkbox.png) | Standard |  |
+| ![](../../.gitbook/assets/form_input_checkbox-3.png) | Standard |  |
 | ![](../../.gitbook/assets/form_input_checkbox_checked.png) | Checked |  |
 | ![](../../.gitbook/assets/checkbox-disabled-state-small.png)  | Disabled |  |
 |  | Error |  |
