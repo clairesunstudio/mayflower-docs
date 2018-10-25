@@ -12,14 +12,13 @@
 
 ### Usage
 
-Texta font has the following font weight options:
+We use the following styles of Texta in Mayflower:   
 
-| Font weight | Specs |
-| :--- | :--- |
-| Light | 300 |
-| Medium | 500 |
-| Bold | 700 |
-| Black | 800 |
+| Font weight name | Specs | Usage |
+| :--- | :--- | :--- |
+| Book | 400 | Default regular weight |
+| Medium | 500 | Mid weight |
+| Bold | 700 | Default bold weight |
 
 All font files can be downloaded either from the [**Mayflower Github repo**](https://github.com/massgov/mayflower/tree/develop/assets/fonts) or from the [**Mayflower NPM package**](https://unpkg.com/@massds/mayflower@6.0.0/fonts/). Please read the web font [**web font license**](https://www.fontspring.com/lic/htswufoczd)**.**
 
