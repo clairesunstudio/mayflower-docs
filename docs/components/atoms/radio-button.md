@@ -12,9 +12,9 @@ This is a unit to present a radio button. Each radio button needs its label to d
 
 | Visual | Name | Description |
 | :--- | :--- | :--- |
-| ![](../../.gitbook/assets/form_input_radio.png) | Standard |  |
-| ![](../../.gitbook/assets/form_input_radio_checked.png) | Checked |  |
-| ![](../../.gitbook/assets/radio-button-disabled-small.png)  | Disabled |  |
+| ![](../../.gitbook/assets/form_input_radio%20%282%29.png) | Standard |  |
+| ![](https://github.com/massgov/edit-mayflower-docs/tree/2722edcc01f5369d927910b639e6360875d1a97e/docs/.gitbook/assets/form_input_radio_checked.png) | Checked |  |
+| ![](../../.gitbook/assets/radio-button-disabled-small%20%281%29.png) | Disabled |  |
 |  | Error |  |
 |  | Focus |  |
 
